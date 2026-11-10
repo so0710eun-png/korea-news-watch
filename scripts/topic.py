@@ -25,7 +25,7 @@ STOP_BIGRAMS = {
 
 NK_RE = re.compile(
     r"North Korean?s?|Pyongyang|Kim Jong[- ]?Un|DPRK|北朝鮮|金正恩|平壌|朝鲜|平壤|"
-    r"Triều Tiên|Bình Nhưỡng|Kim Jong-un|북한|김정은|평양",
+    r"Triều Tiên|Bình Nhưỡng|Kim Jong-un|북한|김정은|(?<!태)평양",  # '태평양'은 제외
     re.IGNORECASE,
 )
 SK_RE = re.compile(r"Korea|Seoul|Busan|韓|ソウル|韩|首尔|Hàn Quốc|한국|남한|서울", re.IGNORECASE)

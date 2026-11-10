@@ -1,24 +1,6 @@
 {
- "updated": "2026-11-10T03:30:05+00:00",
+ "updated": "2026-11-10T03:40:55+00:00",
  "articles": [
-  {
-   "id": "85310377205753c7",
-   "url": "https://www.cnn.com/specials/asia/north-korea?utm_source=section",
-   "title": "North Korea",
-   "source": "CNN Asia",
-   "country": "US",
-   "published": "2026-11-10T03:30:05+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
-  },
-  {
-   "id": "259985045e6850b7",
-   "url": "https://www.cnn.com/2013/10/29/world/asia/north-korea-nuclear-timeline---fast-facts/index.html",
-   "title": "North Korea Nuclear Timeline Fast Facts",
-   "source": "CNN Asia",
-   "country": "US",
-   "published": "2026-11-10T03:30:05+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
-  },
   {
    "id": "d0687040f04646d0",
    "url": "https://asia.nikkei.com/spotlight/supply-chain/integration-among-asean-china-japan-south-korea-boosted-by-ai-boom",
@@ -26,7 +8,11 @@
    "source": "Nikkei Asia",
    "country": "JP",
    "published": "2026-11-10T03:30:05+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "인공지능 붐에 힘입어 아세안, 중국, 일본, 한국 간의 통합",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "7c69f5de3ba1a478",
@@ -35,7 +21,11 @@
    "source": "The Washington Post",
    "country": "US",
    "published": "2026-11-10T03:13:59+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "탈북자들이 김정은의 딸을 후계자로 보는 방법",
+   "score": 3,
+   "reason": "키워드: 김정은",
+   "mode": "free"
   },
   {
    "id": "ebf56e14cd1428b1",
@@ -44,7 +34,11 @@
    "source": "AP News",
    "country": "US",
    "published": "2026-11-10T03:07:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "‘인간 위에 군림하는 신들처럼’: 많은 탈북자들은 북한 김정은의 딸을 후계자로 본다.",
+   "score": 5,
+   "reason": "키워드: 북한·김정은 / 다른 나라 보도: 중국·베트남",
+   "mode": "free"
   },
   {
    "id": "b7c6e767b4b41af1",
@@ -53,7 +47,11 @@
    "source": "VnExpress",
    "country": "VN",
    "published": "2026-11-10T03:00:19+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "북한, 불가사의한 어뢰 실험",
+   "score": 4,
+   "reason": "키워드: 북한 / 다른 나라 보도: 중국·미국",
+   "mode": "free"
   },
   {
    "id": "edb1f6f32efd0595",
@@ -62,7 +60,11 @@
    "source": "毎日新聞",
    "country": "JP",
    "published": "2026-11-10T02:42:39+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "저조한 경기력 탓에 팀도 탈퇴하고…… \"빨리 우승 티셔츠를 입어라! 한국 챔피언 캡틴 삼성의 일본 투수들에 대한 가슴 따뜻한 행동 (Sponici)",
+   "score": 3,
+   "reason": "키워드: 삼성",
+   "mode": "free"
   },
   {
    "id": "1ce052a9d9622a59",
@@ -71,16 +73,11 @@
    "source": "Thanh Niên Thế giới",
    "country": "VN",
    "published": "2026-11-10T02:38:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
-  },
-  {
-   "id": "eb4d643192f2567b",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4ybVN4bUNYTnU1cGNMeE9wUVRDanZwcmgtTWhVQ3NOUjNBR2Y3dVRKalVIMDMxa0hCWk9PemZuUktORXF0R2xXMkJzSDNuR2lXYXhFWkl2UmpESVRhZzAtWXFPS1B4WFh3?oc=5",
-   "title": "プレスリリース：アルパカ、韓国取引所上場デリバティブの提供に向けEugene Investment & Futuresと覚書を締結（PR TIMES）",
-   "source": "毎日新聞",
-   "country": "JP",
-   "published": "2026-11-10T02:23:19+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "북한은 새로운 어뢰를 발사하여 해군력을 지속적으로 강화하고 있다.",
+   "score": 4,
+   "reason": "키워드: 북한 / 다른 나라 보도: 중국·미국",
+   "mode": "free"
   },
   {
    "id": "ed56734be8b3e79d",
@@ -89,7 +86,11 @@
    "source": "VnExpress",
    "country": "VN",
    "published": "2026-11-10T02:23:07+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "예기치 않게 한국에서 수천 명의 방문객을 끌어들이는 북한 포병",
+   "score": 4,
+   "reason": "키워드: 북한 / 다른 나라 보도: 중국·미국",
+   "mode": "free"
   },
   {
    "id": "25950390c79f474f",
@@ -98,16 +99,11 @@
    "source": "毎日新聞",
    "country": "JP",
    "published": "2026-11-10T02:15:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
-  },
-  {
-   "id": "f9d3d7d87c2e76b9",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CbVpNUnNPWDA1RHRMTl9lR2RHT3pNeFFnMGhYSHBkYWFwa2o3SXBIbjBxbXVQRHZFRVRvX1pSN2RnMlBNbjRwSTE0YWxwWXd5ZGRRWFBMbmRkU0Fo?oc=5",
-   "title": "韓国の“バラードの皇帝”、『徹子の部屋』初出演 韓国での名声を捨てて日本デビューした苦労を明かす",
-   "source": "朝日新聞",
-   "country": "JP",
-   "published": "2026-11-10T02:15:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "오리콘 뉴스: 한국의 \"황제의 발라드\", \"테츠코의 방\" 첫 등장으로 한국에서 명성을 잃고 일본에서 데뷔하는 어려움이 드러남",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "6a6fba9e09e8c259",
@@ -116,7 +112,11 @@
    "source": "VOV.VN",
    "country": "VN",
    "published": "2026-11-10T01:42:07+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "11월 10일 아침 국제 뉴스: 러시아는 북한 미사일을 사용하여 우크라이나를 공격한 혐의를 받고 있습니다.",
+   "score": 5,
+   "reason": "키워드: 북한·미사일 / 다른 나라 보도: 중국·미국",
+   "mode": "free"
   },
   {
    "id": "23921dc9831165c2",
@@ -125,16 +125,11 @@
    "source": "Báo Thanh Niên",
    "country": "VN",
    "published": "2026-11-10T01:40:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
-  },
-  {
-   "id": "da95c5dabe35f5d6",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PSVVmUVVTdVRXNnFOUkV1ck9LQzdaUEVydkpzdUc0UlJFdXZ0LUxlVTB6S1pENl9UYjY2YWpRbUw1VlhpNmJadVNCSVJDS2p4R3h0azVqd1dfenVmSnFoTWRVcUdZdFky?oc=5",
-   "title": "プレスリリース：韓国発のアパレルブランド「I FEEL LUCKY（アイ・フィール・ラッキー）」と「THE BACKYARD FAMILIA（ザ・バックヤード・ファミリア）」が合同POP-UP開催！（PR TIMES）",
-   "source": "毎日新聞",
-   "country": "JP",
-   "published": "2026-11-10T01:23:14+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "2027년 새해 첫날 티켓을 예약하는 베트남 방문객이 급격히 증가하면서 한국이 갑자기 방문객을 유치했습니다.",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "fe298494388dfb95",
@@ -143,7 +138,11 @@
    "source": "Bloomberg.com",
    "country": "US",
    "published": "2026-11-10T01:06:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "북한, 내년 해군에 새로운 어뢰 배치 계획 추진",
+   "score": 4,
+   "reason": "키워드: 북한 / 다른 나라 보도: 중국·베트남",
+   "mode": "free"
   },
   {
    "id": "01d0847bfb2b5f27",
@@ -152,7 +151,11 @@
    "source": "Bloomberg.com",
    "country": "US",
    "published": "2026-11-10T00:46:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "칩 메이커로 한국 주식 점프 딥 구매에 다시 포효",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "722c10872e7954ef",
@@ -161,7 +164,11 @@
    "source": "日本経済新聞",
    "country": "JP",
    "published": "2026-11-10T00:26:18+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "한국 증시는 급격한 반등을 시작해 일시적으로 미국 반도체 주식의 5.6% 를 기록했다.",
+   "score": 5,
+   "reason": "키워드: 반도체·증시 / 다른 나라 보도: 중국",
+   "mode": "free"
   },
   {
    "id": "c02afec6670b1fd9",
@@ -170,7 +177,11 @@
    "source": "ThePaper.cn",
    "country": "CN",
    "published": "2026-11-10T00:22:13+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "한국 증시, 상승세 꺾여",
+   "score": 4,
+   "reason": "키워드: 증시 / 다른 나라 보도: 일본",
+   "mode": "free"
   },
   {
    "id": "1301b32d9ab0e938",
@@ -179,7 +190,11 @@
    "source": "毎日新聞",
    "country": "JP",
    "published": "2026-11-10T00:07:52+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "필리스는 \"한국에서 가장 강력한 내야수\" \"부활 후보와 보험\" 에 관심이 있으며 US News Turner는 방어하기 어렵고 \"조건을 충족\" (Sponici)",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "b8df6d4df2dc3a51",
@@ -188,7 +203,11 @@
    "source": "Báo VietNamNet",
    "country": "VN",
    "published": "2026-11-09T23:30:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "기계공학과 교수 서울대학교 총장으로 선발",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "17631fa316c075ae",
@@ -197,7 +216,11 @@
    "source": "South China Morning Post",
    "country": "CN",
    "published": "2026-11-09T23:15:11+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "서울 도심의 산길로 관광객이 몰리면서 K-하이킹 트렌드가 최고조에 달합니다.",
+   "score": 1,
+   "reason": "연예·스포츠·생활 기사",
+   "mode": "free"
   },
   {
    "id": "bf99695b69257999",
@@ -206,7 +229,11 @@
    "source": "Bloomberg.com",
    "country": "US",
    "published": "2026-11-09T22:00:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "Tourist Outlays 국내 소비가 둔화됨에 따라 한국 리테일 리프트",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "e001576e9cbcaa56",
@@ -215,16 +242,11 @@
    "source": "毎日新聞",
    "country": "JP",
    "published": "2026-11-09T21:30:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
-  },
-  {
-   "id": "4dbcd376c83a2ed0",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1WUhldC1MdDcxMVVTakFrcDZnUkdfWmtXdDdud3U3aDM2UUs2RjVONTNEbERtdHVNTXNBWmNjeWs4aDloeUQ2SHRER1IyTTN4WUlyRTNlMnJMQ01m?oc=5",
-   "title": "Aぇ! group、韓国ロケで最新メイクに挑戦 仕上がりに感動「自分の顔じゃないみたい」",
-   "source": "朝日新聞",
-   "country": "JP",
-   "published": "2026-11-09T21:30:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "오리콘 뉴스: A! 그룹, 한국 위치에서 최신 메이크업 인상적 \"내 얼굴 같지 않아\"",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "b95ca281f919b7bd",
@@ -233,7 +255,11 @@
    "source": "日経クロステック",
    "country": "JP",
    "published": "2026-11-09T20:00:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "이번 전시회에서는 한국의 인공지능 전략의 최신 성과가 전시되었고, DC용 냉각시스템과 군용 드론도 전시되었다.",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "8a9147fdaf28c869",
@@ -242,7 +268,11 @@
    "source": "読売新聞",
    "country": "JP",
    "published": "2026-11-09T20:00:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "Shimin/Aso 부사장, 최근 몇 년간 한일 관계 개선은 \"놀랍다\" … 다카이치 총리는 \"중요한 이웃\"",
+   "score": 3,
+   "reason": "키워드: 총리",
+   "mode": "free"
   },
   {
    "id": "5d128a42a710bb2e",
@@ -251,7 +281,11 @@
    "source": "毎日新聞",
    "country": "JP",
    "published": "2026-11-09T17:01:01+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "KOGEI!: 한국과 일본의 하얀 도자기 = Kazuko Gaitan",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "09bf6ec9e52d4e87",
@@ -260,7 +294,11 @@
    "source": "日本経済新聞",
    "country": "JP",
    "published": "2026-11-09T17:00:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "기무타쿠 \"사란헤요\" 가 한국에서 일본인의 사랑과 호감을 전파, 역대 최고 기록",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "7495649b500263db",
@@ -269,7 +307,11 @@
    "source": "Báo VietNamNet",
    "country": "VN",
    "published": "2026-11-09T12:10:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "한국 관광객들이 북한 무기를 보기 위해 국경으로 몰려들고 있다.",
+   "score": 4,
+   "reason": "키워드: 북한 / 다른 나라 보도: 중국·미국",
+   "mode": "free"
   },
   {
    "id": "1334d6cd2b63956c",
@@ -278,16 +320,11 @@
    "source": "毎日新聞",
    "country": "JP",
    "published": "2026-11-09T11:35:12+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
-  },
-  {
-   "id": "65c6538218e82932",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nTktOVUhPNXE5Ym04MUMtZ1hXemtQOFFBQUlIeWlJeTFFbkJBSEJlQlpIcERnMk1EVG13U1RNdno0a1RiREs3aWJGcVpPLWlmcjJ0ZmwzUFlWMDVR?oc=5",
-   "title": "NEXZ、韓国の音楽授賞式『KGMA』で2年連続の快挙 ソーラン節、世界各国の“ありがとう”など愛嬌も抜群",
-   "source": "朝日新聞",
-   "country": "JP",
-   "published": "2026-11-09T11:35:12+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "오리콘 뉴스: NEXZ는 한국 음악 시상식 \"KGMA\", 전 세계의 \"감사합니다\" 등에서 2 년 연속 소란 축제를 축하합니다.",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "bc120b8daf00f78e",
@@ -296,7 +333,11 @@
    "source": "Tuổi Trẻ",
    "country": "VN",
    "published": "2026-11-09T11:11:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "연말에 중국, 한국, 일본을 방문하는 베트남 방문객이 급격히 증가했습니다.",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "5b51937e7c4a6f4a",
@@ -305,7 +346,11 @@
    "source": "NPR World",
    "country": "US",
    "published": "2026-11-09T10:47:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "한국 도시가 인공지능을 능가하기 위해 미국 대학으로 눈을 돌리는 이유는 무엇일까요?",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "2fd01f0961c2373c",
@@ -314,7 +359,11 @@
    "source": "毎日新聞",
    "country": "JP",
    "published": "2026-11-09T10:35:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "\"미나미다 미나미 변호사는 천재 피부\" 캐릭터 소개 · 린카 엔리 (린카 카키하라) 한국과 어떻게 다른가요? … 독특한 인사말 관심",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "63ae2c06a83749a7",
@@ -323,7 +372,11 @@
    "source": "朝日新聞",
    "country": "JP",
    "published": "2026-11-09T10:19:24+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "한국에서 온 \"노리X초콜릿\" 의 뜻밖의 조합! 최고의 푸드 브랜드가 시부야 스크램블 스퀘어에 도착합니다",
+   "score": 1,
+   "reason": "연예·스포츠·생활 기사",
+   "mode": "free"
   },
   {
    "id": "2bb9d50ab0666717",
@@ -332,7 +385,11 @@
    "source": "Bloomberg.com",
    "country": "US",
    "published": "2026-11-09T09:58:05+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "엔비디아 논란, 한국 이벤트를 혼란에 빠뜨리다",
+   "score": 3,
+   "reason": "민감 표현: 논란",
+   "mode": "free"
   },
   {
    "id": "6b273f91b49b2cae",
@@ -341,7 +398,11 @@
    "source": "央视网",
    "country": "CN",
    "published": "2026-11-09T09:32:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "[포지티브 파이낸스] 한국의 초등학교 입학률은 30만 명 미만 또는 내년에 최저치를 기록할 것으로 예상됩니다.",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "26fb07f2899865a0",
@@ -350,7 +411,11 @@
    "source": "日本経済新聞",
    "country": "JP",
    "published": "2026-11-09T09:30:29+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "니가타 및 쓰바메-산조 타운 공장, 한국 전시회 전시, 판매 채널 개발 및 고객 유치",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "eb19a170e840981e",
@@ -359,7 +424,11 @@
    "source": "日本経済新聞",
    "country": "JP",
    "published": "2026-11-09T09:22:05+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "11월 27일 이온몰 데이트에서 그랜드 오픈! 한국 화장품 셀렉트 숍 \"& choa!\"",
+   "score": 1,
+   "reason": "연예·스포츠·생활 기사",
+   "mode": "free"
   },
   {
    "id": "0a097efa3bc3956f",
@@ -368,7 +437,11 @@
    "source": "日本経済新聞",
    "country": "JP",
    "published": "2026-11-09T09:15:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "세키도 [9878]: 11월 27일 이온몰 데이트에서 그랜드 오픈! 한국 화장품 셀렉트 숍 \"& choa!\" 가 2026년 11월 9일 처음으로 도호쿠에 상륙했습니다 (적시 공개): 닛케이 기업 정보 디지털",
+   "score": 1,
+   "reason": "연예·스포츠·생활 기사",
+   "mode": "free"
   },
   {
    "id": "31706abbcdc60641",
@@ -377,7 +450,11 @@
    "source": "読売新聞",
    "country": "JP",
    "published": "2026-11-09T09:05:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "e스포츠 세계 챔피언 6회, 한국팀 \"T1\" 이 일본에 처음 온다... 12월 12일과 13일 오사카에서 열리는 팬미팅 이벤트 \"T1 Saga: Osaka\"",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "2fef973dd321f79a",
@@ -386,7 +463,11 @@
    "source": "VnExpress",
    "country": "VN",
    "published": "2026-11-09T08:54:49+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "연맹이 '저장' 버튼을 누르는 것을 잊었기 때문에 한국 사격 선수들이 세계 토너먼트를 놓치고 있습니다.",
+   "score": 1,
+   "reason": "연예·스포츠·생활 기사",
+   "mode": "free"
   },
   {
    "id": "e00cca46831ab561",
@@ -395,7 +476,11 @@
    "source": "Japan Times",
    "country": "JP",
    "published": "2026-11-09T08:40:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "한국의 군사 야망은 현실 점검을 받습니다.",
+   "score": 3,
+   "reason": "키워드: 군사",
+   "mode": "free"
   },
   {
    "id": "13378171fa7fd868",
@@ -404,7 +489,11 @@
    "source": "人民网",
    "country": "CN",
    "published": "2026-11-09T08:13:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "중국-한국 수소기술산업협력포럼, 한국-국제에서 개최",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "af2f2490c3bc83b5",
@@ -413,7 +502,11 @@
    "source": "CGTN",
    "country": "CN",
    "published": "2026-11-09T08:05:28+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "이란의 바가이 (Baghaei) 는 한국이 지역 해군의 존재를 계획하는 것에 대해 물었고, 서울이 제공할 수 있는 최선의 도움은 복잡한 문제에 개입하지 않는 것이라고 말했습니다.",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "aa89b2608a4016a6",
@@ -422,16 +515,11 @@
    "source": "朝日新聞",
    "country": "JP",
    "published": "2026-11-09T07:20:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
-  },
-  {
-   "id": "1e391cb0f832042a",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBacjJLSlJ3THJjNU8tNDJWNHdHcmZDMG94cklwRG40cXUzZGxCRkdtR0xTSnQ3QWtpQy1Tbnc1R0xJWC1YejBYYlUxRFl1WjdzZE9wUjN4SnpSRTJybHl2Sjd0cG9aWmVV?oc=5",
-   "title": "オリコンニュース：［あすから］T-ARAウンジョン＆キム・ジニョプ、嘘のせいで愛と人生がこじれてしまう… 韓国ドラマ『愛のクァベギ（原題）』放送スタート＜キャスト・あらすじ",
-   "source": "毎日新聞",
-   "country": "JP",
-   "published": "2026-11-09T07:20:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "[내일부터] 티아라 운종과 김진엽, 거짓 때문에 사랑과 삶 얽혀… 한국 드라마 '콰베기 (원제목)' 방송 시작",
+   "score": 1,
+   "reason": "연예·스포츠·생활 기사",
+   "mode": "free"
   },
   {
    "id": "66adf1910991e0f0",
@@ -440,7 +528,11 @@
    "source": "Báo Dân trí",
    "country": "VN",
    "published": "2026-11-09T07:16:43+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "수천 명이 북한의 무기를 구경하기 위해 남한 국경으로 몰려듭니다.",
+   "score": 4,
+   "reason": "키워드: 북한 / 다른 나라 보도: 중국·미국",
+   "mode": "free"
   },
   {
    "id": "66fc2537aa76b248",
@@ -449,7 +541,11 @@
    "source": "人民网韩国频道",
    "country": "CN",
    "published": "2026-11-09T07:05:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "혼자 사는 중년 한국인의 곤경이 우려된다.",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "e136390fd84cd5ac",
@@ -458,16 +554,11 @@
    "source": "朝日新聞",
    "country": "JP",
    "published": "2026-11-09T06:56:24+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
-  },
-  {
-   "id": "fa7f8ba8988595f9",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVMzF3YmpWaG5oSVJhM3N5X3p3aUduWmVJR002d2VTX2xKWWRKUUZPWEJwOGt2WEwwYUZTQXJSdlRURFdFdUI0TVFTYnl2enloM2ZVQmFTWXlWN1dBYk42UTQwbXU0dVZM?oc=5",
-   "title": "プレスリリース：［最大88%OFF］韓国発インテリアアプリOhouse、ブラックフライデーを11月16日（月）より開催。毎日12時の日替わりラグ特価や初回20%OFFの本リリース限定コードも（PR TIMES）",
-   "source": "毎日新聞",
-   "country": "JP",
-   "published": "2026-11-09T06:53:05+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "Axcelis, 한국 히라사와에 신규 제조 시설 건설 착수",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "11bae92691742224",
@@ -476,7 +567,11 @@
    "source": "日本経済新聞",
    "country": "JP",
    "published": "2026-11-09T06:46:56+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "9일 한국 증시는 3일째 하락세를 이어갔고, 9개월 만에 처음으로 저렴한 가격에 외국인 투자자들의 매출이 부담스러웠다.",
+   "score": 5,
+   "reason": "키워드: 증시·투자 / 다른 나라 보도: 중국",
+   "mode": "free"
   },
   {
    "id": "5edfd591066d8ee7",
@@ -485,7 +580,11 @@
    "source": "SCMP Asia",
    "country": "CN",
    "published": "2026-11-09T06:35:35+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "한국에서 의사가 살해당했다. 8년 후, ‘달라진 것은 없다’",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "0601debc2bd72c49",
@@ -494,7 +593,11 @@
    "source": "毎日新聞",
    "country": "JP",
    "published": "2026-11-09T04:52:29+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "반 아인신 씨가 타이거즈로 돌아왔습니다! 한신코치 은퇴→ 한국기아 가을캠프 수비강사 (스포니키)",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "1c9630eadb7f0724",
@@ -503,7 +606,11 @@
    "source": "Xinhua",
    "country": "CN",
    "published": "2026-11-09T04:36:30+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "S. 한국의 초기 실업보험금 10월 반등",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "1f87d47d7af60f05",
@@ -512,7 +619,11 @@
    "source": "中新网福建",
    "country": "CN",
    "published": "2026-11-09T04:22:32+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "한국인 유씨는 또한 \"나는 중국인이다\" 라고 언급하며, 대만의 민주주의적 \"신장 결핍\" 이 류웨이 디황 약을 복용한다고 비판했다.",
+   "score": 3,
+   "reason": "민감 표현: 비판",
+   "mode": "free"
   },
   {
    "id": "4cf6075fd2805060",
@@ -521,7 +632,11 @@
    "source": "朝日新聞",
    "country": "JP",
    "published": "2026-11-09T04:04:08+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "유토리, 10월 30일 시즈오카현 고텐바 프리미엄 아울렛에 첫 상설 매장 오픈",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "d463f2dac23884a1",
@@ -530,7 +645,11 @@
    "source": "日本経済新聞",
    "country": "JP",
    "published": "2026-11-09T03:52:21+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "상하이 증시 반등, 일본과 한국 주가는 투자자 심리 개선",
+   "score": 5,
+   "reason": "키워드: 증시·투자 / 다른 나라 보도: 중국",
+   "mode": "free"
   },
   {
    "id": "25b346ed08354d21",
@@ -539,7 +658,11 @@
    "source": "Thanh Niên",
    "country": "VN",
    "published": "2026-11-09T03:42:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "최신 베트남 U.19 일정: 한국, 중국, 타지키스탄",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "2810fcb0a759e63b",
@@ -548,7 +671,11 @@
    "source": "山东新闻",
    "country": "CN",
    "published": "2026-11-09T03:33:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "제9차 산둥-한국 경제통상협력교류회의 개회식 개최",
+   "score": 3,
+   "reason": "키워드: 경제",
+   "mode": "free"
   },
   {
    "id": "3fb35bcf5eac47b3",
@@ -557,7 +684,11 @@
    "source": "毎日新聞",
    "country": "JP",
    "published": "2026-11-09T03:30:17+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "한국의 최고 외야수, 쿠자크가 해외에 도전한다!? \"나도 미국 무대에...\" 33세의 넥은 한때 \"유망주\" (Sponici) 였다.",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   },
   {
    "id": "2dc0b40d92a64d41",
@@ -566,7 +697,11 @@
    "source": "SCMP Asia",
    "country": "CN",
    "published": "2026-11-09T00:58:17+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "수천 명이 남한 국경 공원으로 몰려와 북한 무기를 보기 드문 풍경",
+   "score": 4,
+   "reason": "키워드: 북한 / 다른 나라 보도: 미국·베트남",
+   "mode": "free"
   },
   {
    "id": "6802ba957dcc1353",
@@ -575,7 +710,11 @@
    "source": "VnExpress International",
    "country": "VN",
    "published": "2026-11-08T07:00:00+00:00",
-   "collected": "2026-11-10T03:30:05+00:00"
+   "collected": "2026-11-10T03:30:05+00:00",
+   "title_ko": "줄어들고 있는 한국 마을들이 한때 외면받았던 교도소를 유치하기 위해 경쟁합니다.",
+   "score": 2,
+   "reason": "한국 단순 언급",
+   "mode": "free"
   }
  ]
 }

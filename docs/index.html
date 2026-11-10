@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>해외 언론 속 한국</title>
+  <meta name="description" content="미국·일본·중국·베트남 주요 매체의 한국 관련 기사를 매일 모아 한국어로 요약합니다.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>해외 언론 속 한국</h1>
+      <p class="sub">미국·일본·중국·베트남 주요 매체의 한국 관련 기사 · 매일 오전 7시 갱신
+        <span id="updated"></span></p>
+    </div>
+  </header>
+
+  <nav class="tabs wrap" id="tabs" role="tablist"></nav>
+
+  <section class="controls wrap">
+    <input id="q" type="search" placeholder="키워드 검색 (제목·요약·매체)" aria-label="키워드 검색">
+    <div class="row">
+      <select id="period" aria-label="기간">
+        <option value="1">최근 24시간</option>
+        <option value="3">최근 3일</option>
+        <option value="7" selected>최근 7일</option>
+        <option value="30">최근 30일</option>
+        <option value="0">전체</option>
+      </select>
+      <div class="seg" role="group" aria-label="정렬">
+        <button data-sort="score" class="on">점수순</button>
+        <button data-sort="latest">최신순</button>
+      </div>
+    </div>
+    <p class="count" id="count"></p>
+  </section>
+
+  <main class="wrap" id="list"></main>
+
+  <footer class="wrap foot">
+    <p>요약과 점수는 기사 <b>제목과 RSS 소개문</b>만 보고 AI(Claude)가 만든 것입니다. 본문 내용과 다를 수 있으니 원문 링크로 확인해 주세요.
+      기사 저작권은 각 매체에 있으며, 이 사이트는 본문을 저장하지 않습니다.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

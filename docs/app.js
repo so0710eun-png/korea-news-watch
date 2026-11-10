@@ -70,8 +70,10 @@ function renderList() {
       <h2><a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${highlight(title, q)}</a></h2>
       <div class="score s${s}" title="한국 내 이슈 가능성">${s || "–"}<small>이슈</small></div>
       ${a.title_ko ? `<p class="orig">${highlight(a.title, q)}</p>` : ""}
-      ${a.summary?.length ? `<ul>${a.summary.map((l) => `<li>${highlight(l, q)}</li>`).join("")}</ul>` : `<p class="reason">AI 요약 대기 중</p>`}
-      ${a.reason ? `<p class="reason"><b>이슈 점수 ${s}</b> · ${highlight(a.reason, q)}</p>` : ""}
+      ${a.summary?.length
+        ? `${a.mode === "free" ? `<p class="label">RSS 소개문 (자동 번역)</p>` : ""}<ul>${a.summary.map((l) => `<li>${highlight(l, q)}</li>`).join("")}</ul>`
+        : (a.mode ? "" : `<p class="reason">처리 대기 중</p>`)}
+      ${a.reason ? `<p class="reason"><b>${a.mode === "free" ? "규칙 점수" : "AI 점수"} ${s}</b> · ${highlight(a.reason, q)}</p>` : ""}
     </article>`;
   }).join("");
 }

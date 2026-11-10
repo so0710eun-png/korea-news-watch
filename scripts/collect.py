@@ -12,7 +12,7 @@ from urllib.parse import urlparse
 
 import feedparser
 
-from feeds import EXCLUDE_HOST_PREFIXES, FEEDS, KOREA_RE
+from feeds import EXCLUDE_HOST_PREFIXES, EXCLUDE_TITLE_RE, EXCLUDE_URL_RE, FEEDS, KOREA_RE
 
 USER_AGENT = "Mozilla/5.0 (compatible; korea-news-watch/1.0; RSS reader)"
 MAX_AGE_DAYS = 3  # 이보다 오래된 기사는 무시
@@ -30,8 +30,15 @@ def strip_tags(text: str) -> str:
 
 
 def title_key(title: str) -> str:
-    """중복 판별용으로 제목을 단순화 (같은 기사가 여러 피드에 나올 때 대비)."""
-    return re.sub(r"\W+", "", title.lower())
+    """중복 판별용으로 제목을 단순화 (같은 기사가 여러 피드에 나올 때 대비).
+    'オリコンニュース：' 같은 앞머리와 '（スポニチ）' 같은 꼬리표는 떼고 비교합니다."""
+    t = re.sub(r"^[^：:]{1,12}ニュース[：:]", "", title.strip())
+    t = re.sub(r"[（(][^）)]{1,15}[）)]$", "", t)
+    return re.sub(r"\W+", "", t.lower())
+
+
+def is_excluded(title: str, url: str) -> bool:
+    return bool(EXCLUDE_TITLE_RE.search(title) or EXCLUDE_URL_RE.search(url))
 
 
 def entry_time(entry) -> datetime | None:
@@ -76,11 +83,11 @@ def collect_new(seen_urls: set[str], seen_titles: set[str]) -> list[dict]:
             else:
                 snippet = strip_tags(entry.get("summary", ""))[:400]
 
-            if not KOREA_RE.search(f"{title} {snippet}"):
+            if not KOREA_RE.search(f"{title} {snippet}") or is_excluded(title, link):
                 continue
 
-            published = entry_time(entry) or now
-            if published < cutoff:
+            published = entry_time(entry)
+            if published is None or published < cutoff:  # 날짜 없는 링크는 기사가 아닌 경우가 많음
                 continue
 
             key = title_key(title)

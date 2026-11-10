@@ -74,6 +74,7 @@ select {
 .score.s1 { background: var(--s1); color: var(--text); } .score.s2 { background: var(--s2); }
 .score.s3 { background: var(--s3); color: #1b1f24; } .score.s4 { background: var(--s4); } .score.s5 { background: var(--s5); }
 .score.s0 { background: var(--line); color: var(--muted); }
+.label { grid-column: 1 / -1; margin: 6px 0 -4px; font-size: 0.75rem; color: var(--muted); }
 .card ul { grid-column: 1 / -1; margin: 6px 0 0; padding-left: 18px; font-size: 0.9375rem; }
 .card li { margin: 2px 0; }
 .reason { grid-column: 1 / -1; color: var(--muted); font-size: 0.8125rem; margin: 4px 0 0; }

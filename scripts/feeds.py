@@ -80,3 +80,7 @@ KOREA_RE = re.compile("|".join(KOREA_KEYWORDS), re.IGNORECASE)
 
 # 같은 사이트라도 요리·게임·연예 섹션 같은 곳은 제외
 EXCLUDE_HOST_PREFIXES = ("cooking.", "game.", "career.", "ngoisao.", "cuoi.")
+
+# 기사가 아닌 것(보도자료, 특집 코너 페이지)은 제외
+EXCLUDE_TITLE_RE = re.compile(r"プレスリリース|PR TIMES|新闻稿|Thông cáo báo chí")
+EXCLUDE_URL_RE = re.compile(r"/specials/|/fast-facts/|---fast-facts")

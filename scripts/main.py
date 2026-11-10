@@ -17,7 +17,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from collect import collect_new, title_key  # noqa: E402
+from collect import collect_new, is_excluded, title_key  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 ARTICLES_FILE = ROOT / "docs" / "articles.json"  # 기사 기록 (사이트도 이 파일을 읽음)
@@ -48,7 +48,14 @@ def article_id(url: str) -> str:
 def main() -> None:
     now = datetime.now(timezone.utc)
     db = load_json(ARTICLES_FILE, {"updated": None, "articles": []})
-    articles: dict[str, dict] = {a["id"]: a for a in db["articles"]}
+    articles: dict[str, dict] = {}
+    seen_keys: set[str] = set()
+    for a in db["articles"]:  # 제외 규칙·중복 규칙이 바뀌어도 기존 기록에 다시 적용
+        key = title_key(a["title"])
+        if is_excluded(a["title"], a["url"]) or key in seen_keys:
+            continue
+        seen_keys.add(key)
+        articles[a["id"]] = a
     queue: dict[str, dict] = load_json(QUEUE_FILE, {})
     state: dict = load_json(STATE_FILE, {})
 
@@ -63,7 +70,7 @@ def main() -> None:
     def apply_results(ok: dict, failed: list[str]) -> None:
         for cid, ai in ok.items():
             if cid in articles:
-                articles[cid].update(ai)
+                articles[cid].update(ai, mode="ai")
             queue.pop(cid, None)
         for cid in failed:
             if cid in queue:
@@ -80,7 +87,7 @@ def main() -> None:
 
         client = anthropic.Anthropic()
     else:
-        print("※ ANTHROPIC_API_KEY 없음 → 수집만 하고 AI 처리는 건너뜁니다")
+        print("※ ANTHROPIC_API_KEY 없음 → 무료 모드(무료 번역 + 규칙 점수)로 처리합니다")
 
     # 1) 지난번 배치 결과 가져오기
     if client and state.get("pending_batch"):
@@ -106,10 +113,19 @@ def main() -> None:
             "published": item["published"],
             "collected": now.isoformat(timespec="seconds"),
         }
-        # 소개문은 AI 요약 재료로만 대기열에 잠시 보관 (처리 후 삭제)
-        queue[aid] = {**articles[aid], "snippet": item["snippet"], "attempts": 0}
+        if client:
+            # 소개문은 AI 요약 재료로만 대기열에 잠시 보관 (처리 후 삭제)
+            queue[aid] = {**articles[aid], "snippet": item["snippet"], "attempts": 0}
     print(f"  새 기사 합계: {len(new_items)}건 / AI 대기: {len(queue)}건")
     save_all()
+
+    # 3-무료) API 키가 없으면 무료 번역 + 규칙 점수
+    if not client:
+        print("[3] 무료 모드 처리")
+        from free_mode import enrich_free
+
+        snippets = {article_id(i["url"]): i["snippet"] for i in new_items if i["snippet"]}
+        enrich_free(articles, snippets, now)
 
     # 3) AI 처리
     if client and queue and not state.get("pending_batch"):
@@ -124,7 +140,7 @@ def main() -> None:
 
     save_all()
     done = sum(1 for a in articles.values() if "score" in a)
-    print(f"완료: 전체 {len(articles)}건 (AI 처리 완료 {done}건)")
+    print(f"완료: 전체 {len(articles)}건 (번역·점수 처리 완료 {done}건)")
 
 
 if __name__ == "__main__":

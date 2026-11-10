@@ -1,0 +1,46 @@
+# Runs every day at 07:00 KST (= 22:00 UTC). Can also be started manually from the Actions tab.
+name: Daily Korea news
+
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install packages
+        run: pip install -r requirements.txt
+
+      - name: Collect and summarize
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/main.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/articles.json data/
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update news $(TZ=Asia/Seoul date +'%Y-%m-%d %H:%M')"
+            git push
+          fi

@@ -138,9 +138,13 @@ def main() -> None:
             apply_results(*read_results(client, bid))
             state.pop("pending_batch")
 
+    # 4) 같은 이야기 묶기 → 화제성 점수, 한국/북한 분류
+    from topic import assign
+
+    assign(articles, now)
     save_all()
-    done = sum(1 for a in articles.values() if "score" in a)
-    print(f"완료: 전체 {len(articles)}건 (번역·점수 처리 완료 {done}건)")
+    clusters = {a.get("cluster") for a in articles.values() if a.get("cluster")}
+    print(f"완료: 전체 {len(articles)}건 / 이야기 묶음 {len(clusters)}개")
 
 
 if __name__ == "__main__":

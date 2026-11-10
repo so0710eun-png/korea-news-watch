@@ -3,20 +3,21 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>해외 언론 속 한국</title>
-  <meta name="description" content="미국·일본·중국·베트남 주요 매체의 한국 관련 기사를 매일 모아 한국어로 요약합니다.">
+  <title>외신 클리핑</title>
+  <meta name="description" content="미국·일본·중국·베트남 주요 매체가 본 한국과 북한. 매일 아침 외신 클리핑.">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header class="top">
     <div class="wrap">
-      <h1>해외 언론 속 한국</h1>
-      <p class="sub">미국·일본·중국·베트남 주요 매체의 한국 관련 기사 · 매일 오전 7시 갱신
+      <h1>외신 클리핑</h1>
+      <p class="sub">미국·일본·중국·베트남 주요 매체의 한국·북한 보도를 매일 아침 7시에 모읍니다
         <span id="updated"></span></p>
     </div>
   </header>
 
-  <nav class="tabs wrap" id="tabs" role="tablist"></nav>
+  <nav class="tabs wrap" id="tabs" role="tablist" aria-label="한국/북한"></nav>
+  <nav class="chips wrap" id="countries" aria-label="보도 국가"></nav>
 
   <section class="controls wrap">
     <input id="q" type="search" placeholder="키워드 검색 (제목·요약·매체)" aria-label="키워드 검색">
@@ -29,7 +30,7 @@
         <option value="0">전체</option>
       </select>
       <div class="seg" role="group" aria-label="정렬">
-        <button data-sort="score" class="on">점수순</button>
+        <button data-sort="heat" class="on">화제순</button>
         <button data-sort="latest">최신순</button>
       </div>
     </div>
@@ -39,9 +40,10 @@
   <main class="wrap" id="list"></main>
 
   <footer class="wrap foot">
-    <p>한국어 제목과 소개문은 무료 번역기로 자동 번역했고, 이슈 점수는 제목 키워드와 여러 나라 동시 보도 여부로 계산한 <b>참고용 규칙 점수</b>입니다
-      (Claude API를 연결하면 AI 요약·점수로 바뀝니다). 번역이 어색할 수 있으니 원문 링크로 확인해 주세요.
+    <p><b>화제</b> 점수는 같은 이야기를 보도한 매체 수와 나라 수로 매깁니다(키워드와 무관). 여러 매체의 같은 이야기는 카드 하나로 묶고 "관련 보도"에 모았습니다.
+      한국어 제목과 소개문은 무료 번역기로 자동 번역해서 어색할 수 있으니 원문 링크로 확인해 주세요.
       기사 저작권은 각 매체에 있으며, 이 사이트는 본문을 저장하지 않습니다.</p>
+    <p>☆ 버튼으로 저장한 기사는 <b>지금 쓰는 브라우저에만</b> 보관됩니다(다른 기기와 공유되지 않음). 인터넷 기록을 지우면 함께 지워질 수 있습니다.</p>
   </footer>
 
   <script src="app.js"></script>

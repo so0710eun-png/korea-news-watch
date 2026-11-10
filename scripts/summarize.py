@@ -1,4 +1,5 @@
-"""Claude API(배치 처리, 50% 할인)로 한국어 제목·3줄 요약·이슈 점수 만들기.
+"""Claude API(배치 처리, 50% 할인)로 한국어 제목·3줄 요약 만들기.
+(화제성 점수는 topic.py가 매깁니다.)
 
 API 키는 환경변수 ANTHROPIC_API_KEY 에서 자동으로 읽습니다 (코드에 넣지 않음).
 """
@@ -21,24 +22,15 @@ SYSTEM_PROMPT = """너는 해외 언론의 한국 관련 보도를 한국 독자
 출력 항목:
 - title_ko: 자연스러운 한국어 제목 번역 (원문의 뉘앙스 유지)
 - summary: 한국어 요약 정확히 3문장. 각 문장은 60자 이내. 정보가 부족하면
-  "원문 제목 외 세부 내용은 링크에서 확인 필요" 같은 문장으로 채운다.
-- score: 이 보도가 한국 국내에서 이슈(국내 언론 재보도·여론 반응)가 될 가능성, 1~5 정수
-  5 = 한국 정부·대통령·대기업·국민 정서를 직접 겨냥한 비판/평가, 외교·안보 갈등, 시장에 큰 영향
-  4 = 한국이 기사의 주인공이고 정책·경제·안보에 의미 있는 내용
-  3 = 한국이 주요 등장인물이지만 파급력은 보통 (문화·스포츠·일반 사건 등)
-  2 = 한국이 여러 나라 중 하나로 언급
-  1 = 한국이 지나가듯 언급
-- reason: 점수 이유 한 문장 (40자 이내)"""
+  "원문 제목 외 세부 내용은 링크에서 확인 필요" 같은 문장으로 채운다."""
 
 OUTPUT_SCHEMA = {
     "type": "object",
     "properties": {
         "title_ko": {"type": "string"},
         "summary": {"type": "array", "items": {"type": "string"}},
-        "score": {"type": "integer"},
-        "reason": {"type": "string"},
     },
-    "required": ["title_ko", "summary", "score", "reason"],
+    "required": ["title_ko", "summary"],
     "additionalProperties": False,
 }
 
@@ -109,10 +101,5 @@ def read_results(client: anthropic.Anthropic, batch_id: str) -> tuple[dict, list
             failed.append(cid)
             continue
         summary = [s.strip() for s in data.get("summary", []) if s.strip()][:3]
-        ok[cid] = {
-            "title_ko": data.get("title_ko", "").strip(),
-            "summary": summary,
-            "score": max(1, min(5, int(data.get("score", 1)))),
-            "reason": data.get("reason", "").strip(),
-        }
+        ok[cid] = {"title_ko": data.get("title_ko", "").strip(), "summary": summary}
     return ok, failed

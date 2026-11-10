@@ -22,7 +22,20 @@ body {
 }
 .wrap { max-width: 860px; margin: 0 auto; padding: 0 16px; }
 .top { background: var(--card); border-bottom: 1px solid var(--line); padding: 20px 0 14px; }
-h1 { margin: 0; font-size: 1.5rem; letter-spacing: -0.02em; }
+h1 { margin: 0; font-size: 1.6rem; letter-spacing: -0.03em; font-weight: 800; }
+.h1-sub { font-size: 0.95rem; font-weight: 500; color: var(--muted); margin-left: 6px; letter-spacing: 0; }
+.kicker { margin: 0 0 2px; font-size: 0.6875rem; letter-spacing: 0.14em; font-weight: 700; color: var(--accent); }
+.star {
+  border: 0; background: none; cursor: pointer; font-size: 1.25rem; line-height: 1;
+  color: var(--muted); padding: 2px 4px; margin-left: auto;
+}
+.star.on { color: #e0a800; }
+.saved-note { grid-column: 1 / -1; font-size: 0.75rem; color: var(--muted); margin: 4px 0 0; }
+.toolbar { display: flex; gap: 8px; margin: 0 0 10px; }
+.toolbar button {
+  border: 1px solid var(--line); background: var(--card); color: var(--text);
+  padding: 6px 12px; border-radius: 8px; font-size: 0.8125rem; cursor: pointer;
+}
 .sub { margin: 4px 0 0; color: var(--muted); font-size: 0.875rem; }
 #updated { white-space: nowrap; }
 
@@ -38,6 +51,21 @@ h1 { margin: 0; font-size: 1.5rem; letter-spacing: -0.02em; }
 .tabs button.on { background: var(--accent); border-color: var(--accent); color: #fff; }
 .tabs .n { opacity: 0.7; font-size: 0.8em; margin-left: 4px; }
 
+.tabs button { font-weight: 600; padding: 9px 18px; }
+.chips { display: flex; gap: 6px; overflow-x: auto; padding-top: 8px; scrollbar-width: none; }
+.chips::-webkit-scrollbar { display: none; }
+.chips button {
+  flex: 0 0 auto; border: 0; background: transparent; color: var(--muted);
+  padding: 5px 10px; border-radius: 6px; font-size: 0.875rem; cursor: pointer;
+}
+.chips button.on { background: var(--line); color: var(--text); font-weight: 600; }
+.tag { font-size: 0.6875rem; font-weight: 700; padding: 1px 6px; border-radius: 4px; color: #fff; }
+.tag.south { background: #2b5fd9; }
+.tag.north { background: #b2453c; }
+.related { grid-column: 1 / -1; margin-top: 6px; font-size: 0.875rem; }
+.related summary { cursor: pointer; color: var(--accent); font-size: 0.8125rem; }
+.related ul { margin: 6px 0 0; padding-left: 18px; font-size: 0.875rem; }
+.related a { color: var(--text); }
 .controls { padding-top: 10px; }
 #q {
   width: 100%; padding: 11px 14px; font-size: 1rem; border-radius: 10px;

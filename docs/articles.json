@@ -1,6 +1,573 @@
 {
- "updated": "2026-11-10T03:57:22+00:00",
+ "updated": "2026-11-10T22:27:04+00:00",
  "articles": [
+  {
+   "id": "5185189daa79aecb",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ocXpGZE1McDY5Sk1tWEdKWjh3X1BBTFdNZUdsaWJoSVdQUExrQlcyTDNtTGoxQ0JpdkFyck0xRGNJUGUyY0Y4MkFTcE5NeWNocElFZHlSS004SlN1?oc=5",
+   "title": "今田美桜＆チ・チャンウク、日本と韓国…すれ違った2人はどうなる？「メリーベリーラブ」第6話今夜",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-10T21:00:03+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "이마다 미사쿠라 & 지창욱, 일본과 한국… 엇갈린 2명은 어떻게 된다? '메리베리 러브' 6화 오늘밤",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5185189daa79aecb",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "e3796d481c436a27",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13ZTRmV1V3X09oN0c4S2Q2Y0RuZHMzNUJkWmNHd2ZtZlczQWZCa3I3el9rbTE2RGd0VUo1eXN4LTJMa015TlhHazhnaTV0Z05FN2lqQU0xNG1aelp0RWVZNFNFNkFvMjRh?oc=5",
+   "title": "韓国と台湾のチア 内野席に設置したステージ上で応援活動 アジアプロ野球CS（スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-10T20:00:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "한국과 대만의 치아 내야석에 설치한 스테이지상에서 응원 활동 아시아 프로야구 CS(스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "958caaa74befa517",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMbDZhdVZHejlYM29UZ0FNTmMtd3pDYmE4X3VsdHRpU0Q1WS1haC1XTkpNTFBSSGZhWWR4VFo3Ti10VHlTbEY2TnlxLUl6VUw2RTVONEtNOHowWTV3TVk2d1dUbnBDNkl1?oc=5",
+   "title": "韓国：韓国 船舶護衛範囲を拡大",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-10T17:00:47+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "한국 : 한국 선박 호위 범위 확대",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "ce5d98e00a623609",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "28646c57dabb2d45",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZQ21pWkFpT24yeUw4OEtMeVVCcHlBTF9YSTlWc3RfbFBtQzJldVFuaVNVNnUwTFduaHBxRlc2bmpROW9NdjNwa0s1UVBGT1JMeHV3ZlpNM1h3aS1veURnOEtOLXptallEN3R4ZQ?oc=5",
+   "title": "韓国の親世代「日本の女性と結婚を」 Z世代の交流で変わる意識",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-10T17:00:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "한국의 부모 세대 「일본의 여성과 결혼을」 Z세대의 교류로 바뀌는 의식",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "28646c57dabb2d45",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "3d6c306d5524de0d",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0VqUVpUb25aalRvM01YbjNCbGxZckJDOXdubFdaTWZKMU9vVjlabHNkYWFDaHBobWhpU3lBVlV0NGhXU1FFMDU0VXE1Qjlwa0ZtOWxCU1NxUVlGT05pRWRRYzNGRDk4dEFnb0trbTJJZXQzOUVnQ2djVUhLY0pBTjVXZ2xzcDNhWTRTdVJBZGw1Q3lOQ1Q2VVg0QQ?oc=5",
+   "title": "Cựu quan chức tình báo Hàn Quốc nói về bê bối tình ái của CEO Nvidia",
+   "source": "Báo VietNamNet",
+   "country": "VN",
+   "published": "2026-11-10T15:34:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "전 국정원 관계자, 엔비디아 CEO의 연애 스캔들에 대해 이야기하다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "3d6c306d5524de0d",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "1f1e719090391228",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IR2FkM3RPbk9lMXAydEVQSk1PdUpPRmNvV095YnFjenRRV2pocm5PdTh1UmJzLURjWEN4emFBN2lFUFdxZzI5ODgxRFk3bjBnVl9QbFI2M1I3dmcwN0hMa1hIWVhaR3hP?oc=5",
+   "title": "韩国拟扩大派驻亚丁湾部队任务区域",
+   "source": "中国新闻网",
+   "country": "CN",
+   "published": "2026-11-10T14:10:52+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "한국, 아덴만에 주둔하는 국군의 임무지역을 확대할 계획",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "1f1e719090391228",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "56b56a601d8d4a8a",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUo1eDU2MG41UWoya2pKX3lSZU90NnZsMkRHREJKN3JMTnNPcHBvTEdwNDNFanNZSVZMZGdfZzNLMHZ1QkJxT1E1Y0dKbmhFVGlFbnRZZWp6Ml9XbW0xUmkxWTRqbWRhdUVLNVJFRjc2TmVvTFpRR1UtVjNpQWNvU0x3SmRZbk9jLWNlb0lmY1JKMVZ6enZOVS1lWGIta2RUb1ptbDUyMFAwcmFyNzlvMDJB?oc=5",
+   "title": "Turkey Nears New Nuclear Power Deal, Favors Canada and South Korea",
+   "source": "Bloomberg.com",
+   "country": "US",
+   "published": "2026-11-10T13:29:12+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "터키, 새로운 원자력 협정 임박, 캐나다와 한국 선호",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "56b56a601d8d4a8a",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "75cc35b63ba522fc",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52UDVlUTFpZlZ6QzVyRFlQVGFlcXA3Uk1Vd2NqRXdYUHpGZy13S0FtcUVDYlMwTkNWbEZ0aFBvR0NmbGV1b09QV1hkbjd2Q2NWMHhfbHB5bXVsaGJOWndIT3dDaTBscnE1VzdxTmluWC1FWU9z?oc=5",
+   "title": "【水戸】韓国ボイン高から18歳DF加入内定｢胸が高鳴っています｣",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-10T12:12:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "【미토】한국 보인 높이에서 18세 DF 가입 내정 「가슴이 고명하고 있습니다」",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "75cc35b63ba522fc",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "ce5d98e00a623609",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJZGE1MXJSeW1rTVloaGloRUtxd1h5YWdsamM5c25UT3hQWHhVS0d1eHZyT2RocDZyT0tUS0dxb2xpVjVQR1JZOXhxY3lBcUFrWGpnOFltN0xiLTRCVjF3MC1YZGZDM2gt?oc=5",
+   "title": "韓国政府、アデン湾部隊の活動範囲を拡大 ホルムズ海峡は避ける",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-10T11:31:07+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "한국 정부, 아덴만 부대의 활동 범위 확대 호름스 해협은 피한다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "ce5d98e00a623609",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "d863c4fe5ed3e2e3",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12X200eGhfYjc5bk90RnhYdV9xVW9PTEl4RXM0U1NQd09fbm9iUnBHRlZNQjhJOVROdVdVdkZrNHNnWmtuaGUwUGRUX2FtZlpyVEVEbW5KSDgxTHdIUmpOQ21oUENEZW1qbHl3RmhBNDBQZk5sUGdvenRRa3k4b0k?oc=5",
+   "title": "江苏扬州：散货船“伯明翰”轮出口韩国",
+   "source": "新华网",
+   "country": "CN",
+   "published": "2026-11-10T11:05:19+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "장쑤성 양저우: 벌크선 '버밍엄호' 한국 수출",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "d863c4fe5ed3e2e3",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "56d19b6713b0a334",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQajA3MDg3VDBUZkwzck1acHl3ajVWd2EwMkhQdDRIQU1sOTc0X0NKTmRRR3B1dEtpM2lEcWU5dGVGQjhFOHA0YTAtTUlpb2h2cE5HT0dJZERYbGJ5V2ViS0NFbjZCTS11d3Y0a1h2MUpDSlRyRHlfdU02cXNnd0Y2V2RuNjJxdlFPUzI4OW1tSXNmR3l1TVpncFh6SXFibnVRZ0poNkZoWjhJTEFJ?oc=5",
+   "title": "Nghịch lý ở Hàn Quốc: Tỉ lệ sinh chạm đáy, đồ trẻ em vẫn 'hái ra tiền'",
+   "source": "Tuổi Trẻ",
+   "country": "VN",
+   "published": "2026-11-10T10:37:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "한국의 역설: 출산율이 바닥을 치고, 유아용품은 여전히 ​​돈을 벌고 있다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "56d19b6713b0a334",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "1265d401bbaf9dce",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmVFQXBCVFBzRFJUREF5b2stZVNwVFgyRW50dG01NDRBM09meks2ZXRSNjlTd2ZMRkJWM25pMXRfcDdDRjZMLXF1V1Nhak5oS2poYmZ4V0E1azNpOVhnS1BycW4zdEFVSktSVzlXZVdIdEVzWnlWN21tbmt1ekZ5ZmNERWZfZU03d2xhS3c4bjdVaGVoQ0g3T2hMWGFsRHlMV1g4alY3S2szUy1CZDdDZA?oc=5",
+   "title": "Cây ngân hạnh 1.300 năm tuổi của Hàn Quốc trút sạch lá chỉ trong 2 giờ",
+   "source": "Tuổi Trẻ",
+   "country": "VN",
+   "published": "2026-11-10T10:34:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "수령 1300년 은행나무, 단 2시간만에 잎이 다 떨어졌다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "1265d401bbaf9dce",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "1ed4c692eea06401",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aWXJmbW1JY3ZhbEdtdy1keG9lZU1iVG9HSzg3dFpUZ1dHUUctQ0c5MlVSM2FhVnp1Y1RpM2NNTmpKVHhwT1hpZnNLMGhKRnVSUUhsdVppeHh5WjZHTmNWQmJ4VzUzMFIxSXFETw?oc=5",
+   "title": "シンガポール株10日、反発 日韓株上昇で心理改善",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-10T09:33:10+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "싱가포르 주식 10일 반발 한일주 상승으로 심리 개선",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "1ed4c692eea06401",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "808abbc89e56d118",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qSXZYbHg3R3RrOXpnVnRFMFFsc2d0aXVKU1gzVzlJcWZBTi1Mb0xFbkwyUmI3LTJQNEFQXzNjdlBpcEtMcFdQT1ZaMFBFV0RQa0JpYVI3Z0lreDdVVDVuYzltRTYwaktL?oc=5",
+   "title": "山口もえ｢お仕事でした｣韓国訪問ショット公開｢ただ自由時間が全くなかった！｣裏話も",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-10T09:16:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "야마구치 모에「일했습니다」한국 방문 샷 공개 「그냥 자유 시간이 전혀 없었다!」",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "808abbc89e56d118",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "191e87247465bc6c",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YZDRtSmFMSTRTTFZXeVg0cHNxeTN0TzlNN05VejBoRTdiU2VYTlAwOEdZeWttSmtpT01nRTB6eWR6VVV2cWQ2TmVwOHNaYmZ1aXNSckFJTTZSVVU4LVl1S0FBaVpIbDdjLWptSmhwTGx5MTQ?oc=5",
+   "title": "Yantai deepens economic ties with South Korea",
+   "source": "China Daily",
+   "country": "CN",
+   "published": "2026-11-10T09:11:15+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "옌타이, 한국과 경제협력 심화",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "191e87247465bc6c",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "3c59c3d94bd52585",
+   "url": "https://www.scmp.com/week-asia/politics/article/3373911/nvidias-jensen-huang-scandal-casts-shadow-over-south-koreas-chip-bromance",
+   "title": "Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’",
+   "source": "SCMP Asia",
+   "country": "CN",
+   "published": "2026-11-10T09:00:17+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "Nvidia의 Jensen Huang 스캔들은 한국의 칩 '브로맨스'에 그림자를 드리웁니다.",
+   "summary": [
+    "한국은 엔비디아 CEO 젠슨 황이 중국 스파이로 의심되는 여성과 불륜을 저질렀다는 의혹에 대한 우려가 커지고 있습니다. 이 스캔들이 글로벌 AI 공급망을 혼란에 빠뜨리고 한국의 반도체 챔피언에 대한 미국의 수출 통제를 더욱 엄격하게 촉발할 수 있다는 우려가 있습니다. 매우"
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "3c59c3d94bd52585",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "06db39f81c18dc54",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPQkpuTWRSSnVHbFZpMjhJX0ZqZjlSc0ZqVUtyenI0LWNFWFpUU0Y1dmRUVTFJWE04aHg2c2E2UlJpbE1XbmFJMU4yZ3lqV1BmSjFxdEVFVTVDQVhj?oc=5",
+   "title": "イ・ミンギら出演『クラッシュ2：怒りのロード』、U-NEXTで日韓同時配信決定 NCT・チソンは新人巡査役で新しい風を吹き込む＜キャスト・あらすじ＞",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-10T09:00:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "이민기 등 출연 '크래시 2 : 분노의 로드', U-NEXT로 한일 동시 전달 결정 NCT 지성은 신인 순사역으로 새로운 바람을 불어넣는 <캐스트·소식>",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "06db39f81c18dc54",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "f4e4b72ba5a51311",
+   "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3373933/eurovision-makes-historic-asian-debut-will-gen-z-fans-tune",
+   "title": "Eurovision makes historic Asian debut, but will Gen Z fans tune in?",
+   "source": "SCMP Asia",
+   "country": "CN",
+   "published": "2026-11-10T08:46:45+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "Eurovision이 역사적인 아시아 데뷔를 하지만 Z세대 팬들이 시청할 수 있을까요?",
+   "summary": [
+    "아바(Abba), 셀린 디온(Celine Dion), 올리비아 뉴튼 존(Olivia Newton-John) 등을 세계 무대로 선보인 라이브 노래 콘테스트인 유로비전(Eurovision)은 한국, 방글라데시, 말레이시아, 태국, 베트남 등의 가수들이 참여하는 가운데 이번 주말 방콕에서 아시아 데뷔를 앞두고 있다. 11-cou의 주최자"
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "f4e4b72ba5a51311",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "a5ab888d3dadda0e",
+   "url": "https://www.japantimes.co.jp/commentary/2026/11/10/japan/japan-us-losing-south-korea/",
+   "title": "Are Japan and the U.S. losing South Korea as an ally?",
+   "source": "Japan Times",
+   "country": "JP",
+   "published": "2026-11-10T08:46:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "일본과 미국은 동맹국인 한국을 잃고 있는가?",
+   "summary": [
+    "정보 문제에 있어서 한국 정부에 대한 워싱턴의 신뢰는 점점 더 취약해 보인다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "a5ab888d3dadda0e",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "d21a4a2f2f448be8",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHSHlyaFhKY1JMZXMxaUNIOE8weF9NM3pxRmpRXy01cENWNXI1bjMwWlhtNTlzbGlIT1N1Ni1DRGtiUm8tVVFZNkhLYndudzhtTkVvZUw2anZOX2NIX0JQRUdndGZyd2py?oc=5",
+   "title": "ソン・シギョン 韓国でのおいしい料理店の見分け方とは 日本との違い解説に黒柳徹子興味津々 （スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-10T08:42:24+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "송시경 한국에서의 맛있는 음식점의 구별 방법과는 일본과의 차이 해설에 쿠로야나기 테츠코 흥미진진 (스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "d21a4a2f2f448be8",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "550be0eaeda7edd6",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95VTZ4aXFid21vbDR0Um0ybFNfQlRMcEY4Y1ZyclQ5YzhGRW1LaFdKeEdKQ1ZVamFvUUZnQTRCRTRSR3l4dGZ2Z2tPZXhranN6S0p2U3NUTEw4cWc?oc=5",
+   "title": "Samsung、大英博物館で「Korea」展の開幕を記念しLee Kun-Heeコレクションで韓国美術の歴史を紹介",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-10T08:18:34+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "삼성, 대영박물관에서 '한국'전의 개막을 기념해 이군희 컬렉션에서 한국미술의 역사를 소개",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "550be0eaeda7edd6",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "c2e6176300ce1051",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55S1JsMGV6Q0ExbUpKTEZtVi1JZ0t0ODZEdV9Fck0ta0hITEN6SWp6d0ZfS3hWazNtYTRsdWR4M2d4Z1RzZGNXSXcyeENQWWpteFFncGNCQ3dteGhlTUlVRVowajNSSzZZcm4yLWpKY2lXYkFG?oc=5",
+   "title": "台湾、韓国のチア｢応援ステージ｣で盛り上げる NPBエンタープライズ発表",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-10T08:11:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "대만, 한국의 치아 「응원 스테이지」로 북돋우는 NPB엔터프라이즈 발표",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "c2e6176300ce1051",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "de9ba734505f3052",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNHVXQ1pOTGJHWHVBYzd1R3ZxN01RNlhZSmRlbWdQdktPN0Q0Q0doZzZ3QXJXc3QxTk9MNWlicU1CaHAzc3hiNGlvWldIOHN3QXRGdFdZcWtGRWdCY2cxcFBnX3Joc3NkcG1qSU03cmFhZ0MtODNhMkhZQVNsRHVKQ3dfalpEZG4waXgydEdwWlY0LWhIdnJaaEtGT2Y0MVFPc0gyTXBrWQ?oc=5",
+   "title": "U19 Hàn Quốc triệu tập dàn cầu thủ từ châu Âu về đấu U19 Việt Nam",
+   "source": "VOV.VN",
+   "country": "VN",
+   "published": "2026-11-10T08:00:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "U19 한국, U19 베트남 경기 위해 유럽 선수 소환",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "de9ba734505f3052",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "9b5072d13dbcbe1f",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43dVd3QmlWTFBvM2UybTZFTWx2MUp2S1FzRmRHMm9jZWRRcWgwbHVDZWZGdUFFUnVzNUcxYzhhTjFxSV95VnFyTUt6RUJ0bV92cFBlNTJwd052blI4UnhXSV9tTHRDc3Fx?oc=5",
+   "title": "黒柳徹子 お気に入りの日本語表現に嘆き「今あんまりみんな使わない」人気韓国人歌手にレッスン（スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-10T07:48:04+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "쿠로야나기 테츠코 좋아하는 일본어 표현에 슬픔 「지금 그렇게 모두 사용하지 않는다」인기 한국인 가수에 레슨(스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "9b5072d13dbcbe1f",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "4b9f0b2eda57ec62",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tWEMyQlZmTnQ4YkF6eXhxQ0RZN25nQUN0STZSZnF3ZVl2V05uVHBKWkVPZnhpTUVwaUFPZ25ENGVHamFBb3p0VXhBU3hwRGxKRUpBbzQ4a0pyNXZK?oc=5",
+   "title": "【あすから】ナムグン・ミン、黒幕に復讐する“天才医師”に 韓国ドラマ『ドクタープリズナー』放送スタート＜キャスト・あらすじ＞",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-10T07:40:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "[내일부터] 남근민, 흑막에 복수하는 “천재 의사”에 한국 드라마 '닥터 프리즈너' 방송 스타트",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "4b9f0b2eda57ec62",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "d376dd4d3e1490ca",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNaFEyVUFGcW96NTI1NUNJUFZXa1RUalNFMS1QVjA3ajFjc24xemRtdDgyVUN5SU5aWGlad1hYR29fWnppdGlmYlpWM1dyZnNIdENpVGNRZnpiMFlU?oc=5",
+   "title": "【あすから】チャン・ギヨン＆チン・セヨン＆イ・スヒョク、前世と現世で絡み合う3人の運命を描く 韓国ドラマ『ボーンアゲイン～運命のトライアングル～』放送スタート＜キャスト・あらすじ＞",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-10T07:20:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "【내일부터】 장기영&진세연&이수혁, 전세와 현세에서 얽히는 3명의 운명을 그린다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "d376dd4d3e1490ca",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "06f0d7d33f305cbf",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53OXRWSkRHc3RLVGRkdWs0V3pJRHU3NGZNQllfNmw1RE5wX1B6SEU2QVZrd0RwN282bEVNZEtSVjRZSWhpTFJjZFY2cmNyU2tSeE93US01eHZBSXdqM05GcUVEMDRmNFZPMEs2eEl1TWtnalZ3?oc=5",
+   "title": "韩国忠清南道海苔亮相第九届进博会 中韩农食经贸合作再添新动能",
+   "source": "中国新闻周刊",
+   "country": "CN",
+   "published": "2026-11-10T07:02:14+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "제9회 중국국제수입박람회에 한국산 충청남도 김이 등장해 한·중 농식품 경제·무역 협력에 새로운 자극을 더하다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "06f0d7d33f305cbf",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "ce1d3cc8c69106d9",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lcS0xYXZkWVY5U1ZHMmhDRjdHM3BOX1RzMm5lR3lydnJMd3QySzFPdXJLZ3B5QkctRmk4RDA1cm5fZWxBWlhUaHE4bnV3YXlkVkZQMmVua0RlYWJhc2VMRlhkRzR4MVdCT3ZZZjZR?oc=5",
+   "title": "“中韩氢能技术产业合作论坛”在韩国举行",
+   "source": "人民网韩国频道",
+   "country": "CN",
+   "published": "2026-11-10T07:00:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "'한-중 수소에너지 기술산업 협력 포럼'이 한국에서 개최되었습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "13378171fa7fd868",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (중국 2)"
+  },
+  {
+   "id": "2c288804716ea13d",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lVlNMaGxPa3FxX3diZ21zMHBJVDBVUkVSUGRFd2EtNHVuVk9fbTNEM3pfZXROajVndUI3amo4OWdFZFdiZ2gxTExxTGo3aFJNSkktYlBOVWVUMW5BM1BJYy1SbUdqWHpoWWpxWQ?oc=5",
+   "title": "韓国株10日 4日ぶり反発、米半導体株高が波及 SKハイニックス急伸",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-10T06:43:16+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "한국주 10일 4일 만에 반발, 미 반도체주고가 파급 SK하이닉스 급신",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "2c288804716ea13d",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "92db34e922d04648",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMXVlckcwZDF1T1RBbmxYQTBzamhvWlJ4cmdJUmNPUjJoY1pDZnRuTDZtMDVMNVhZR1BMeU9ZQV81SGxOZnFkbW5NRUV1ZDdncTc1NkNTWnNRUHV0RXQxOF9IUWZGck1mZGtQMmJOUzJvTldWRGRRSFd6LXpJOWItbzlwTmV5MG5tNGZR?oc=5",
+   "title": "S. Korea's conglomerate exports double in Q3",
+   "source": "Xinhua",
+   "country": "CN",
+   "published": "2026-11-10T05:28:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "3분기 한국 대기업 수출 2배 늘었다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "92db34e922d04648",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "32ae419e57229ece",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWk9YRElNdEpuR1dvQktqN3lxY2RHWS1TcmVVZWhFeVVwN09RWEU3MHBEcFViZVh1c2EtVThZNGVoZXhTT3hMcnUybHZmUEJ4RVg5enk3SWVPNXNJbW10alJ3TUdIeGFQbENZNUJjZnc1a3lxV1hmTzBuUkdMbloxS0ZXX1A5ZktYZEZz?oc=5",
+   "title": "S. Korean army drone crashes west of Seoul during training, no casualties reported",
+   "source": "Xinhua",
+   "country": "CN",
+   "published": "2026-11-10T05:25:30+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "훈련 중 국군 무인기 서울 서해에 추락, 인명 피해는 보고되지 않음",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "32ae419e57229ece",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
   {
    "id": "28fbf9512c047707",
    "url": "https://e.vnexpress.net/news/news/education/south-korea-s-low-birth-rate-to-push-elementary-enrollment-below-300-000-for-first-time-5142559.html",
@@ -256,6 +823,24 @@
    ],
    "cluster": "01d0847bfb2b5f27",
    "heat": 1.0
+  },
+  {
+   "id": "b5bac4d60f63c286",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1ZlBiMUplWEhCbzJsTzJjNTU4bUtmdTUteEtMU3RabDFHclNFb3hjdm5laUhBQ2RyWnRTVEVpSy01R1YwckQ2dF9TbXp1VzB1MnluaVFORFlsTDl3N0VNV2FlX3UyMGYzTEJ0X0dn?oc=5",
+   "title": "朝鲜进行新型鱼雷武器系统试验",
+   "source": "人民网韩国频道",
+   "country": "CN",
+   "published": "2026-11-10T00:36:00+00:00",
+   "collected": "2026-11-10T22:27:04+00:00",
+   "title_ko": "북한, 신형 어뢰무기체계 시험 실시",
+   "mode": "free",
+   "korea": [
+    "north"
+   ],
+   "cluster": "b5bac4d60f63c286",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
   },
   {
    "id": "722c10872e7954ef",
@@ -717,14 +1302,14 @@
    "published": "2026-11-09T08:13:00+00:00",
    "collected": "2026-11-10T03:30:05+00:00",
    "title_ko": "중국-한국 수소기술산업협력포럼, 한국-국제에서 개최",
-   "score": 1,
-   "reason": "단독 보도",
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (중국 2)",
    "mode": "free",
    "korea": [
     "south"
    ],
    "cluster": "13378171fa7fd868",
-   "heat": 1.0
+   "heat": 2.0
   },
   {
    "id": "af2f2490c3bc83b5",

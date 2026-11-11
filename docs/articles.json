@@ -1,6 +1,1243 @@
 {
- "updated": "2026-11-10T22:27:04+00:00",
+ "updated": "2026-11-11T22:39:44+00:00",
  "articles": [
+  {
+   "id": "86f54c7bb173e125",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02X0NJcE5JdVRabGhEY0pqWS1tLW1aejhBMVRteE5wTlN0dGt0WktTM0JJWS1ONG1ZTGJpa0c1RDNwd1Roc19aWkFIRWwxZDM1cWJOOFNLdTJGMFdnZjRUeFM1NXgyRjVuSHhCRlRCUQ?oc=5",
+   "title": "Gu Bon-Sung, Citibank Korea Inc: Profile and Biography",
+   "source": "Bloomberg.com",
+   "country": "US",
+   "published": "2026-11-11T20:45:24+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "구본성, 한국씨티은행: 프로필 및 약력",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "86f54c7bb173e125",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "6319719282083dfe",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHRHUVNUTTd0NGtNUFlzdGhwTWhtR0xBQXJmTDRBdnZOV0ZQYkFLRGRHX2ducndRWkp6b19IbHoxbEk3b3hSa1RhdmJhd2dENWVQc0pSbkpqcUxMUm1ZQ0FyWHpBVUxIaW9rYXBvLWw3eVhYR1dYR1pYMG40UlA2ajRxTDFMZWEyMVJlYVJ6SGt6VWx1S3JDUDJvcTdFcmt4cmFabXk3T21qbHNRVlNHWllxYm5mWGlXOWVKQXV3?oc=5",
+   "title": "Opinion | South Korea’s ambassador: Why my nation is betting $350 billion on U.S. industry",
+   "source": "The Washington Post",
+   "country": "US",
+   "published": "2026-11-11T20:15:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "오피니언 | 한국 대사: 한국이 미국 산업에 3,500억 달러를 투자하는 이유",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "6319719282083dfe",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "2c306de591097d15",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02d1ZCbWhPYjNTeEdrVHNSc0NtZXdVemZseWROYlh1bG1SLUVGeFhqaHFSNUY2a01xUU1WbXN0SE8xUGRCN3RfeVQzVTFsNzV5RzFfUVhBQ1l6R0MzTVBRUTBmbUlmZ3hT?oc=5",
+   "title": "日向に韓国プロ球団 秋季キャンプ 市と「3年実施」確認書 ／宮崎",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-11T20:03:47+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "히나타에서 한국 프로 구단 가을 캠프 시와 '3년간 개최' 확인서/미야자키",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e47f2520b9cd2435",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "3cce3826e154992f",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1ckRpQ1gtUWgwRVhEZFY0UC01a3E2RVBLeTl4SHE1a2dPdEVvZnhZMUM5eWNFTXQ4MFIxa2Vob0VDZXIzNDg2WUVqbjI4QWJxbWN0eDNRTmJlS2lVczF2cjdkaFRZa0Z0?oc=5",
+   "title": "被爆の実態 韓国で証言 「民衆法廷」 松本さんら参加 米国の原爆投下責任問う ／広島",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-11T20:02:18+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "피폭의 실태 한국에서 증언 '국민 법정' 마쓰모토 씨 등 참가 미국의 원자폭탄 투하 책임 추궁 /히로시마",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "3d7e338dc2970478",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "7b1bbb2f64e450bd",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xQWdiellQZWdOWmZFT3Y1QkY1T3dLa21Sc2NLdDlVVlNQcFVIdVI1dmZWcG03ZlhIV3JpdWNmQjQ2c1RhRXUxSGtwbkRxUUNvUjE3UVJiQkNWOXdm?oc=5",
+   "title": "韓国軍、中東での任務拡大案 ホルムズ近海まで 政府が国会提出",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-11T20:00:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국군, 중동에서의 임무 확대안 호르무즈 인근 해역까지 정부가 국회에 제출",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "7b1bbb2f64e450bd",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "75ea342bd13a3a27",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zTE8wMXVIVEUwN2pEVFZ5MDlrTERkUFdJdFd5QnloM2VYamN2bHFJRmNpUzhTeXVpQzhHdVFzakVRdnZ1MEVhdm5aTGZsVmdVLWxGU09SRDQxYTVPUk44MkV0Tmc0LTVHSnBlUA?oc=5",
+   "title": "ゴッホ「星月夜」実際の夜がモデルか 韓国研究が新説も専門家は反論",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-11T20:00:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "고흐 '별이 빛나는 밤' 실제 밤이 모델인가? 한국 연구가 새로운 설을 제시했지만 전문가들은 반박",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "75ea342bd13a3a27",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "517774b7e4969dec",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOEV5cWotWUZwMHhIN0M3TzlWdFJpUk5uVTRiMmJ4aHVBSzZ2ZTZHc3ZteExSMEROZ1J4dUNNSzhrMDZLNXNJeHVHNHhiUXlEVG51X1pMTVl5ZUhhVVhsNkt4OUVkWHFWR05fOHMydFZVWGNsYUJZbWs0alhUZ29ZSU5kYmc?oc=5",
+   "title": "山形：鶴岡産野菜で韓国の味 石焼ビビンバ 韓国喫茶ふるさと （鶴岡市） ：地域ニュース",
+   "source": "読売新聞",
+   "country": "JP",
+   "published": "2026-11-11T20:00:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "야마가타: 쓰루오카산 채소로 만든 한국의 맛 돌솥비빔밥 한국찻집 후루사토(쓰루오카시): 지역 뉴스",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "517774b7e4969dec",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "bc0e3541702697e0",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rQ3FROWVkSDFGeXlhS2Z5eFBiaVYxT2lnM1VSSzd2Um5yVElYaGNmQ2owVHdCMnlWSi05TThQVXRxWVdvM0JpYjdFRkFBTXRxVmVUU0ZFVzFEdDU2?oc=5",
+   "title": "クロマグロ配分、日韓で主張対立 国際会議、協議継続へ",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-11T20:00:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "참다랑어 할당, 한일 양국이 입장 대립 국제 회의, 협의 계속하기로",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "c6656cac52b79707",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "2dfa8fcb5202dba7",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMHNoTTBBOVlvWk1iWVVQbHNOakVTTUlybkM5Z3h3NkFncTBnNVB1YzBPOWJ1bXNOV1IxRDVBR3lHY0t0SjJJbko3anFVaEE3MGV6OW1xTTA5UlVtdVdKdmNlR2hPSkRzRVV4dGNTNncyVkptT2Z3aVZ3TjdBaHQ4ZXR5cXJIRXJGQWk4blB6V3ZzZTl3S211V0Via3hBajV3UVdZ?oc=5",
+   "title": "South Korea Inflation Remained Above Target in October",
+   "source": "WSJ",
+   "country": "US",
+   "published": "2026-11-11T19:56:18+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "10월 한국 물가상승률, 목표치 상회 지속",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "2dfa8fcb5202dba7",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "93ec1f62195be5fd",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qb1NwOXJVdlEzdE1qdHJ5dF9ybnYxS3hxek50dVNzOHNJWTBfWFZTRGJTbWtSUmJKMHVFWG05THpfN0NXaW5vaUJqQklSbzdlMElnRXZydmI3WnlOZm5la054ME4wQi1P?oc=5",
+   "title": "世界の視点：米中間選挙 米朝対話に高い壁 福岡静哉・ソウル支局長",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-11T17:01:30+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "세계의 시각: 미국 중간선거, 미북 대화에 높은 벽을 쌓다 후쿠오카 시즈야·서울 지국장",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "93ec1f62195be5fd",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "231f17f5e8d2164d",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55Si1qT01KbGlaYWdlWUVwSFFTdjdMNEtkSDN0SUJ1UVg1V2F5ZVZONzVtX0hocE5zSTI3Qkl4N3U2czV3UVdMSGRkX0lkT015R1JzM3hHVjNhR3M1X0ktLWJsY21KTzJWYjE4dg?oc=5",
+   "title": "「釣り道具、日本製が一番」 趣味も日韓の距離近く",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-11T17:00:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "\"낚시 도구는 일본 제품이 최고\" 취미도 한일 거리만큼 가까움",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "231f17f5e8d2164d",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "fd8f1d51495ebb89",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU01ZQ0J2RTdVaHZJZU4yRjZPUkhWZW1iZVNTa1R1NHpWMnFwZndPSWpyYkVtVG0tQ2c5UXNfdVV3OU4yU0RpV1Q2VEZpZGNfLVc5bnNVc1ZVYzNINzhQUEkxbUhWcTBOcU85aWVvSGpONl9YQTNIUkxsNXhNS1IyYVBHVFE3Q055NC16aVJtOXJKWXF2aFZrbWFSbTFQQWJ5TVc2N2FTeHl6Y21Gak00NXVJMmU2TmdaR3RUVmJZMUR0ajQ?oc=5",
+   "title": "\"Ông chú bán khăn\" ở Hàn Quốc gây sốt, phải thuê 3 nhân viên an ninh bảo vệ",
+   "source": "Báo Dân trí",
+   "country": "VN",
+   "published": "2026-11-11T14:34:37+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국의 '수건 파는 아저씨'가 화제가 되어 경호원 3명을 고용해야 했습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "fd8f1d51495ebb89",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "aa75bb54f78d32bb",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWVXTWI4UThjUDRJSE0wQndNaTVaNDIzWWgwLUM2cjFsZFpOcDFjdE9waWZCRnlYTVdvR2FsNmVBcXRheDZ0RDljb1hhN3hlX1BlWklyWERmUEZKMDdWTWwyclhNeGtBQTNIQVdnWDJIbUVwa0czREhWNzJJUVZFbk5obkVQRHdhNjkwYnRLOEJ6clpSUGVaT2xOMnZUcXFu?oc=5",
+   "title": "Hàn Quốc: Xe buýt tông liên hoàn 32 phương tiện",
+   "source": "Báo Dân trí",
+   "country": "VN",
+   "published": "2026-11-11T14:13:29+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국: 버스가 차량 32대를 연쇄 추돌",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5e7a345e2295b2d6",
+   "heat": 12.0,
+   "score": 5,
+   "reason": "9개 매체 · 3개국 보도 (중국 9, 베트남 3, 미국 1)"
+  },
+  {
+   "id": "f4db929411970ca4",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lVnYyalV6dmRSVWNudld3NmpKd3BodzJUV0YtMlFkd3M2azVqNmM5STJMNDNqXzJvVHdoTzcyc1dqRkpUYnZHYUNzX1dRekRLWE1LMlN1SEo1RXZlZkNBRQ?oc=5",
+   "title": "从深圳出发，这位韩国青年用歌声架起文化交流之桥",
+   "source": "ThePaper.cn",
+   "country": "CN",
+   "published": "2026-11-11T14:05:17+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "선전에서 출발한 이 한국 청년은 노래로 문화 교류의 다리를 놓는다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "f4db929411970ca4",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "ca5fe30b0142408b",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aNEVRcm5udER1QkllM2FENUEzVVlwLWNqWmJfME9sLVl4SHBTWlVOSGJQR2V1VVlTRmUwRVZ4QkdmQU9scDFxVW9EdjFfYng0Q054bXVuN25TX1dkQWJSXy1wVGFYNTRTc0NiaktFcXZvc1RuNkI3UG5VU2R2Zw?oc=5",
+   "title": "“你好！中国”——“多姿多彩内蒙古”文化和旅游宣传推广活动在韩国举办",
+   "source": "中国新闻网",
+   "country": "CN",
+   "published": "2026-11-11T14:00:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "\"안녕하세요, 중국!\"——\"다채로운 내몽고\" 문화 및 관광 홍보 행사가 한국에서 개최되었습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "00da3b066c920994",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (중국 2)"
+  },
+  {
+   "id": "f4965e5166ddfa75",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ndi1mUHpzRzFOLU92djR1a002bFBjV2l5Uk9DWUpmcFR3U2Uxa1ZKTlJCTjA5T2tLOHRERGoxQmg0dTcyTGEybGRELUpRcDRTNklzY3NFdWJCdGp5R0RMcklZakFRZms4?oc=5",
+   "title": "韩国半导体出口持续增长 全年出口额有望首次突破1万亿美元",
+   "source": "中国新闻网",
+   "country": "CN",
+   "published": "2026-11-11T12:28:05+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국 반도체 수출 지속 성장, 연간 수출액 사상 최초로 1조 달러 돌파 전망",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "f4965e5166ddfa75",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "00da3b066c920994",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fVlk5ZF9laFVLNFhBbjFvdU5GZFhWWGltSmd5c1RwRjh4X29XU3VfTW4tanVKZURhbk93Z2lHOGpqeWIzbXJoR0ZFSnJ5ejQwaUpyTUdza1hWYWxMYmpSVEJia19ZX2Fr?oc=5",
+   "title": "“你好！中国”——“多姿多彩内蒙古”文化和旅游宣传推广活动在韩国首尔举办",
+   "source": "中国新闻网",
+   "country": "CN",
+   "published": "2026-11-11T12:25:49+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "'안녕하세요, 중국!'——'다채로운 내몽고' 문화·관광 홍보 행사가 한국 서울에서 개최되었습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "00da3b066c920994",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (중국 2)"
+  },
+  {
+   "id": "3ea30bb2dab44c24",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JYXBLYVBPd1lzU0JYYjR0TUlEUks2aGRPcmEzbURYTkliLXQ5UXRNWkdZQ1M5OHptSVJYelVRM09yZ0VYbldXdk8tUG1DcDRTQjJlVUVkT1hCMkJa?oc=5",
+   "title": "カン・フンが明かす出演理由「彼らの青春を応援したい」 役作りでお笑い芸人の打ち合わせ参加も 韓国ドラマ『熱いさよなら』キャストコメント到着",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-11T11:20:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "강훈이 밝히는 출연 이유 \"그들의 청춘을 응원하고 싶다\" 캐릭터 준비를 위해 개그맨 회의에도 참여 한국 드라마 '뜨거운 안녕' 출연진 코멘트 도착",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "3ea30bb2dab44c24",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "334349f6fc5870d5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTEFBbjFOYm1SWlozd182QlV3YVhkakRoMmptc09zNlFWOFppWVVXLVhfcy1ZbHZ6VzFoNGFPT3B6dlVwbnRVUDM4aW5jZjFxSWdHekUwc3BVX1pSb1Jrc0JHNjJKRnZsTjNULW1nell5VHk0WDZ6dlVOTzBVVGNhTjl3MkNVZTcxZzFZT1Bud2NvVkxMakJMT3I4NWUwX3FVaGZPb2JUYnV1X2Z6ZkdDdGtzNk1GYUlncmVJSTQ1WVRHTGRSZzlOVWh3QlFSNk4t?oc=5",
+   "title": "Xuất khẩu vào Hàn Quốc gặp khó, doanh nghiệp Việt kiến nghị bãi bỏ hạn ngạch thuế quan với tôm",
+   "source": "Tuổi Trẻ",
+   "country": "VN",
+   "published": "2026-11-11T10:01:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국으로의 수출이 어려워지자 베트남 기업들이 새우에 대한 관세 할당 폐지를 건의했습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "334349f6fc5870d5",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "bc1902763325de20",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90a284MnVfWjVVaEpIYmhuMFNTaVdYaEY2TmViV29wSXF3eDVqYW5Cc1RKYld0bXhobW9IZXVLQzg1cm1oQnhGTXN6WGVJTW83SmltYWVDcjE1TEdtMi1fUGMzN0luMnhjOWFpOWp2bGk2T3FJ?oc=5",
+   "title": "日本戦先発の可能性ある韓国左腕･金晉旭に元阪神呉昇桓の経験注入 12日からアジアプロ野球CS",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-11T09:47:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "일본전 선발 가능성 있는 한국 좌완 김진욱에게 전 한신 오승환의 경험 전수 12일부터 아시아 프로야구 CS",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "50f2d0d10b7b959d",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "b65849430555744e",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYzlkSXloOFVMalRkN0d0SGM2S1dTVHd0aFVhTnJlV0cyVU9MdnNaRHJuNEpHQmNFSGJwR3Y0QUFSRXBMRU8yT1ZrMTc4bmd6UEI5c245OWJpWjRUaVoxYW10eV82VDBaNW9NbTNoRlU2VEFzZkV1WHZyMG5VbUNkaG9lbFZTbTloNDNSYVRkaTdoYXN4Z2YxdHJWaFpuSFdjdHBqXzJFQzZjd2FJQ0t1eVplc3N3M05EQ2pyT3FzZE9zTTEyVGhJ?oc=5",
+   "title": "ĐH Quốc gia TP.HCM dự kiến có Trung tâm Công nghiệp Robot tiên tiến Việt Nam - Hàn Quốc",
+   "source": "Báo Thanh Niên",
+   "country": "VN",
+   "published": "2026-11-11T09:47:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "호찌민시 국립대학교는 베트남-한국 첨단 로봇 산업 센터를 설립할 예정입니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "2f46494d5ea925b2",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (베트남 2)"
+  },
+  {
+   "id": "deeabf3e0063c306",
+   "url": "https://thanhnien.vn/xe-buyt-dam-lien-hoan-32-phuong-tien-tai-han-quoc-gan-60-nguoi-bi-thuong-185261111161458258.htm",
+   "title": "Xe buýt đâm liên hoàn 32 phương tiện tại Hàn Quốc, gần 60 người bị thương",
+   "source": "Thanh Niên Thế giới",
+   "country": "VN",
+   "published": "2026-11-11T09:20:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국에서 버스가 차량 32대를 연쇄 추돌하여 60명 가까이 부상당함",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5e7a345e2295b2d6",
+   "heat": 12.0,
+   "score": 5,
+   "reason": "9개 매체 · 3개국 보도 (중국 9, 베트남 3, 미국 1)"
+  },
+  {
+   "id": "01d90cb7fa1497ff",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDlGZHpsbFhCV2s0aUY2bG9IamwtZDl5OFpNdFBHTHE2TFlmc2d5ZVdVMGJkdWROcGR4T0pjYk9OOGE5ODRJTDl5TXZQT1hBdThzTXdwR3JXcUU1NmZNa251NzNtZlpncmJydVBCbnk4WWgxM2tKanhCVFBKQ01xNUZjdlU?oc=5",
+   "title": "Daycare shortage hits South Korea",
+   "source": "China Daily Global Edition",
+   "country": "CN",
+   "published": "2026-11-11T09:19:28+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국, 어린이집 부족 사태 겪다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "01d90cb7fa1497ff",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "c95c4a4fdcb29223",
+   "url": "https://www.scmp.com/economy/article/3374061/chinas-shipyards-overtake-south-koreas-lng-carrier-market-demand-surges",
+   "title": "China’s shipyards overtake South Korea’s in LNG carrier market as demand surges",
+   "source": "SCMP Asia",
+   "country": "CN",
+   "published": "2026-11-11T09:00:22+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "수요 급증에 따라 중국 조선소가 LNG 운반선 시장에서 한국 조선소를 추월하다",
+   "summary": [
+    "중국이 월간 액화천연가스(LNG) 운반선 수주에서 처음으로 한국을 제치고, 수요가 급증하고 있는 고부가가치 조선 부문에서 오랜 기간 지속되어 온 한국의 우위를 위협하고 있다. 중국은 전 세계에서 발주된 대형 LNG 운반선 7척 중 5척의 수주를 확보했습니다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "c95c4a4fdcb29223",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (중국 2)"
+  },
+  {
+   "id": "e3b31079b6059b1a",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHM4RkQ0RnRQMFkxa05ta3NSYWZzOXdReGVJNXBfQThMczJFWnNVVGdQel9IUHdkb0J1WTlSZ2tkbHZIQ1hubUhKRUxlMGVVLWMzdFFKaVItMll0cmsxbEdIVHp5MXdGc1dkRzBRRGllLWEtUnk5bHhQTXcyVVIyeHpWR0RnN1NaclBibWMwbkRkRzlHOHFTbERJaHVRYVJjTG1wdDQxZ1lSNGZlbW5NMXhlUzFCcWvSAbcBQVVfeXFMTWpCa0RvcnNrMGwxTGgtX0pGM1RCT3NrLU9uXzJybG5nR0V1dkJYOWU3bXAtT0hfWVQyRTRxSEppZE1UTlR1M21LVDI0eWpndTlYSFpQMzlzcWViQXRsOWkyTVhTTjJ0OE04SXEyM1h3X205VVVWdjAzOVVnZjR5QlJ4V2wyUDJSUWJ1QkU2MXFSY0tLZEhhaFFoSEZhcmNwYUFoYlZfZ2YwSkd1UTgwMmpjamhMWlU0?oc=5",
+   "title": "China’s shipyards pass South Korea’s in surging LNG carrier market",
+   "source": "South China Morning Post",
+   "country": "CN",
+   "published": "2026-11-11T09:00:22+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "중국 조선소, 급성장하는 LNG 운반선 시장에서 한국 조선소 추월",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "c95c4a4fdcb29223",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (중국 2)"
+  },
+  {
+   "id": "c6656cac52b79707",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WaDVNU2d5M1dIeDVzSnYxVDZzcXVfb21IRlFnTnVKMWVOMTlqY0FXc0puLUJLNGFfMWxVbzNxemxtbkRIZXhvWVBKM0lqZWluR0xYOWdVcjhkMmhPbXh5QjZWaG9rVUE?oc=5",
+   "title": "クロマグロ国際会議、増枠分めぐり日韓で対立 合意できず協議継続へ",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-11T08:55:54+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "참다랑어 국제 회의, 증량 분량을 둘러싸고 한일 대립 합의에 이르지 못하고 논의 계속",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "c6656cac52b79707",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "06ed176f19287977",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnOGo2eU05NWxnemp2UHlRalh0eVVKSVpqc2loNkVKNmhxTWhPTE0yMHhfcjdMS0VCb0tDM1ZrTTcwUjJQNEJuS1VUSlllMVYydF9RdV9VNkpERW5TSTAtLVB3UFc4SGNoNlkyTw?oc=5",
+   "title": "太平洋クロマグロ漁獲枠、再協議へ 拡大枠の配分で日韓に隔たり",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-11T08:47:52+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "태평양 참다랑어 어획 할당량, 재논의로 확대 할당량 배분에서 한일 간 이견",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "06ed176f19287977",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "2f46494d5ea925b2",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVG1oaldhQS1NRGpna3gwTFlvakxDVW9DU0NicEctblY2OWJPbEhfVXdLUmlNVF9MamM3ZXQzLVBWV2xvRDktZWVNZF9hWXV0bklBSEdnQm9YeUJMTm9Yd1pJUnZKc2hzTlY5X2hUMTQ0cXZQM0Zua2hvWVAxZlNaMWV4QXVJekVhRmdNSUlYcEN0bzhtRmJPckhwVWVNazREeDlZdXZMWHh6QVgwcUNYNGs1cEdQdy13TkhSaUZpYkt5MHZPVHhPd0xLYUNMYjA5ZnFR?oc=5",
+   "title": "Đại học Quốc gia TP.HCM hợp tác Hàn Quốc đào tạo và nghiên cứu robot, hướng đến ứng dụng sản xuất",
+   "source": "Tuổi Trẻ",
+   "country": "VN",
+   "published": "2026-11-11T08:45:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "호찌민시 국립대학교는 로봇 교육 및 연구를 위해 한국과 협력하여 제조 분야에 적용하는 것을 목표로 하고 있습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "2f46494d5ea925b2",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (베트남 2)"
+  },
+  {
+   "id": "cc16b0f9b247bd98",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS0FleXVoVGNWanFVOHl2Y1h4TWFIaFBZbEFaaTZVTmp5Y3JBMDJ1LTlhcE95eGZWRGhLTi1GWnIxeDUwdk9jN3Y1bWJya2dwLVhkZ1hRMS1pU2tLNjZPQWl1VmdVc3VaT2t0YVY1ZHlkeUtVbDBHYUVFeU10UFkzVGVVZzBIT1paTTB4M0o2RFhZWFRXUWNiRGxvdE52UzJaanc0N3REV2R5WXM3eFE?oc=5",
+   "title": "Korea Fines Bond Dealers Record $1.2 Billion Over Collusion",
+   "source": "Bloomberg.com",
+   "country": "US",
+   "published": "2026-11-11T08:04:24+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국, 담합 혐의로 채권 중개업체에 사상 최대 규모인 12억 달러의 과징금 부과",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "cc16b0f9b247bd98",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "5141ad4129bfa0d7",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTZrMV9oWDdHV1VTLVFRNm00dkZkTTc3a2psYUFtZGx6TDlLSHZjQ040eC13X19XRFE1WHJHMGVsNGpvSlR3aFhweUVXNndhRHdwSFJKa2NTN2h3Z1Nwel9XbUZIWlNfOHhXVGZBc0R6Y2g1UDBWeVhqUFlHa0owaWRB?oc=5",
+   "title": "双向奔赴！嘉兴洪合毛衫挺进韩国东大门",
+   "source": "新华网浙江",
+   "country": "CN",
+   "published": "2026-11-11T08:03:15+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "양방향으로 나아가다! 자싱 홍허 니트웨어, 한국의 동쪽 관문으로 진출",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5141ad4129bfa0d7",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "1211c5393d767928",
+   "url": "https://www.scmp.com/week-asia/politics/article/3374035/11-drills-60-days-indias-navy-stretched-too-thin",
+   "title": "11 drills in 60 days: is India’s navy stretched too thin?",
+   "source": "SCMP Asia",
+   "country": "CN",
+   "published": "2026-11-11T08:00:40+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "60일 동안 11번의 훈련: 인도 해군은 과도한 업무 부담에 시달리고 있는가?",
+   "summary": [
+    "불과 두 달 사이에 인도 해군은 영국, 프랑스, 남아프리카공화국, 오만, 필리핀, 대한민국, 일본, 러시아 극동 지역 연안에서 합동 훈련을 실시했습니다. 전문가들은 이러한 일련의 훈련이 세계 무대에서 더 큰 해양 역할을 추구하려는 의지를 보여준다고 말합니다. 하지만 동시에 우려도 제기됩니다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "1211c5393d767928",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "cf9958f41881159f",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03T0pYYjBGYWpDOS00V3VNTnhiOE1mU0xDMHFRTFlJZ1EyampzNnl6X042blhGQzFQWG5hUUpTTlBZeGZ3TUpnSzBNdGcxdUFqVGxCM2VBUjljdlh2RUhJcFF6SWd0a01v?oc=5",
+   "title": "韩国一辆公交车冲撞32辆汽车致48人伤",
+   "source": "中国新闻网",
+   "country": "CN",
+   "published": "2026-11-11T07:22:34+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국에서 버스가 차량 32대를 들이받아 48명이 부상을 입었다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5e7a345e2295b2d6",
+   "heat": 12.0,
+   "score": 5,
+   "reason": "9개 매체 · 3개국 보도 (중국 9, 베트남 3, 미국 1)"
+  },
+  {
+   "id": "1ac2908c00c219b4",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4RFA2QWpmUVJJa1BQUkFMTV9CRWQ1Um1vUWM0UnBfejg3dl9FT3JHZERjUkVRekJ6Wml0S203VllJYmg1QmwyQnVYa05PUm5GX005WW9hYXRTS0hNc3hhWWhQSjJPWk5z?oc=5",
+   "title": "『コントが始まる』韓国リメイク版、『熱いさよなら』がきょう配信開始 お笑いトリオ「アスラ」の結成の瞬間は…場面ショット公開",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-11T07:20:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "『꽁트가 시작된다』 한국 리메이크판 『뜨거운 작별』 오늘 공개 시작 코미디 트리오 '아수라'의 결성 순간은… 장면 컷 공개",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "1ac2908c00c219b4",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "8f30e2f0d9abc748",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfMkFVX1ZaRVhrS21TZkxGN2t6THU5Sl9sdmJadWFfZVVqOEVXRUVDZndIVG5PNFRFT1dDenNJaTZULXpLNTJrbmRmcXBtQkt0ZmNsRzEyLVZxR2s0TXQzeVpGRkMxNjJXRkFndWtZU3J3MFA4TFFtREx6NS0?oc=5",
+   "title": "S. Korea's bank household loan growth accelerates in October",
+   "source": "Xinhua",
+   "country": "CN",
+   "published": "2026-11-11T07:17:45+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "10월 한국 은행 가계대출 증가세 가속화",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "8f30e2f0d9abc748",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "5a6bfac3f285c3c1",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3TzFiR3hHRVM4Y3YyMEdGeVVKZFJKTDlGMV81a0VseWFNREtUazRTcF9iUl9fTE5lR1pyU1BManZPanFyZjRNOERnVDYzdE5TY2VqMHBVZlIxQ25KR3NwWFZBT3JnM0sy?oc=5",
+   "title": "西野未姫 「すごい好きで」韓国人俳優にDMを送っていた過去告白 「よく見る！」バービーも大興奮（スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-11T07:09:12+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "니시노 미키 \"정말 좋아해서\" 한국 배우에게 DM을 보냈던 과거 고백 \"자주 봐요!\"바비도 대흥분(스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5a6bfac3f285c3c1",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "e47f2520b9cd2435",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JZ0FMMVdlS2MxRGkxd0RKN1FfTEIxUmQyRmt3UWZFMThyejBqZ2NuOFozXzNobTl2U044dU1GTEhnMUkwU2xxLUplR3d6VVRSMG5PUWlVbHpGMm9WQTVXMjlnTVhDcFpXcnRENjdjTE8yQQ?oc=5",
+   "title": "韓国プロ野球「ロッテ・ジャイアンツ」の秋季キャンプ、宮崎県日向市のお倉ヶ浜総合公園で開始…２３日まで",
+   "source": "読売新聞",
+   "country": "JP",
+   "published": "2026-11-11T06:53:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국 프로야구 '롯데 자이언츠'의 가을 캠프, 미야자키현 히나타시의 오쿠라가하마 종합공원에서 시작... 23일까지",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e47f2520b9cd2435",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "2386063211dea8fe",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXFfdjE5b0VXazA4enlGNng0Y3JQN2oxdGR0M1lXUk5kdUtjYkdpTXRua0NsczlPeVJ0bU9JUXRPdHVJUVFEVTdQVFhsaElnR3JlQ0Y5RzRaUDVJSXI2VmhTZ2pZZW8zSDB1QWRsR0ZYOW9RZmJMVTBMeU8xT04wTjJuRlB6X3VteWlsRU9UdFNDUW1nVWZvVmloclJ2RlJGNHFtVjUxLWpqX1dVNFJOOQ?oc=5",
+   "title": "South Korean Battery Makers Face Greater Scrutiny in Hungary",
+   "source": "Bloomberg.com",
+   "country": "US",
+   "published": "2026-11-11T06:52:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "헝가리에서 더욱 엄격한 조사를 받고 있는 한국 배터리 제조업체들",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "2386063211dea8fe",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "3c2f4b8faefd5593",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GeGNhM0dzWVBLUGtWZkNzZHJpX2dHbHFPTC1BOEl0OTRtZWNhWE5TNHFiOExPeTNwQ3RONzJEeHkxSXVESWlBSVJDdXp1S2lLb2FwMC1UclFuUnZiVXJYcmN2WENNYjROTUZXOQ?oc=5",
+   "title": "韓国株11日 続伸、朝安後上昇 値ごろ感の買い 半導体高い",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-11T06:47:42+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국 주식 11일 연속 상승, 장 초반 약세 후 상승 저렴하다는 인식에 따른 매수 반도체 강세",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "3c2f4b8faefd5593",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "ad45c16da0b71c70",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RSDNLOGZUWXVtUG5kOXNySHRkR0ZnWjdiQkhDWnRCOTRFU2pjclNSbF9abmtkR1g5cFdwejVwMEd6akRHU1Ewd1c2a3pMNU15Rzk4TWtIX1lTUlhOdEo2SEZFUkV0UnJaSlB4dVpTaEk?oc=5",
+   "title": "韩国京畿道公交车连环撞车事故致48人受伤",
+   "source": "中国新闻网",
+   "country": "CN",
+   "published": "2026-11-11T06:33:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국 경기도에서 버스 연쇄 추돌 사고로 48명 부상",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5e7a345e2295b2d6",
+   "heat": 12.0,
+   "score": 5,
+   "reason": "9개 매체 · 3개국 보도 (중국 9, 베트남 3, 미국 1)"
+  },
+  {
+   "id": "b41f14b6ffb583c2",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yTE5Eem5MWXZta202SkxoMWo3UUZmZUNKZXhBV3ppbVViXzd6S0JJc0NYcGF4eWlWZDRnOVItSXpvQlpoNnlvaXFvR0dnMXlZbnczekc3VGxWVHNp?oc=5",
+   "title": "なにわ男子・大西流星、1泊2日の弾丸韓国美容旅 大人なムードで『MAQUIA』集英社スペシャル表紙飾る",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-11T06:00:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "Naniwa Danshi 오니시 류세이, 1박 2일의 초고속 한국 뷰티 여행 성숙한 분위기로 'MAQUIA' 슈에이샤 스페셜 커버 장식",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "b41f14b6ffb583c2",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "bf21b421eab2e48f",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80aS1FWFJoTm1QZWVoWFRTMG5RT2NpeVg5dFAwbHJIMEZjUXlKRDlVWkNvZTNuVGItTlNheFYyMG1RTDl5ZVlZaEpoT3FrMngtekNvLWVhdnlON0k?oc=5",
+   "title": "韓国発ボディケアブランド「i will me:back」が日本初上陸！10月10日（土）より全国のロフトで先行販売",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-11T05:56:59+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국의 바디 케어 브랜드 'i will me:back'이 일본에 처음 상륙! 10월 10일(토)부터 전국 로프트에서 선행 판매",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "bf21b421eab2e48f",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "50f2d0d10b7b959d",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5Q0dId1dSRThZbjZsZFo3QkYxaWNaVkxDTWtxNVZ1eXYzbzRJakEwRGhLclFIVEJnSko1Qk1zU2w0c1BlNVJNcmZwMVh3T2dnX0pSbVM0bFBYS2VOaEx3TmxsREdhRk5Ob21FMlpNd0hEZG9T?oc=5",
+   "title": "日本戦先発の可能性ある韓国金晉旭に元阪神呉昇桓の経験注入 アジアプロ野球チャンピオンシップ",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-11T05:44:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "일본전 선발 가능성 있는 한국 김진욱에게 전 한신 오승환의 경험 전수 아시아 프로야구 챔피언십",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "50f2d0d10b7b959d",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "aa5695ca6460c95e",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObm56Q0hlZHBMYzM0TXZlQ0V0S2VYcm5UOUNGVGpHLWp1R3BrNVVUYTEzdEZIb0NlQ0VaM2ZlSWNabUhncDkyOXgzTnFfdWMwQWdHelJ3cVNQOG5LRFY2M3poa0NZM3RpMkNGSlpMVHo0QV9iTFZ6T0pnNzMzdll1LWtjMk1pNEJSelBKZldLSkJHWTA1TnJ2VXNScDJ5ZVpGUHlYck9PdWxkXzNZTTVad1Zubm8wQQ?oc=5",
+   "title": "Hàn Quốc: Ô tô đâm vào pháo tự hành trong đêm, tài xế thiệt mạng",
+   "source": "Báo Dân trí",
+   "country": "VN",
+   "published": "2026-11-11T05:41:10+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국: 밤에 자동차가 자주포와 충돌하여 운전자가 사망함",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "aa5695ca6460c95e",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "6900a29231579fa3",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JV3dvVEQtcktUdkJnbGFJQVAxQTNpUUwyOGxfenk2WFJzaTUtd3I2MThkekhMRzM1RFdkd1VKVmpDZWQtSlFUSkRHU29BbXJMN1RRNzR2bE91QXpSdWVkLXEzcVpfelhyWHlYUw?oc=5",
+   "title": "韩国公交车撞车致48伤我使馆证实无中国公民受伤--国际",
+   "source": "人民网",
+   "country": "CN",
+   "published": "2026-11-11T05:19:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국 버스 추돌 사고로 48명 부상, 주한 중국대사관은 중국인 부상자 없다고 확인--국제",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5e7a345e2295b2d6",
+   "heat": 12.0,
+   "score": 5,
+   "reason": "9개 매체 · 3개국 보도 (중국 9, 베트남 3, 미국 1)"
+  },
+  {
+   "id": "75c13299ac3c3aac",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa3o0MnFCbVVpeXVXRzQ0aUVuSEZ1c0NuY01Pei1yWXdVakU5V1pVYmJab1BIMFRjanoycUF1MjVPZGZxZ3lFV084NHUzeU5LSThYdDd1VEFhMGZiUkFrVmZBdkt5LUJCY1pMMjNfOW1JUFVQTjFSY2FuQVg0RzRpWGdKRWhVY0xMY0I5UzhmNmFSSlJhZUtZU3VnWklLdl9wU1dmR0dPWGRsQ2h1LUdzeGdHMUJIcXlJSGhOalVqaVNvRmpw?oc=5",
+   "title": "Việt Nam - Hàn Quốc tăng cường hợp tác về an toàn, vệ sinh lao động",
+   "source": "Báo Dân trí",
+   "country": "VN",
+   "published": "2026-11-11T05:07:04+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "베트남 - 한국, 산업안전보건 협력 강화",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "75c13299ac3c3aac",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "1ee86e28d9248f5a",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56QVVEYk9nUGY1akZyMFFQdmZ4ZnB2RksxdHNUcmZsOF9NSEpSMWFvVDJHTDljOURVMkVScWx6ZGJ2Q3B1bml6eWt4TGdSODQ4T3hrdjRSZkhvWWdfdTc2UElkWjI3Wk84?oc=5",
+   "title": "韓国代表は新体制で初優勝狙う 主将・韓東熙ら強力打線、投手陣はエース候補離脱も総力戦（スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-11T04:48:54+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국 대표팀, 새 체제로 첫 우승 노린다. 주장을 맡은 한동희를 비롯한 강력한 타선, 투수진은 에이스 후보가 이탈했지만 총력전 펼칠 것(스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "1ee86e28d9248f5a",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "072023417a4b63bf",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtV1p1RWU3WU1vd0E5Ui0zNDRfRG9acU1rRFVET0IwNGxFbFRib2xmWFo2akhQSmFiX1Q4OWV6YXdESHlPZ3JMTTV0UWZIOEV5RC1vbmZ1WURkWXZhQmdmNURSdUhlbkkz?oc=5",
+   "title": "韓国は金ミン俊が開幕投手 日本の高橋宏斗、竹丸、山口を警戒（スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-11T04:40:49+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국, 김민준 개막 투수로 낙점. 일본의 다카하시 히로토, 다케마루, 야마구치 경계(스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "072023417a4b63bf",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "dde6c9b0da3cbb39",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtWk9xa3NRZVJ3VUFMWGsxWTRnVFRRb0pTVlg3N2NLc2xTTHFzRUVzekNHSUYwM05IelVZU21veks2MDZ1NndTUk0zN09SYy01M3U5ZVc2ZWlUNUU4?oc=5",
+   "title": "イム・シワン、東京でのオフショット「日本にきてくれてありがとう」 韓国ドラマ『罪深いあなた』のサイネージと撮影",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-11T04:30:15+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "임시완, 도쿄에서 오프샷 \"일본에 와 줘서 고마워\" 한국 드라마 '나쁜 녀석들: 더 무비'의 사이니지와 촬영",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "dde6c9b0da3cbb39",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "58e4961319d04bd6",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHNSZEFKcmwtMmVpdnBhZGotRzBPb1BiSnFBZGF2SEt5X1BZMHJEQ21jN2JxRXp1QTh6SzNqVGxta3VzX3RlZVlRTk14UnhxYmNCU3BUaUxFdC1URGhFSEFHWmp4RFM3OFlka2h5a2NWclBPRHU1czFOVzhlYjBlbjBWcVpwc0ZNQl9vd0t2YndGcVZu?oc=5",
+   "title": "Dozens injured in South Korea after bus crashes into 32 vehicles",
+   "source": "AP News",
+   "country": "US",
+   "published": "2026-11-11T04:26:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국에서 버스가 차량 32대에 충돌해 수십 명이 부상을 입었습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5e7a345e2295b2d6",
+   "heat": 12.0,
+   "score": 5,
+   "reason": "9개 매체 · 3개국 보도 (중국 9, 베트남 3, 미국 1)"
+  },
+  {
+   "id": "63d2a05a2f25eb8f",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvWFdRVTVXZXA2dGR0N0hxalZnZXBLMU1JMHJ1enJ5SkJ3djlLVG5iMUJ3YXJFSnZxVVpLUzZDY0dPM1dmSW5WZFI2WlJ0N2VNdVAzcEpFbHJUcTFTMkNPZ1JlSHR2ajlD?oc=5",
+   "title": "韓国代表左腕・金進旭 元阪神・呉昇桓氏から金言「自信ある球を」李大浩氏からも激励（スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-11T03:56:39+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국 대표팀 좌완 투수 김진욱, 전 한신 투수 오승환으로부터 \"자신 있는 공을 던져라\"라는 조언을 받고 이대호로부터도 격려를 받음(스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "63d2a05a2f25eb8f",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "3cdc285ed2e16fcb",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGlMeWJ5S09idFA0M3hKM2Q2YnBBZ05QcGlQUlMtaWxnNnJpTTJVbGNRRXJWS2dJMERwMmxJc25DYi1jenQ2d25ZRGlzT1FyZjlGM3JKYXJ3RHNORlVyaFNiUEpyNjVqMHRSeGVDVG1CaVFWUnlqUW5NR3VuUU0ycjg0TGVEbDN1a2JpRWhycTdObkx6b1N4TjJxMGNnclBsQ3lwZk10UTkwZjdrbXc?oc=5",
+   "title": "Xe buýt tông liên hoàn 32 phương tiện ở Hàn Quốc, 57 người bị thương",
+   "source": "Tuổi Trẻ",
+   "country": "VN",
+   "published": "2026-11-11T03:39:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국에서 버스가 차량 32대를 연쇄 추돌하여 57명이 부상을 입었습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5e7a345e2295b2d6",
+   "heat": 12.0,
+   "score": 5,
+   "reason": "9개 매체 · 3개국 보도 (중국 9, 베트남 3, 미국 1)"
+  },
+  {
+   "id": "a1e5f15677df8a13",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tUTF4WURFYko3aUl4T1diQzNmMlcxRGMxUk11WkxYbEs0MWp2WGY0ZEpfN250VkVTelpUck1tRDg3UXRRVnYwRXNpOFBoYnkwbUx5Mk12V0dzSGR1UkhrcjVQbzFCVU84?oc=5",
+   "title": "巨人・松井秀喜新監督 韓国プロ野球から練習参加の内野手に“国境越え”アドバイス（スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-11T03:37:48+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "자이언츠·마쓰이 히데키 신임 감독 한국 프로야구에서 훈련에 참가한 내야수에게 \"국경을 넘어\" 조언 (스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "a1e5f15677df8a13",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "5590f1d2a4c93915",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjdTZ3d5QVJzWXdIdDZTc28yekxXQ3FGZzdROV8zanNJVzBaRUtxZktUZjNzdUhxTE9mX1IyVGhTNVNGbmtIQnhOZ3V3S0FWRTY0cmY0MW9MSmowNkZRdFRCSnNkTXcwVzJNUTFwWlBPYktSbGxENUFJT1E5TzRaTi14RHRxTmNUVWs4QnRaMjQ3UFpIeTRIbTl3?oc=5",
+   "title": "韩国公交车撞车致48伤 我使馆证实无中国公民受伤",
+   "source": "新华网客户端",
+   "country": "CN",
+   "published": "2026-11-11T03:24:14+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국 버스 추돌 사고로 48명 부상, 주한 중국 대사관은 중국인 부상자 없다고 확인",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5e7a345e2295b2d6",
+   "heat": 12.0,
+   "score": 5,
+   "reason": "9개 매체 · 3개국 보도 (중국 9, 베트남 3, 미국 1)"
+  },
+  {
+   "id": "9e79a1a2874f3a7d",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWGxMVzRSZk8wMlpEZ3QzcTMwMHNMLTZHOFNtZ1VvVzZkclVzWlU5aFM5U193VXJVVHBMR2sxZ1lheFFPSC1CdURlcmpoeFhibUpNNE5aZXU5SkNUR25hQWExRnJ4Ty13Nk9IUVNJZ1F6T3p3c2lWeVBxdzlRVHRaZVZWWjhJanV3SHJBMmhTZS1KV1FRRGZmLWhMSUxRMWZpZXdZVDhwNXhFUkJwOFozVFM5RmNWTjAtY3NrWXA3WGwzT21Cak5SQU9WZzllc3ItVFY2eFRBTTM?oc=5",
+   "title": "South Korea’s Pepero Day is a sweet biscuit tradition celebrating friendship and romance",
+   "source": "Young Post Club",
+   "country": "CN",
+   "published": "2026-11-11T03:12:25+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국의 빼빼로 데이는 우정과 로맨스를 기념하는 달콤한 과자 전통입니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "9e79a1a2874f3a7d",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "065d85a6f98f895f",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCaW1Cd1luUmtJcG1kOUh2TDR0Y29MeDhnYzhrXzE3NFAwdEVmTlZTbTl4dW5SYzdoSnNkRk5JWEN2MFdqZFVQamszOGRkUEVsQ1FCWmpaMXA5VUlVbkpKc3lsbmtSM2JD?oc=5",
+   "title": "オリコンニュース：アントニオ猪木さん、北朝鮮での貴重映像をメディア初公開 現地女性から食事も…知られざる交流",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-11T03:08:08+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "오리콘 뉴스: 안토니오 이노키 씨, 북한에서의 귀중한 영상을 언론에 최초 공개 현지 여성으로부터 식사도… 알려지지 않은 교류",
+   "mode": "free",
+   "korea": [
+    "north"
+   ],
+   "cluster": "065d85a6f98f895f",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "94272ef634f21ca2",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMl9WcThLbFc0a2tTblpCdTJIUTFnSkRoTEYtQ2NRb09fbGFUcWhwa3MxeU10dER3M0tNNFJQb3d6M3NRMXVIQjBPZWtFRDJXSzR1VldHT0hZTzN6cldZNWV2VmN6cVE4c283VmlsLVBZUERhUlVqd1dQZTlaZGxZTzhzemp6THNCOERNMEFiWklVNUh2bXllZzk5dXl2Wk9LdnpjbVR5WTlSWHUwYmJiNXBSZw?oc=5",
+   "title": "South Korea’s Jobless Rate Hits 3-Year Low Despite Weak Hiring",
+   "source": "Bloomberg.com",
+   "country": "US",
+   "published": "2026-11-11T02:58:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "고용 부진에도 불구하고 한국의 실업률이 3년 만에 최저치를 기록했습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94272ef634f21ca2",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "9923e351a9794837",
+   "url": "https://e.vnexpress.net/news/news/disgraced-cloning-scientist-loses-korean-citizenship-after-becoming-uae-national-5142934.html",
+   "title": "Disgraced cloning scientist loses Korean citizenship after becoming UAE national",
+   "source": "VnExpress International",
+   "country": "VN",
+   "published": "2026-11-11T02:42:01+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "UAE 국적을 취득한 후 한국 국적을 상실한 불명예스러운 복제 과학자",
+   "summary": [
+    "줄기세포 관련 획기적인 논문이 조작된 것으로 밝혀진 한국인 과학자 황우석 박사가 아랍에미리트(UAE) 국적을 취득하면서 한국 국적을 상실했으며, 국적 회복을 신청했다고 밝혔다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "9923e351a9794837",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "59205127aa9b6945",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTZTRzBaOUNCdmpLZUsyVzNUSEhfbjBxSFUtLTIzazZZQ1prUkRGdi1jMU56Q2hUcEQtWkVUaGlhMW8tOUktX2VtU0tfWkxwaEhrSERrbUJMRl84R1hPYUs5ZWVkZVdOdkFrbm5Qc01hUHVyNHFWb1hfYXY2RHJoaUFfaU1oRTE2eU1KeWpPRFdNMGhVUktYdGp5ZmZyQ0E3aUNfNVpPNUJWV00?oc=5",
+   "title": "Kiev đánh giá về tình trạng hiện tại của quan hệ Ukraine - Hàn Quốc",
+   "source": "Tuổi Trẻ",
+   "country": "VN",
+   "published": "2026-11-11T02:42:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "키예프, 우크라이나-한국 관계의 현재 상황 평가",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "59205127aa9b6945",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "1636f9361458d19b",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91aFFLeHFFa1JSTWZJQWoza294UWNBSE0wdGE0VzQ2dld4VFh4RGt3ZWVxTVlPRk43NzJ1cS1TdHVQemx4aHVFQjk1OHotelhBRFA0YmJJZFotcnA2aFFqT2lRRFdweHdJ?oc=5",
+   "title": "「あの人を見に韓国へ…」15歳で脱北した女性が明かす北朝鮮の知られざる実情 韓ドラに憧れ脱北も",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-11T02:40:37+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "\"그 사람을 보러 한국에…\" 15세에 탈북한 여성이 밝히는 북한의 알려지지 않은 실상 한국 드라마에 동경을 품고 탈북",
+   "mode": "free",
+   "korea": [
+    "south",
+    "north"
+   ],
+   "cluster": "1636f9361458d19b",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "7824bf969a4eab13",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2NDBMclZWNmlqYU1RRWhnV1pOaTNabnhnc0xpQ1VfVk5YSHBfTmpoMGdYVnlsTFE3RS1acDBCQzB4VVJBS1ZZR1NlUUc1Yk4wbWtQUlc1c3Zkdks1ODhXSHoxNXUzTWlmMDBqMVFobVgtT0MwZ2VzTW1mWmc?oc=5",
+   "title": "48 injured after city bus slams into 32 vehicles in S. Korea",
+   "source": "Xinhua",
+   "country": "CN",
+   "published": "2026-11-11T02:04:30+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국에서 시내버스가 차량 32대에 추돌해 48명 부상",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5e7a345e2295b2d6",
+   "heat": 12.0,
+   "score": 5,
+   "reason": "9개 매체 · 3개국 보도 (중국 9, 베트남 3, 미국 1)"
+  },
+  {
+   "id": "9d7f306b1bb05ac4",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSUc1Qjd1QkcwUzlzOTNRbWloQUJxWWF3bVdON2E1NFlxWEI0SEFqeWZkb2R3ZlJrRFZpTGlsMnFjei1tdWZWVU5YRGxpNDV5bnBGS184RjFXb3MzZjJ1TzB6a1ppYXFPM2dqMDhOVjdxVzdqV21weUhOazZLd0E?oc=5",
+   "title": "韩国公交车连环撞车事故伤者升至48人 6人重伤",
+   "source": "新华网",
+   "country": "CN",
+   "published": "2026-11-11T01:46:39+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국 버스 연쇄 추돌 사고 부상자 48명으로 증가, 6명 중상",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5e7a345e2295b2d6",
+   "heat": 12.0,
+   "score": 5,
+   "reason": "9개 매체 · 3개국 보도 (중국 9, 베트남 3, 미국 1)"
+  },
+  {
+   "id": "867ef4534c3daff4",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jZ0U2MGUwbzFhd0VicHVpVzZsUmZ3RF9ZQjF5U1BObnY2bG1IY2lZTXVpdy1lLU5iY3dBazlER2hFdjlOS3dmNWN3dDFIaGZiWk40a2NYanhZMGc1Tmp0TVZxeVB4ZEU3Tm9tOFNFcjNZUjZPWGVpOTcyRGg?oc=5",
+   "title": "S. Korea's job growth stays in 100,000 range for 4th month in October",
+   "source": "Xinhua",
+   "country": "CN",
+   "published": "2026-11-11T01:43:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "10월 한국의 일자리 증가, 4개월 연속 10만 명대 유지",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "867ef4534c3daff4",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "5bbbbd2938050e23",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SekNhdGpfVGI5R2thQ0p0S0FGR1JrX3JJVl9zY29UbUdtQnN1dURmQnRWd1J6RmZ5N2h5OUdXSlA5TjVITVJ2U2U0XzB5LVY1UlJzVXg2aDZaZjBlbjdjUm9FU2s4cnM2c0RoUEdDV09hOVpPU2xRQ1pFZmE?oc=5",
+   "title": "Urgent: 48 injured after city bus slams into 32 vehicles in S. Korea",
+   "source": "Xinhua",
+   "country": "CN",
+   "published": "2026-11-11T01:33:30+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "긴급: 한국에서 시내버스가 차량 32대를 들이받아 48명이 부상을 입었습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5e7a345e2295b2d6",
+   "heat": 12.0,
+   "score": 5,
+   "reason": "9개 매체 · 3개국 보도 (중국 9, 베트남 3, 미국 1)"
+  },
+  {
+   "id": "72d99f61592b6a99",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96VERkdjFUakVMcTJEOGdGU29pUVhyZ1NiNnY3TVY0TDh3RExWRjdFeXZLM2YtTW0wTmpQM2p2YnRib2lzeHV4dWpORGNMODJLbk9HbUhGanA4MW9rTDlZTzU3Rnc?oc=5",
+   "title": "山东烟台：中韩创业人才齐聚 对接优质项目",
+   "source": "山东新闻",
+   "country": "CN",
+   "published": "2026-11-11T01:31:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "산둥성 옌타이시: 한중 창업 인재들이 한자리에 모여 우수한 프로젝트를 연결하다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "72d99f61592b6a99",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "033ecac270f2d8f6",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NdEY5MldzR05yRmxIVFozcXdDMnhkRl9LTDJ5WFBUcjNvelFwbERpcGhmY3VObzZabzZoSTJqUHJ6TDVSYkZRd0FkMzhXcGxuRkQ1Q0VjUlloLTVvYld6OVItQXFacnBKdzU2Xw?oc=5",
+   "title": "韩国一公交车连撞多辆轿车致34人受伤--国际",
+   "source": "人民网",
+   "country": "CN",
+   "published": "2026-11-11T01:17:00+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국에서 버스가 승용차 여러 대를 잇따라 들이받아 34명이 부상을 입었다 -- 국제",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5e7a345e2295b2d6",
+   "heat": 12.0,
+   "score": 5,
+   "reason": "9개 매체 · 3개국 보도 (중국 9, 베트남 3, 미국 1)"
+  },
+  {
+   "id": "3d7e338dc2970478",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80bUlaTGsybUdyak55NW9nZ2VWNE5zRlVJVDVibnlBRnY0UnM0cGdxUVFJdW92RkN1cllCVFNzdjdRalNHUHhJb2xEcWd5czlBQVZxOVF5eHdHdjlOOFAzQnlGaHExR0E?oc=5",
+   "title": "米国の原爆投下責任は…民衆法廷、韓国で開催 広島の被爆者も参加へ [広島県]",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-11T01:15:01+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "미국의 원자폭탄 투하 책임은… 민중 법정, 한국에서 개최 히로시마의 피폭자도 참가 예정 [히로시마현]",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "3d7e338dc2970478",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "5e7a345e2295b2d6",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xRWZRRWRCNHhtalVaVlJXSGl4MjZjUmo4alh4ZFFYMXIwRU1LV25ia3ZsS0FDVENubjFUeDhNTmRXbjFqY2J5dFFYdDFwU09yWHFWWFZFbHlZX01IUEpNaWx6UmN1QndPWHJIcXNFejJlU1FvVVBkSUhLaFlKaE0?oc=5",
+   "title": "韩国一公交车连撞多辆轿车致34人受伤",
+   "source": "新华网",
+   "country": "CN",
+   "published": "2026-11-11T00:55:22+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "한국에서 버스가 승용차 여러 대를 잇달아 들이받아 34명이 부상을 입었다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "5e7a345e2295b2d6",
+   "heat": 12.0,
+   "score": 5,
+   "reason": "9개 매체 · 3개국 보도 (중국 9, 베트남 3, 미국 1)"
+  },
+  {
+   "id": "e3e97fe16714bb9e",
+   "url": "https://www.scmp.com/week-asia/politics/article/3373971/will-chinas-maritime-moves-push-japan-and-south-korea-closer-together",
+   "title": "Will China’s maritime moves push Japan and South Korea closer together?",
+   "source": "SCMP Asia",
+   "country": "CN",
+   "published": "2026-11-11T00:00:16+00:00",
+   "collected": "2026-11-11T22:39:44+00:00",
+   "title_ko": "중국의 해양 활동이 일본과 한국을 더 가까워지게 할까?",
+   "summary": [
+    "분석가들에 따르면, 일본과 한국 사이의 해역에서 중국의 해군 존재감이 커짐에 따라 양국은 오랜 역사적 긴장을 극복하고 안보 협력을 강화할 새로운 동기를 얻을 수 있을 것으로 보인다. 중국 해군 함정과 해안경비대 함정의 통과가 급격히 증가한 것으로 보고되고 있다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3e97fe16714bb9e",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
   {
    "id": "5185189daa79aecb",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ocXpGZE1McDY5Sk1tWEdKWjh3X1BBTFdNZUdsaWJoSVdQUExrQlcyTDNtTGoxQ0JpdkFyck0xRGNJUGUyY0Y4MkFTcE5NeWNocElFZHlSS004SlN1?oc=5",

@@ -1,6 +1,1017 @@
 {
- "updated": "2026-11-14T22:23:25+00:00",
+ "updated": "2026-11-15T22:25:17+00:00",
  "articles": [
+  {
+   "id": "163b88c52cf02a0a",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lUkhabWFtc2EtSGltZVBpQ2VXeE1CUXN0VUVvOGgxd0RjNVhYblpQVlJEWjRRbVN3T1NuR1pQcEhfMHZ2aC1pRmFIMEZERDE4UG1Nb01KdzJuaVJ1bXVSZjNiWVh3aVBr?oc=5",
+   "title": "韓国が日本に13連敗 予選リーグに続き…3大会連続決勝で散る（スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-15T21:59:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국, 일본에 13연패 예선 리그에 이어…3대회 연속 결승에서 패배(스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "98b89355bcd8f655",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00YUpzRXFmaGtuRVFXck1SX0MxZTZpQS1YRnVNZHVDdTFzcU1PMHFZTmxnVXRhWnVmOUVqcTlVN3RwZ2VxTDZaekt0LUVEVkJpVDRRY0RFcFowWDRJSEdsQlQxcmJRaUd3?oc=5",
+   "title": "【侍ジャパン】日本が韓国に快勝し3連覇！西川先制弾、正木4戦連発、先発の高橋は7回1失点と好投（スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-15T21:56:29+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【사무라이 재팬】일본이 한국을 대승하고 3연패 달성! 니시카와 선제타, 마사키 4경기 연속 안타, 선발 투수 다카하시 7이닝 1실점 호투(스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "702267b10b2b5b6e",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYWlzX2JXeGhRbXY2eUd3QmloUU42YnhocU9VWXhwZTQ1eGNCRGQ2anpvdmdTNVdHMWZOOGVFeF9vX0hvbE5sUlQ5UThhZEhQaXZsYndQUEhhYjZ6aEJENlQyZWNDTUI4Zzd6UkxwemNzN3pnNVZVWGpPNGE1QkU5Y3UwS1h1eVpmVmhtaUFFak9SbGNWbGlSNkpScEExamlMNEJGSHZISFc2YWJnbXEzN25pV1lYMFM1c0dodmhUdXNjWnhTV3Y3blpic092d2c?oc=5",
+   "title": "Korea’s Instant Ramen Giants Take Their Spicy Rivalry Global",
+   "source": "Bloomberg.com",
+   "country": "US",
+   "published": "2026-11-15T21:00:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국의 즉석 라면 대기업들이 전 세계적으로 매운맛 경쟁을 펼치다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "702267b10b2b5b6e",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "d1b1580acc3ef41a",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoakFjS1U0TG9GMjV2WVprNUprblI1U3FQdzF2R1RJdnJsZDdJRVBBMEFZZk1CYXR0TXVBM2FNZWdMbHlBZjJHWDNzMFB0Ny01bUQ4QThaM1drYTg0?oc=5",
+   "title": "（世界グルめぐり）熟成素材、しみる家庭の味 韓国",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-15T20:00:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "(세계 음식 기행) 숙성 재료, 스며드는 가정의 맛 한국",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "d1b1580acc3ef41a",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "8afe90b8d9962085",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yTjJxWnJXUFhGcTBUTmF0M3kyUDI3VUJsNVVUa0ZOYmJxcXBLRXluSkFrSno0YzVIbmVhQWQ4WElRd0dOU1l2TmhlaEx0bFdHZGxUUG5VaGlKanhmSHBlelhKVElTa3Nt?oc=5",
+   "title": "【アジアCS】韓国 日本に13連敗…3大会連続準Vも崔元豪監督「打者は技術的に成長している」（スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-15T20:00:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【아시아 CS】한국, 일본에 13연패…3대회 연속 준우승에도 최원호 감독 \"타자들은 기술적으로 성장하고 있다\"(스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "4f285d7c0ed62746",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xRG41WG5uOHRjcHV6TzZaakVsQWluVXd1aDhRcHBGYnZsZzNZSlpwYlRCT1l1MDd4NzhMLW93NEpOREttcldJN1JnYmNqTDFqcmRwczM1LWZqeERO?oc=5",
+   "title": "米に謝罪と賠償を勧告 予備判決「原爆投下は当時の国際法違反」 ソウルの原爆民衆法廷、最終日",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-15T20:00:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "미국에 사과와 배상을 권고 예비 판결 \"원자폭탄 투하는 당시 국제법 위반\" 서울 원폭피해자 시민법정, 마지막 날",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "3d7e338dc2970478",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (일본 7)"
+  },
+  {
+   "id": "849e9847d316a514",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkpJR213dXpLaG9pdDFzNEJtTTVuQTRubC0za2QtQ0JnYWhOTDFYU0dPcENVTExOYmtodjhMMWMzRjkxSFAxTG5CNEV0Z1dTaXROYS1sOXptb2JNMFR1SUZLTWRKdmhVaGFQSjYxanE5X2RpNXcxNHFtLUUyVkFUSHJUVjR4Y2UzSUduV2xXeXNrOUcyc0VWX2trSGVvVjBsa1FlclZ3ajhNM2k1djktQ1FmZ09ZYkNLV05ObmR1WQ?oc=5",
+   "title": "The Korea Discount Demands the Kitchen Sink",
+   "source": "Bloomberg.com",
+   "country": "US",
+   "published": "2026-11-15T19:00:24+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국 할인, 주방 싱크대까지 요구하다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "849e9847d316a514",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "f6b4566d469b24b2",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GWHVycWxBSVplZkpKMnZkQzI1SnNEaVU2YWU4RU5ZNkxxejItUHAwbjVEbEJUM2Q5WEdkVnR6bFViYmV6U0g5VkdKbDMtM2lrQ2JQMzVKOWxrelR1ZzJ5R01uVVdFVGx5?oc=5",
+   "title": "野球：アジアプロ野球チャンピオンシップ 井口J、船出の全勝V 韓国撃破",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-15T17:01:32+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "야구: 아시아 프로야구 챔피언십 이구치 감독의 일본 대표팀, 첫 출항부터 전승 V 한국 격파",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "acb8f17331e0cb18",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rY3NPQ0ZFYjBNRFNUVVRBTnA1azEzazJtWnhfRFdMbkhER2VBQW4xcTZ5ZUFTdG5Ud0FvdFdUX2V6X3BlaUhMWWFzbVJLWDAyZUZqMHozZ2g2RnBDa1lBaEg4dFRsM2R3?oc=5",
+   "title": "野球：アジアプロ野球チャンピオンシップ 井口J、船出の全勝V 韓国撃破 「正宗」コンビがけん引",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-15T17:01:31+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "야구: 아시아 프로야구 챔피언십 이구치 J, 출발부터 전승 V 한국 격파 '마사무네' 콤비가 견인",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "4009e20c8935534f",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tQlVvU1NhTWVEZW9nMzVtazdJaDhyd183Sm8weDh6MTdhc0RWQlhIZVB0d05wVGVVNFhRRkMySENjT2twbjY0OGJON1NJTm1OYllsTjYwdjJNOGdCSGc4bw?oc=5",
+   "title": "韩国一“超高分”考生承认偷用AI，青瓦台紧急商议对策",
+   "source": "ThePaper.cn",
+   "country": "CN",
+   "published": "2026-11-15T15:59:52+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국의 '초고득점' 수험생이 AI를 몰래 사용한 사실을 인정하자 청와대가 긴급 대책 회의를 열었다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "4009e20c8935534f",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "0706854f5e98dc35",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ga3ZJWENTSldXUnZzSUh0TVBYODE1YzBzVG1SdFhMOFZ5cEtVSEwyUk9LTFZUOHBQeTNNTHFjVXVFOF80QkR6amI1dVd1dERhbkNkU2lVODRkNFRKUWVmUzY0SHNkQVB3bnZOag?oc=5",
+   "title": "卓球世界ツアー、橋本帆乃香が優勝 韓国選手に4-1",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-15T15:18:05+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "탁구 월드 투어, 하시모토 호노카 우승 한국 선수에게 4-1로 승리",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "0706854f5e98dc35",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "763805948876a3c2",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVBxQ3pBRjN5V3kzQnVnNG50M3F6WnBqa2hUamh6eGNzY0g4V0p0cUZ6MGRmNHdjcXphRDR4MnhSa19aTFgyWGhQczJadHFremdCc1dJNFBqVmZwVXUybFdHcHlqVk9ZLWVHNWE3a3BfVTR3dUZpaTU0Z2ZKQ0dnNFAxdTlNYW9UUlcySVIxc1pzdGc3ZEV0aTU1RFN2V0FOMDlPTzJRYmN5ZktUR2ZCWmNYbjk3VXNPbm5xQjJaZzVMUlU?oc=5",
+   "title": "Nhà đầu tư Hàn Quốc ồ ạt bắt đáy cổ phiếu Nvidia sau vụ bê bối của CEO",
+   "source": "Báo Dân trí",
+   "country": "VN",
+   "published": "2026-11-15T14:53:04+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "엔비디아 CEO 스캔들 이후 한국 투자자들이 엔비디아 주식을 대거 매수",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "763805948876a3c2",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "785e9cc9196ac98e",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xdktUbjVNQV9TSklvY19FNmpQYjFJUHl1ZnpVSVdLd24yR01mUV9GNE1pa19ObVNFczhqYWVKOXhaUDA3anp6c1A4enRsWWhIem9QTGg0UnRSQ21xWjhxUC13LWJXTHo2blB0SktTamtDd2ZN?oc=5",
+   "title": "【アジアCS】韓国監督が痛感した侍ジャパンとの差｢戦うことができるピッチャーの数が…｣",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-15T14:46:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【아시아 CS】한국 감독이 절감한 사무라이 재팬과의 차이 \"싸울 수 있는 투수의 수가…\"",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "d49a70008b3c9dcd",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ma0FPX0toUFN6QXFKS2JFQW9nLWVvRFl6VnFUWnZhWERNa2JwaTZHYXVQc1JmcUwwNzVuOF9zajE0UGQ0T292bDZlalZzTVVfSGVYSTJMa0pDUHVmaS11OGMtbVg2Qy1JWm96RFBqVVpvVGk5?oc=5",
+   "title": "【アジアCS】韓国、先発の金健優が侍打線に屈す 崔監督｢経験を来年以降に生かしていける｣",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-15T14:33:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【아시아 CS】한국, 선발 김건우가 사무라이 타선에 무릎 꿇다. 최 감독 \"내년 이후에 경험을 살릴 수 있을 것\"",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "071b66f24f7587d5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1peUc5V1pFc3hKUGN2S0VLYTh4RWYxNm1rM0V4bGZRdzlqb2NFNnBkc21HQTRRRnlrOUlpZmtGZlcwamRzS3hCVXNEWlhaTWM3MjFBTmhtVDlzT3BmRWgyRnVFWEJCSmI2emNtZUZyOVhCRzk0?oc=5",
+   "title": "【アジアCS】｢完成度高かった｣韓国監督が高橋宏斗を絶賛｢苦しめられた。やっぱり良い選手｣",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-15T14:27:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【아시아 CS】 \"완성도가 높았다\" 한국 감독이 다카하시 고토를 극찬 \"힘들었다. 역시 좋은 선수다.\"",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "071b66f24f7587d5",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "e71d2359bf40566b",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42Mk8ydlFkb095Tmw0VGNjLWt0ZlZpWXBHaW1hVFp0SXlKWkI1Z2FfZU9fNmF1dmJRYVlhU1U3WDJWcGtkWGpTcmJybkJ1NW55UHZ3blZFdG1EVGxxeTktSEJyei1LMm9H?oc=5",
+   "title": "韓国は3大会連続で準優勝 全て日本に敗れ指揮官「パワーヒッターが多くなってきた」（スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-15T14:10:06+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국, 3대회 연속 준우승. 모두 일본에 패배한 감독 \"파워 히터가 많아졌다\"(스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "be180c6e8181770d",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1RUJWY2NxWGgxNzVaNGhMX0dxdjg2RVFZNHVnMUEtRHhsT0N5YXN4MTVwUHB0Y2cwV2pOTzYwRVZxWmd5bWJNdFE1Rlk1bENkMnBMSU9WbGNKanRzUnVPSlBPQXhOLW45WWoyY1NfMDhjLU96?oc=5",
+   "title": "【データ】アジアCS3連覇の侍ジャパン、韓国戦は17年から1分けを挟み通算13連勝",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-15T13:56:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【데이터】아시아 CS 3연패의 사무라이 재팬, 한국전은 17년부터 1무를 끼고 통산 13연승",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "7f502e21ec8aa1ea",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pcThvdVVaUThYNFRyR3hMTjRDOXRlcDJqVWRlMjc5a3VhYngzVUhqZEFjZ3E5YzRCdTlZWU5RYnd6cFg1VFBTMTZJR0tkekIwY0RkSWJfUDFQQko2ZWp6X21YcFJ1UVdGVXptRQ?oc=5",
+   "title": "アジアプロ野球、日本が3連覇 韓国を5-1で下す",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-15T13:55:39+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "아시아 프로야구, 일본이 3연패 달성. 한국을 5-1로 꺾다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "b8c212310d980617",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFS0VEV0w2Z2VTc1ZIVHhRZWE5ODZPWjlMYzJkd0JuTndKVWo0UmlQNHhXU1Z3NGhwb2pBQlFyRE16QzFMaXNEZ1hGZWtHV2ZtTlFseG1CZlpPb2JkRjZKdg?oc=5",
+   "title": "160题仅错1题，韩国税务师考试“状元”承认用AI作弊，惊动总统府",
+   "source": "ThePaper.cn",
+   "country": "CN",
+   "published": "2026-11-15T13:32:13+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "160문항 중 단 1문항만 오답, 한국 세무사 시험 '수석'이 AI를 이용한 부정행위를 인정하여 청와대를 놀라게 하다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 12.5,
+   "score": 5,
+   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+  },
+  {
+   "id": "ff6bdc6450ebf3de",
+   "url": "https://thanhnien.vn/chi-sai-1-160-cau-thu-khoa-han-quoc-thu-nhan-gian-lan-bang-ai-185261115185808829.htm",
+   "title": "Chỉ sai 1/160 câu, thủ khoa Hàn Quốc thú nhận gian lận bằng AI",
+   "source": "Thanh Niên Thế giới",
+   "country": "VN",
+   "published": "2026-11-15T13:16:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "160문항 중 1문항만 틀린 한국 수석, AI를 이용한 부정행위 시인",
+   "summary": [
+    "11월 15일, 한국 경찰은 국가공인 세무사 시험에서 최고점을 받은 응시자가 인공지능(AI)을 이용해 부정행위를 했다고 인정한 후 수사에 착수했습니다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 12.5,
+   "score": 5,
+   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+  },
+  {
+   "id": "b5008b11a9a0059c",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sSEFPcEZiNnU4dW5pSmlxXzJsamZuRVlDXzNWdUo1dEVlWlpGcmllU2pyelRXdENVMWZSX0NvdnVzbjFUYzlKVWk2MlRUUnE1RndoQzJ0VGxVb25yTTA5NE5zbG1wZ1dJMU5mMHViQjN0d1J5?oc=5",
+   "title": "【アジアCS】韓国、侍ジャパンに完敗で日本戦13連敗…またも日本に勝てず3大会連続準優勝",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-15T13:13:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【아시아 CS】한국, 사무라이 재팬에 완패로 일본전 13연패… 또 일본에 이기지 못하고 3대회 연속 준우승",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "3985fa48d0048df0",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIMHR1NFV6RG5JQmR0LWE5YzladG9XX1FRMU53RWpqSnBHX0ZmQy1MUVFCUDVtVzdkM3BuWmt5M1Ffc2ZVV3QzM0pIVXdTTFdSbnR4ZzJLMXJFeTlzMnVUUEhfZjBKZlk?oc=5",
+   "title": "原爆投下「国際法違反」 ソウルの民衆法廷、米国に謝罪と賠償求める",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-15T12:40:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "원자폭탄 투하 '국제법 위반' 서울 시민법정, 미국에 사과와 배상 요구",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "3d7e338dc2970478",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (일본 7)"
+  },
+  {
+   "id": "7273caff309b66ea",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHT2hMcy1QUmxXTERRYTV4ZU42U0FGWXQ3UzdCWWdJVEJxMTRsaGxmSTVBWk5XOGx1OUt3SDNvaXFrZzBPLWpiZ3hCSDlNQzVxQ0c4dFF1bENNNGNlUDh6ZkNuckhKd0d1Mmd1MmtMekhoQmky?oc=5",
+   "title": "韓国チアのパク･キリャンさん、ノリノリ動画公開｢めっちゃ可愛いやん｣日本のファンもつかむ",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-15T12:24:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국 치어리더 박기량 씨, 신나는 동영상 공개 \"진짜 귀엽다\" 일본 팬들도 사로잡아",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "7273caff309b66ea",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "c07ff43290e82418",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/15/baseball/japan-korea-apbc-final/",
+   "title": "Samurai Japan beats South Korea to win Asia Professional Baseball Championship",
+   "source": "Japan Times",
+   "country": "JP",
+   "published": "2026-11-15T12:12:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "사무라이 재팬, 한국을 꺾고 아시아 프로야구 챔피언십 우승",
+   "summary": [
+    "일본은 이 대회 3회 모두 우승을 차지했습니다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "cb376766a73b296b",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UWkpvTzAyQUJVVHNQelhZVl80Ri1RRkhHeFByQVI2NFBNc2syRVVvaGtjNm9tamcyUWJ3a2p5MHpkblNFS0IxU3k4VFgtek1WS00yelhLWEhiTXBZbmVmQlRn?oc=5",
+   "title": "South Korea's ICT exports to Chinese mainland, HK jump 213.1% in Oct: report",
+   "source": "Global Times",
+   "country": "CN",
+   "published": "2026-11-15T12:09:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국의 중국 본토 및 홍콩 대상 ICT 수출, 10월 213.1% 급증: 보고서",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "cb376766a73b296b",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "0fbe8490a4cc40c4",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xUzRRU2RrUTlWRVhCNkl2WmU2MVZ3Z2JDUkpteDNLVEIwRllZX1hITEpfRkVPaVpVbWNPMVpZNzMwd2t2UW90MHAwUmlScTJmbmZ4V0tSOXNpSER1ZkJGd3laczFVYXFReWpuSFZJaDIybjY0?oc=5",
+   "title": "【アジアCS】韓国応援席に“女神”降臨 里崎智也氏の詳細リポートに｢チア情報詳しすぎる｣",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-15T11:55:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【아시아 CS】한국 응원석에 '여신' 강림 사토자키 토모야 씨의 상세 리포트에 \"치어리더 정보가 너무 자세하다\"",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "0fbe8490a4cc40c4",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "c8420ef895fff02c",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TSzMybk82QTY5U2x6aXd0M2pTMUNoNlB1Q040aThjelpQakZjUW1JMXJHQmxXTVktbHhZLXBZVG0xcW9jVE9JN09tSHR1YmdsUEoxQkRQa0FsNEFheUpsUHVIUW9jcXRG?oc=5",
+   "title": "中韩青年江西共建“友谊橙园”",
+   "source": "中国新闻网",
+   "country": "CN",
+   "published": "2026-11-15T11:42:21+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "중한 청년들이 장시성에서 '우정 감귤원'을 공동으로 조성하다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "c8420ef895fff02c",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "612eaa1448bfc349",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10ampQVXNid2VPTUxGa1FZUXhJZWVNZDhNckFvdkU5b0U2eFl4SWhsbjJZWDJGcmRqUmJ1cjlXRzRVanM3Nm52T1pOUUo0ZG1LWFpHX1FITklkd2RlWkhiZUMtRGF3VXpERW5FZy1nWXE2c3Uy?oc=5",
+   "title": "【アジアCS】里崎智也氏、韓国先発は侍ジャパン左腕に｢そっくり｣バックネット裏から指摘",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-15T11:29:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "[아시아 CS] 사토자키 토모야 씨, 한국 선발은 사무라이 재팬 좌완과 \"똑같다\" 백넷 뒤에서 지적",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "d1d8e15e9d5d90ec",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ldWY0a0FIWlFEbDNWR3dvOHh5UWVmaUt6b0RHaUhrTUhvcU9XYVNtLU5iMzRRS0FZSUpTYWpuQkdYcERKaE9yaFcwVWgtc3dHQTgtSERSUEllVEx4TlFtSDFxekduVXkz?oc=5",
+   "title": "福田未来、韓国でデビュー曲初歌唱｢日本と韓国、国境を越えて歌でつながりたい｣",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-15T11:21:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "후쿠다 미라이, 한국에서 데뷔곡 첫 가창 \"일본과 한국, 국경을 넘어 노래로 이어지고 싶다\"",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "d1d8e15e9d5d90ec",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "c940abaf5fdccd4a",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WUmFlWER3ZlQ2QzJnYkFpVnhNNnNRQ1RnNTVzbEExdnlCNWxRNjVCN3FyRzdzSkdDUUFzY2RYV1VQX2t0QllySm1QMWlDVVZfREZlWWVhT0dRVTRnSFRDeWdKS01sNjE4?oc=5",
+   "title": "ヒジン、母国･韓国で日本デビュー曲を初披露｢言葉を超えて心は通じあう｣",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-15T11:21:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "히진, 모국인 한국에서 일본 데뷔곡 최초 공개 \"언어를 넘어 마음이 통한다\"",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "c940abaf5fdccd4a",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "94caa54cc46a7d6b",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jeVluTXlIdG9TOXNPSEQzOExkaFYzS1BqNHVDTkFyX3VIeUQ3VmFoeVh2NEhVQl9vczhsLU1WSF8xUGFEUmI5bHVLVm9KaVBPSVFFaUw2WVRVTFJuU0k2MFJtcGN5dURnV1gzclZWRmR2Nnpw?oc=5",
+   "title": "【アジアCS】韓国の美女チアが決勝でも応援！ユニ＆ホットパンツ姿 SNSでは他の注目点も…",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-15T11:00:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【아시아 CS】한국의 미녀 치어리더가 결승전에서도 응원! 유니폼 & 핫팬츠 차림. SNS에서는 다른 주목할 점도...",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "058df8f628c19a89",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "fd7be46567eeceac",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1razNmVjdWWDhQZ0NvYVJwN2pLTUMzNHNFcVMxemNhRlR4VWc0LTBGb3JlVXBPMTJPRlJTVFJqWkowdHpScXB2a29nMU16MzhHVmtOdjhBaXJ0NlVEX0NjcHQ1WHZpTGVu?oc=5",
+   "title": "【侍ジャパン】西川史礁が初回に先制弾 決勝の韓国戦で今大会1号「反応で打てた」（スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-15T10:34:28+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【사무라이 재팬】 니시카와 시쇼가 1회에 선제타 결승전의 한국전에서 이번 대회 1호 \"반응으로 칠 수 있었다\"(스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "0946c8c9a70dbd77",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lbURwcGN6SzRrMUpCQno0NnJpWDJ6WmQzVUJ2eUxuUU1vTG5tTm5KcTNlLU5ValNzckEyZ1ZGZ2haN09MUUZUNHZmblNTd0hGWHBNT1F2LTN6TWsyS05kRHhaRzJQT0Q0YkZSWVRfUnc?oc=5",
+   "title": "「ＶＩＶＡＮＴ」悪役・河内大和が絶叫始球式 「決勝戦はじめようか～！」日本ＶＳ韓国…「８番出口」では「歩く男」演じる",
+   "source": "読売新聞",
+   "country": "JP",
+   "published": "2026-11-15T10:18:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "'VIVANT' 악역 가와우치 야마토가 시구식에서 \"결승전 시작해 볼까~!\"라고 외치다일본 VS 한국… '8번 출구'에서는 '걷는 남자'를 연기한다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "0946c8c9a70dbd77",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "70c6a8f039050a18",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGJsLXVoOXpRbllUdVFxbUMyWFU1bEsyTEFxQmJPRF82T1hCcXQ0WTRtNFN4elBSWlBQRFFGVUpwa2JrbGxmb0JzcU5lQTNjQmRrY1NsaE5Ya1gybXJuR0w2ekVlRzJuTHRxQ0dMNURUMVoxVkZJTVpUZFB3bFdhZ3RCUFVjSHRDQ3l2R00wZ2NqX0c3SHR1SHFTelVWRlhEMEtZYmVYMXdQWmt3bllkWGR1TWdqQ1dOY25V?oc=5",
+   "title": "Thủ khoa kỳ thi kế toán thuế Hàn Quốc thừa nhận dùng AI gian lận",
+   "source": "Báo Dân trí",
+   "country": "VN",
+   "published": "2026-11-15T09:45:48+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국 세무사 시험 수석 합격자가 AI를 이용한 부정행위를 인정하다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 12.5,
+   "score": 5,
+   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+  },
+  {
+   "id": "bb1f0f3839a13d26",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TRlR1MzFKTVVvMDVGeXRuVFl4LVZnRHJiWGtvZ3ZHT3N4RDBxa21KWFBUb0diMHR6dFQ1cmU5UDFPajVtOU9lcFpCb3JEVGtBemdnenVkY1Q1MEJpT2FVTGNkc2Y1cnJS?oc=5",
+   "title": "“热雪新疆·相约首尔”新疆冬季旅游推介会在韩国首尔举行",
+   "source": "中国新闻网",
+   "country": "CN",
+   "published": "2026-11-15T09:08:17+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "'따뜻한 눈의 신장·서울에서 만나기' 신장 겨울 관광 홍보회가 한국 서울에서 개최되었습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "bb1f0f3839a13d26",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "239ce5a471118a38",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzl6U29lUlhxcDlOZ3lHUVZ0MXRGQWxKWkJDZHN4ZTNmMGhzTUlMaXl3dFN1Mk5wMm5haGpTUXFabXBQTTN5TkhpSVBlb2lJUllXZVJIZzJvNy10OXhjNm9hNFNGNmkyTnBqeFQ3QlBvUHAyTzg5RHRMYU12bElJcUZCckFZamF2TWxaM2RrcHROWU11UF9WOG5Qdmt2Q29LbHB4OVVaSlJfdFlERllBdG44UEVON3lvb1dwNGUwSXo1UQ?oc=5",
+   "title": "Goryeo Buddhist paintings reflect China-Korea artistic ties",
+   "source": "CGTN",
+   "country": "CN",
+   "published": "2026-11-15T09:05:09+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "고려 불화는 중국과 한국의 예술적 교류를 반영합니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "239ce5a471118a38",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "d5efba62c26eee22",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTSDNoQkFMbURrVVVyaDJOM0YxYklhYTF0eEZ1S1FhMTBRbmVqMDB2d0RmVnhCTklReWdCRVhRRDFCWnRrZ1lPM3ktMFZ3dlFUYk84NGxRcENrN3REcWdPMF94cDg5UGRi?oc=5",
+   "title": "【侍ジャパン】決勝・韓国戦のスタメン発表 度会＆長谷川がスタメン復帰（スポニチ）",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-15T08:54:26+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【사무라이 재팬】 결승·한국전 선발 명단 발표 도카이 & 하세가와가 선발로 복귀(스포니치)",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "b969e599e059fe05",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTBkMHVFbnVDOWNRajdDT204QVNpM1h5aWJaNEdINjl5OWMyOWY4WVZVRUwxbC12RUlXUmltSFRsZzZ5Qnc5N2kyX1M1RXdiS1h5eHVIS2Nnam93Sk5laE5BUGdWTEtTYnljM192WjdWUU4ya3gzajVMTnJMZV9USk1oRmFUUUhfS09wN2JFNW5ZRkk3SHdXLUh1Z2Y3bnByd05CRnlWVGlkdlAwaVZoN254dE8?oc=5",
+   "title": "Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating",
+   "source": "Bloomberg.com",
+   "country": "US",
+   "published": "2026-11-15T08:49:18+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국 세무사 시험 최고 득점자, AI 부정행위 인정",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 12.5,
+   "score": 5,
+   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+  },
+  {
+   "id": "7b53e7f1b157cea2",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tREFSWm1IWnFDRGZYS2tLNTBlejQ4MUNVNHl5bXY1TVQ0bm5CUjBjT0JCZ3NfYkFtSktxZDZ3WGN0ZDNtcEhDN2ppWDVQdmh0cXRqdGZBeU1QRVhr?oc=5",
+   "title": "【あすから】2PM・テギョン＆ハ・ソクジン、連続殺人事件の真実を暴くために奮闘 韓国ドラマ『ブラインド』放送スタート＜キャスト・あらすじ＞",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-15T08:40:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【내일부터】2PM 택연 & 하석진, 연쇄 살인 사건의 진실을 밝히기 위해 고군분투하는 한국 드라마 '블라인드' 방송 시작 <출연진・줄거리>",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "86486e2dd855c4d7",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (일본 3)"
+  },
+  {
+   "id": "117a79451034231e",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OMUZwZnFVbVNMbzVObjItRXBJOXZiVzRpVF8wd1FoM0MxS3RQWWV6X192MnUwclM2TEo0TlI2dklTY0tHLXlFYS1ESzVIZmM3eWctbmhuTHRqbVB6?oc=5",
+   "title": "【あすから】ソンジュン＆パク・ヒョンシク、異なる魅力を持つ男性を熱演 韓国ドラマ『上流社会』放送スタート＜キャスト・あらすじ＞",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-15T08:20:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "[내일부터] 성준 & 박형식, 서로 다른 매력을 가진 남성들을 열연한 한국 드라마 '상류사회' 방송 시작 <출연진・줄거리>",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "86486e2dd855c4d7",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (일본 3)"
+  },
+  {
+   "id": "c1bdefa731c83e78",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SQm8tVXBjU251aDJnWXczbG5yc2RnR1VEOGt5RWg3eTRGZ2oyRjFQOC15anJhVzdTUnFNYW1SNkdJbVBjUmdFRjVWRWlGbW9WRVZfbThrcXl3dkFSSkE5U2M4SkhGdldIa0R3Y09oMnNScmdf?oc=5",
+   "title": "【アジアCS】侍ジャパン3連覇かけ韓国と決勝戦 第1回大会でも激突…当時のメンバーは？",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-15T08:07:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【아시아 CS】사무라이 재팬 3연패를 걸고 한국과 결승전 제1회 대회에서도 격돌… 당시 멤버는?",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "519ac8b31b3029d1",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tb3hkVlNLR1dSMkxUdkJHWDZhTFRtcVcwa1NpNDNVYUt4VXN2Yk1zUHBhdXUzdS1jZUUtUm1DUTlSWndRMmowdzQwMUktVnRYV2dzTThJd2cwemlxQjdNbXRrcXJqT1ZpVFA1U29zalhnMVo2eVpVTnZzb2NLUQ?oc=5",
+   "title": "China-S. Korea cooperation offers impetus for Asia-Pacific growth, says S. Korean scholar",
+   "source": "China Daily",
+   "country": "CN",
+   "published": "2026-11-15T07:50:21+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국 학자, \"한-중 협력이 아시아·태평양 지역 성장에 동력을 제공한다\"고 밝혀",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "faf8dc688bdb960f",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (중국 2)"
+  },
+  {
+   "id": "554c0cde6ec4b31d",
+   "url": "https://www.scmp.com/news/asia/east-asia/article/3374477/south-korea-calms-fears-over-260000-nvidia-chip-order-after-jensen-huangs-exit",
+   "title": "South Korea calms fears over 260,000 Nvidia chip order after Jensen Huang’s exit",
+   "source": "SCMP Asia",
+   "country": "CN",
+   "published": "2026-11-15T07:13:34+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "젠슨 황의 사임 후 26만 개에 달하는 엔비디아 칩 주문에 대한 우려를 진정시키는 한국 정부",
+   "summary": [
+    "한국 정부는 인공지능(AI) 기업 엔비디아의 젠슨 황 CEO가 불명예 퇴진했음에도 불구하고 엔비디아가 서울시에 대한 기존 파트너십 약속을 그대로 이행할 것이라고 밝혔다. 그러나 일론 머스크와 다른 사람들의 발언에 따르면 협력의 상당 부분이 의존적이었을 수 있다는 점을 시사하므로 불확실성이 여전히 남아 있다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "554c0cde6ec4b31d",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (중국 2)"
+  },
+  {
+   "id": "97b58d775f92ed05",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWnZGbFBZOHY4NVkxV2ZraklpTzAxbEp0VU9meDdndG1sOUFtV1dqekgyRnFYUlFpR0dsUmFsWGw1UnV6Y3YxZ1pocWp1Rk5Xd2tkb3NVbDNTaDdVV0hUWFNZZEVhY1dhQTRYUWNHekY5cmFFSzlvbHowNG5YX1JpV0MxN3pjYVdzb0hWTU5LeWNXUmdPY0pBWUEtUGNVeWttU3NaSDdTOHg5cVVVZzdJSFlTZXNpUnNoVEVuLTU3ci1RTkFYUW1maDFseTFvR2JPWjZUeWdOdnZfYjJJOEpKMENCb212VHd2ZE10YVk2aHE0eTFndG5TeHVwd3M?oc=5",
+   "title": "South Korea calms fears over 260,000 Nvidia chip order after CEO’s downfall",
+   "source": "South China Morning Post",
+   "country": "CN",
+   "published": "2026-11-15T07:13:34+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국 정부, CEO 사임 후 26만 개 엔비디아 칩 주문에 대한 우려 진정시켜",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "554c0cde6ec4b31d",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (중국 2)"
+  },
+  {
+   "id": "b18dcde6172e0cbc",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaGs3OGVkMXNYVFNuazdMQVU3NWFNTFIweGhob1B0REpJZUo5Vmx6dnpqY293eHFnSGFxY3p3bUd0RmtaYUVtdmhaVElkdXhHc1BoTkJTaHF6TnIzU05EQVE5OGVuMi1RTWhyTV9pakdJblpMTnd2QTJUMUhsMUVWc01HUGlXMkx4MGNmdGllakpUS0JqVzlSdGpEN3RDWnhqU1NienNpNVFyTnNfd2tOU1FLWVdBRWtpZUlBYnpBT2xSYlE?oc=5",
+   "title": "Thí sinh Hàn Quốc thi chứng chỉ nghề tư vấn thuế đạt điểm cao nhất thừa nhận dùng AI",
+   "source": "Báo Tuổi Trẻ",
+   "country": "VN",
+   "published": "2026-11-15T06:59:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국 세무사 시험 응시자 중 최고점을 받은 응시자가 AI를 사용했다고 인정했습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 12.5,
+   "score": 5,
+   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+  },
+  {
+   "id": "0dcb5dac739bbba7",
+   "url": "https://www.japantimes.co.jp/news/2026/11/15/asia-pacific/south-korea-ai-test-cheating/",
+   "title": "South Korea probes top exam scorer after AI cheating confession",
+   "source": "Japan Times",
+   "country": "JP",
+   "published": "2026-11-15T06:55:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "인공지능(AI) 부정행위 고백 후 수능 최고 득점자 조사에 나선 한국",
+   "summary": [
+    "이 응시자는 1차 시험에서 400점 만점에 397.5점을 받았으며, 160문항 중 오답은 단 1개에 불과해 부정행위 의혹이 제기되었다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 12.5,
+   "score": 5,
+   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+  },
+  {
+   "id": "a43d6f02b4760939",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmb1A5Y0E5eEtHN29HZjhkaXJaRmNNbUtYN3dyWUVvUXV0czIzQ2ExcmhFdVgzNDhGWE9GVE9rT2YxOTZ0OXI4ZkwtX2d5WDVhLThPNjRFQjJKMk5JVkQwQTFaZlZtZXJWRUdrWmZMRExnQQ?oc=5",
+   "title": "「島根と韓国は、歴史的にも文化的にも深いつながり」出雲と韓国の交流促進へ、日韓親善協会設立…「隣国同士の友情深めるきっかけに」",
+   "source": "読売新聞",
+   "country": "JP",
+   "published": "2026-11-15T06:45:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "'시마네와 한국은 역사적, 문화적으로 깊은 연관이 있다' 이즈모와 한국의 교류 촉진을 위해 한일친선협회 설립… '이웃 나라끼리 우정을 깊게 할 계기'",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "a43d6f02b4760939",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "80499006c1803c06",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2hERDJXQTJlNERXVWpFM0hEUkV3Nms0NkM2dU5OV05FNTJjWTctSDJveXRIdUpaa29RSTFWbExrY3ByRzdJT1Q1VWFvZWxyQUlYU0FmbzJ4MjBKNzdCYWJVSXQyYmZ0TjNIUEtRU1M4bDc2X2dacmotU3UwR0VWOWVHUkxHOFVHb2ZURw?oc=5",
+   "title": "South Korea’s viral ‘Scarf Man’ tells customers not to buy his products. They’re lining up anyway",
+   "source": "CNN",
+   "country": "US",
+   "published": "2026-11-15T05:30:15+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "대한민국에서 화제가 된 '스카프 맨'이 고객들에게 자신의 제품을 사지 말라고 말합니다. 그럼에도 불구하고 고객들은 줄을 서고 있습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "80499006c1803c06",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "4488eec5ccb3c84b",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GMy1NZl9NUG1yc0ZJZS1ObENHRGE2MWV2V3VteHZKcXZmdXFPZGg4RlkzeDNpTk52aTl3YTZRR2tIelBfeFpERFFJRGtRbEdjZEtydk9hNERuaXJ1Y2ZQM1JGNHNkWU92UFc2eHBrdlJFLU5U?oc=5",
+   "title": "【アジアCS】大会3連覇をかけ、今夜韓国と決勝 覚えていますか？前回23年大会のメンバー",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-15T04:14:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "【아시아 CS】 대회 3연패를 걸고 오늘 밤 한국과 결승전. 기억하시나요? 지난 23년 대회 멤버",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "3ff7c540be78bc0e",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56VjNoVUtPcDFmSmRpSnNVMzBOdE02cXpnbHJFWHV5ZFFMMnRxRnQ3OWtDVWNqeGlCT3hqZjFpQ1JlZVpVWkVYaV80RzJPTC15eWxka19LSEdMOUMtbGhWQm9R?oc=5",
+   "title": "BLG ends China's 5-year wait for League of Legends world title after beating all 4 S.Korean teams",
+   "source": "Global Times",
+   "country": "CN",
+   "published": "2026-11-15T04:10:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "BLG, 한국 팀 4팀 모두를 꺾고 중국의 리그 오브 레전드 월드 챔피언십 우승 5년 한을 풀다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+  },
+  {
+   "id": "a7418061d8a97414",
+   "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3374378/digital-nomads-are-flocking-asia-south-korea-wants",
+   "title": "Digital nomads are flocking to Asia. South Korea wants in",
+   "source": "SCMP Asia",
+   "country": "CN",
+   "published": "2026-11-15T04:00:07+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "디지털 노마드들이 아시아로 몰려들고 있습니다. 한국도 참여를 원합니다.",
+   "summary": [
+    "38세의 알리나 라둘레스쿠(Alina Radulescu)는 이탈리아, 미국, 태국에서 한 번에 몇 달씩 머물렀습니다. 현재 루마니아 출신의 IT 컨설턴트인 그녀는 서울의 한 공동 거주 공간에서 다른 디지털 노마드 11명과 함께 살고 있으며, 지금이 가장 행복하다고 말합니다. 그녀는 \"한국에는 특별한 분위기가 있다\"라고 말했습니다. “요즘 저는 정말"
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "a7418061d8a97414",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "40e43202a2f569c1",
+   "url": "https://www.scmp.com/news/asia/east-asia/article/3374467/top-tax-accountant-exam-scorer-south-korea-admits-using-ai-cheat",
+   "title": "Top tax accountant exam scorer in South Korea admits to using AI to cheat",
+   "source": "SCMP Asia",
+   "country": "CN",
+   "published": "2026-11-15T03:05:05+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국 최고 세무사 시험 고득점자, AI를 이용해 부정행위를 저지른 사실을 인정하다",
+   "summary": [
+    "한국 경찰은 지난 10일, 전국 세무사 시험에서 최고점을 받은 응시자가 인공지능을 이용해 부정행위를 했다고 자백한 후 수사에 착수했다고 밝혔다. 4월과 7월에 치러진 국가자격시험 1, 2차 모두에서 1위를 차지한 응시자는 서면으로"
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 12.5,
+   "score": 5,
+   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+  },
+  {
+   "id": "bd212ec0bf543c81",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tM3A5SWkzaDk0WWhkRkxEUVRLcVhQMnJuR1UwUENRZDZGM1VkRHoycnZhMTZILXBwck5OX2VYeGlJOHZwX25WMzFiMm16Mm11MVdWM1NzbV9ZQ0IxY3dYUzhBUTFDbjA?oc=5",
+   "title": "今治明徳短大生とFC今治選手が韓国料理でコラボ 試食会開催 [愛媛県]",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-15T01:30:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "이마바리 메이토쿠 단기대학생과 FC 이마바리 선수가 한국 요리로 콜라보레이션 시식회 개최 [에히메현]",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "bd212ec0bf543c81",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "ac27ac65471528f8",
+   "url": "https://www.japantimes.co.jp/news/2026/11/15/japan/society/megumi-yokota-abductee-49-years/",
+   "title": "Takaichi reiterates her determination to bring abductee Yokota home from North Korea",
+   "source": "Japan Times",
+   "country": "JP",
+   "published": "2026-11-15T00:27:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "다카이치, 북한에 억류된 요코타씨를 일본으로 데려오겠다는 결의 재천명",
+   "summary": [
+    "11월 15일 일요일은 요코타상이 1977년 중학생이던 시절 니가타에서 납북된 지 49주년이 되는 날이었다."
+   ],
+   "mode": "free",
+   "korea": [
+    "north"
+   ],
+   "cluster": "ac27ac65471528f8",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "d6ccda110311b43a",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWxISTkyYUQ2WjlJU0t1LWoxa2FBbWhxYnNOYkI2QVhManU0cllGREFBeF9kSWswaVJTc2JjcVhDa3J1czY5aUdrbnVRZExJNENMdmRfY1FXbGN3X3lBVHh1X0dLb1J1OGI3RE9KcGNxeHB0VnlwSVlSNi1WdWRuSjdoaGppOWtMblh4MzNULVpnMms2TmpiZHRMbkt5bkJZcWNVZzEwcUQ5THFLYnc?oc=5",
+   "title": "Dàn sao Hàn Quốc sẽ góp mặt trong đại nhạc hội Coachella 2027",
+   "source": "VOV.VN",
+   "country": "VN",
+   "published": "2026-11-14T23:01:00+00:00",
+   "collected": "2026-11-15T22:25:17+00:00",
+   "title_ko": "한국 스타들이 2027년 코첼라 뮤직 페스티벌에 출연할 예정입니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "d6ccda110311b43a",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
   {
    "id": "86129fd2c962a4d2",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11djF4bmdkUXNBdkVoWG11ckR4dEFHemFkclVzZ1VXNFNBTGNSRlVkR2N0Zk9lUG5qOXRjQnNHQmlPblJqTno0OG5KX0p3VGtvR3NsQldtUm5vR1p6cUl0aTlQSUotSEpx?oc=5",
@@ -15,9 +1026,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "85f0dfaf2809f70b",
@@ -32,10 +1043,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "cluster": "85f0dfaf2809f70b",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
   },
   {
    "id": "c7abbd3e6df473a7",
@@ -69,9 +1080,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "908af2ef9f4661bf",
@@ -123,9 +1134,9 @@
     "south"
    ],
    "cluster": "faf8dc688bdb960f",
-   "heat": 1.0,
-   "score": 1,
-   "reason": "단독 보도"
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (중국 2)"
   },
   {
    "id": "e4f6da5417660580",
@@ -177,9 +1188,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "e5999a0de1d76cf4",
@@ -266,10 +1277,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "a0bb39750034d9e9",
-   "heat": 1.0,
-   "score": 1,
-   "reason": "1개 매체 · 1개국 보도 (일본 2)"
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "69447477a4d3daad",
@@ -411,10 +1422,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "a0bb39750034d9e9",
-   "heat": 1.0,
-   "score": 1,
-   "reason": "1개 매체 · 1개국 보도 (일본 2)"
+   "cluster": "e3796d481c436a27",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "ad00bb34caad3c7d",
@@ -448,9 +1459,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "ae794b09207fa8bf",
@@ -610,9 +1621,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "c2cba4c6ba747afa",
@@ -939,7 +1950,7 @@
    "cluster": "3d7e338dc2970478",
    "heat": 2.0,
    "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (일본 5)"
+   "reason": "2개 매체 · 1개국 보도 (일본 7)"
   },
   {
    "id": "303437ea9dd38fd5",
@@ -973,9 +1984,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "5361a1481b300de1",
@@ -991,9 +2002,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "9d4d3b275127d5bb",
@@ -1045,9 +2056,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "f00212e8de345990",
@@ -1100,9 +2111,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "a6abd43a722ed746",
@@ -1118,9 +2129,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "39c7aefe452242bb",
@@ -1190,9 +2201,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "892366ca5ca639ca",
@@ -1226,9 +2237,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "f8e1b4bff0668f49",
@@ -1262,9 +2273,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "b66982c655cdab02",
@@ -1298,9 +2309,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "58d822b55e4aafa1",
@@ -1334,9 +2345,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "2deed75115578e1e",
@@ -1370,9 +2381,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "070169511ee5474e",
@@ -1388,9 +2399,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "d99c9a6ec86b8bec",
@@ -1406,9 +2417,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "4ae3660402f26b76",
@@ -1460,9 +2471,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "3fb66dde28bc582c",
@@ -1534,7 +2545,7 @@
    "cluster": "3d7e338dc2970478",
    "heat": 2.0,
    "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (일본 5)"
+   "reason": "2개 매체 · 1개국 보도 (일본 7)"
   },
   {
    "id": "40f680a56d279af8",
@@ -1550,9 +2561,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "4c724ff685e110a1",
@@ -1586,9 +2597,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "847f3512c11849a5",
@@ -1644,7 +2655,7 @@
    "cluster": "058df8f628c19a89",
    "heat": 1.0,
    "score": 1,
-   "reason": "단독 보도"
+   "reason": "1개 매체 · 1개국 보도 (일본 2)"
   },
   {
    "id": "c10cea710d2c271e",
@@ -1678,9 +2689,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "3652ce79dd497ff7",
@@ -1750,9 +2761,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "2d2fadaf7d38995d",
@@ -1861,9 +2872,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "b3d17964c6d1c28c",
@@ -1987,9 +2998,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "86486e2dd855c4d7",
@@ -2007,7 +3018,7 @@
    "cluster": "86486e2dd855c4d7",
    "heat": 1.0,
    "score": 1,
-   "reason": "단독 보도"
+   "reason": "1개 매체 · 1개국 보도 (일본 3)"
   },
   {
    "id": "4044d4f6da54e0d2",
@@ -2383,9 +3394,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "017645ee060f563f",
@@ -2439,7 +3450,7 @@
    "cluster": "3d7e338dc2970478",
    "heat": 2.0,
    "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (일본 5)"
+   "reason": "2개 매체 · 1개국 보도 (일본 7)"
   },
   {
    "id": "d3152372c461b628",
@@ -2728,9 +3739,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "6fb2b6eabbfd3964",
@@ -2800,9 +3811,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "49dea88f21d090c4",
@@ -2855,9 +3866,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "0a7827245cff1821",
@@ -2891,9 +3902,9 @@
     "south"
    ],
    "cluster": "94d55236301127e9",
-   "heat": 1.0,
-   "score": 1,
-   "reason": "단독 보도"
+   "heat": 12.5,
+   "score": 5,
+   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
   },
   {
    "id": "49f73b3bd4750816",
@@ -3098,9 +4109,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "1de1618e6e64adf7",
@@ -3521,9 +4532,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "c9e2b009072de4b3",
@@ -3978,7 +4989,7 @@
    "cluster": "3d7e338dc2970478",
    "heat": 2.0,
    "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (일본 5)"
+   "reason": "2개 매체 · 1개국 보도 (일본 7)"
   },
   {
    "id": "7b1bbb2f64e450bd",
@@ -4264,9 +5275,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "b65849430555744e",
@@ -4666,9 +5677,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "aa5695ca6460c95e",
@@ -4810,9 +5821,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "3cdc285ed2e16fcb",
@@ -5104,7 +6115,7 @@
    "cluster": "3d7e338dc2970478",
    "heat": 2.0,
    "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (일본 5)"
+   "reason": "2개 매체 · 1개국 보도 (일본 7)"
   },
   {
    "id": "5e7a345e2295b2d6",
@@ -5177,9 +6188,9 @@
     "south"
    ],
    "cluster": "e3796d481c436a27",
-   "heat": 5.0,
-   "score": 4,
-   "reason": "5개 매체 · 1개국 보도 (일본 36)"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
   },
   {
    "id": "958caaa74befa517",

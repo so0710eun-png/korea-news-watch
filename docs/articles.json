@@ -1,6 +1,1144 @@
 {
- "updated": "2026-11-15T22:25:17+00:00",
+ "updated": "2026-11-16T22:34:08+00:00",
  "articles": [
+  {
+   "id": "724f8025d4292b24",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ueHBseUhhbmt0WHI0NzFNUmZ5eG1HWnNlQWdXNEphWVdMdG01VFo0V3U5ZG45c0d5SlZmWThMMGRFUEpJWFhialRJdzMyT1pX?oc=5",
+   "title": "元広島・岡田明丈 もっと投げたい――ドラ1が韓国で見つけた新たな居場所",
+   "source": "AERA DIGITAL",
+   "country": "JP",
+   "published": "2026-11-16T22:30:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "전 히로시마 오카다 아키타케 더 던지고 싶다――드래프트 1순위가 한국에서 찾은 새로운 보금자리",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "724f8025d4292b24",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "e845c50e891ba9f7",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qR2l5RHhRUUFfa1dqTm55UDhtTnktZEFjMzJrWDNCeVJLdDk4WThUbXZNY0RQdzlKM1NXaXVqbF8weENHZ1VNdFJmTldxeEJ2MTc5X2piSVdFclpSN3BnZg?oc=5",
+   "title": "韩国全北道将单独申办2036年夏季奥运会",
+   "source": "ThePaper.cn",
+   "country": "CN",
+   "published": "2026-11-16T21:52:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국 전북도가 2036년 하계 올림픽 단독 유치를 추진한다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e845c50e891ba9f7",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "802b2c4454421e9d",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3374652/putin-could-meet-north-koreas-kim-if-he-also-heads-china-apec-summit",
+   "title": "Putin could meet North Korea’s Kim if he also heads to China for Apec summit",
+   "source": "SCMP Asia",
+   "country": "CN",
+   "published": "2026-11-16T21:34:56+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "푸틴 대통령, APEC 정상회의 참석을 위해 중국을 방문할 경우 김정은 북한 국무위원장과 회담 가능성",
+   "summary": [
+    "인테르팍스 통신은 크렘린궁 대변인 드미트리 페스코프가 월요일에 밝힌 내용을 인용해, 이번 주 열리는 아시아태평양경제협력체(APEC) 정상회의 참석을 위해 북한의 김정은 국무위원장이 중국을 방문할 경우 블라디미르 푸틴 러시아 대통령이 그와 만날 수 있다고 전했다. 인터팍스는 페스코프 대변인의 말을 인용해 \"물론 그가 APEC 정상회의에 참석한다면\"이라고 전했다."
+   ],
+   "mode": "free",
+   "korea": [
+    "north"
+   ],
+   "cluster": "d422a6979b92ced4",
+   "heat": 16.5,
+   "score": 5,
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
+  },
+  {
+   "id": "77da3b7eea6dc8c7",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11dGxQNmVvMkUzSHNwUl9EaWJUaS0wZEZ0d1hXaXA3a2JHSWRxSmtiOE1xZ01xWFhwX1E3eFJQR3NhRVkxTG9VMjFobnNjU25aNk50ODhnMzlQNXVU?oc=5",
+   "title": "Aぇ! group、韓国の古着店で佐野晶哉の服選び 末澤誠也希望の漢方探しは小島健が興味津々に",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-16T20:30:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "Aぇ! group, 한국의 중고 의류점에서 사노 아키야의 옷 고르기. 스에자와 세이야가 원하던 한방약을 찾는 코지마 켄이 흥미진진해함.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "77da3b7eea6dc8c7",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "11c960fb11ce5276",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xM1RIRHB0a29YaGlBWmx5MTI2bXNxZUdpRVZmQWJVN2l6YXZ5MXVNYjRaM1B6WkU0ZFpDelhXd3dibnF4NG9GYlltWTl5Q3VLNWFJOXA1R2xHSWRnbWpma2xsZTBTd1F3QS1GSg?oc=5",
+   "title": "韓国で広がる「株式依存」 損失でも売買やめられず、医師に相談",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-16T20:00:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국에서 확산되는 '주식 중독' 손실에도 매매를 멈출 수 없어 의사에게 상담",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "11c960fb11ce5276",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "5b2506a30178f177",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYWVzOGNfVk5mWGhNN1Z4VnhqaTdqN1ZRZy1LYW1KRTRBaXVuR093Y2Ztdkx2cTZpV0M1ajVWa0dZNHQyUl90d1A0WU9HcnN4RnpQc2FHNWI1X1JTMFgzaHhERjN4LVREekhBRTNRV2tqVlE5OHNqRHotUUNDV21rVGVZeTlvSm82dFJmaEhZbmFQYUVmRTlWXzgxNktFWGtMVktv?oc=5",
+   "title": "Trump Says He Might Meet With North Korea’s Kim Jong Un During Asia Trip",
+   "source": "WSJ",
+   "country": "US",
+   "published": "2026-11-16T17:24:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "트럼프 대통령, 아시아 순방 중 북한의 김정은 위원장과 만날 가능성 언급",
+   "mode": "free",
+   "korea": [
+    "north"
+   ],
+   "cluster": "d422a6979b92ced4",
+   "heat": 16.5,
+   "score": 5,
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
+  },
+  {
+   "id": "c2ddb9d1452ed4a5",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NbWVJUVVqcTVvcDFKcHZCMWpQbEpLSURKUXlXd0c4bGhHaG5PajQ5WEpQOHBSWGxoWExSWU1renpZai1uSTJLaGFGY1MxODdQbGxOWFF5MTdsYkdKaGtxalRrOHpXb2RO?oc=5",
+   "title": "日韓首脳きょう会談",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-16T17:01:47+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한일 정상 오늘 회담",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "d422a6979b92ced4",
+   "heat": 16.5,
+   "score": 5,
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
+  },
+  {
+   "id": "1f333eda9e4d6760",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnN3dTWE1CMm5TVEs1TExJX2JqVmVJNFhVWW45U2JxZ21tV3JhUGozenhiSFdSbjljczhuQ0lLUVV5dDdWVXhicEhTenNmOE0yX1BRdnVZRDNNdkJ2S0JyUGtkR2lPY3hf?oc=5",
+   "title": "韓国：韓国 大学入試前に波紋 国家試験首席合格者 AI使用",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-16T17:01:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국: 한국 대학수학능력시험을 앞두고 파문 국가시험 수석 합격자 AI 사용",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 19.5,
+   "score": 5,
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
+  },
+  {
+   "id": "fa7e8f4edaa7a95c",
+   "url": "https://vnexpress.net/ong-trump-co-the-gap-ong-kim-o-trung-quoc-5145429.html",
+   "title": "Ông Trump có thể gặp ông Kim ở Trung Quốc",
+   "source": "VnExpress Thế giới",
+   "country": "VN",
+   "published": "2026-11-16T17:01:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "트럼프 대통령은 중국에서 김 위원장을 만날 수 있습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "d422a6979b92ced4",
+   "heat": 16.5,
+   "score": 5,
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
+  },
+  {
+   "id": "06643b7f67dcc16a",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxWWZuMXlJYWxpSS12aHBTdGtHLXgta1ZFY3hkY2RmSVJnLUlvNlB2c19wRWRNbl9IamN5MU52Q2U3VW1lNlpVOWtBTUJ2aUpZX0I5aEpjNkZvYTRGWjZZc1I5NUlrTC1DaXlSVw?oc=5",
+   "title": "韓国は半導体産業を磨け ショニ・ソン氏",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-16T17:00:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국은 반도체 산업을 갈고닦아야 한다 쇼니 송 씨",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "06643b7f67dcc16a",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "c083b7d3e7239f99",
+   "url": "https://www.japantimes.co.jp/culture/2026/11/17/entertainment-news/japan-grammy-nominations-2026/",
+   "title": "Japan’s Babymetal, Lisa nominated for new Asian pop Grammy",
+   "source": "Japan Times",
+   "country": "JP",
+   "published": "2026-11-16T15:45:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "일본의 베이비메탈, 리사가 새로운 아시아 팝 그래미상 후보에 올랐습니다.",
+   "summary": [
+    "이번 신설 카테고리에는 한국과 필리핀의 공연팀도 포함되어 있습니다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "c083b7d3e7239f99",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "2c64ee242ef7e2a4",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUkEtMFNJVEZ4N3Y2REFhbUt1TDEtTU0zWkpWQWhFS3NwWjEwV1Nvbm1LeUZRVWNaZkgwTU5XOEV4bkNqVjREU1lLWjk0ZXVDMERmNy1GdHhGTW9vemNJTlZMY2hEWGpINVl6bldTSE1xZ2c4NXJoYUxrWlo2Y0hvRWlDYWpIWVY0cXpjZGJuQ2JiWlRWMDhod1BRTjB2Z04yaVRFeHhpeTU1ZUpQWERkN3dvWU1FQQ?oc=5",
+   "title": "Thủ tướng Lê Minh Hưng tham dự Hội nghị Cấp cao Mê Công - Hàn Quốc lần thứ 3",
+   "source": "VOV.VN",
+   "country": "VN",
+   "published": "2026-11-16T15:39:51+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "레민흥 총리가 제3차 메콩-한국 정상회의에 참석했습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "2c64ee242ef7e2a4",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "88520c45f2724440",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd19tZ3RZUUpLYm1kaHBfTWp0bGY4VHd2WVQ3Z0gwbGZYZzJtMW4yNmp3TlAxbEtna1F6VzByWUxLQ1pZZXo3YWZ2b3duS3JJeGRGc1JFWS0tUjVaVWU4N1QtRDIza0ctakd0c29YWEpva25uZDNZYnFYQkJnVmFJdkRnZmZGaV9SQ2pWelVmV21paUpJeEgyNGlJMGFEUTVWcXJPd09JdEVkMWVZVVE?oc=5",
+   "title": "Rối gỗ Hàn Quốc, rối dây Myanmar, rối nước Việt Nam cùng đến Phú Quốc",
+   "source": "Báo Tuổi Trẻ",
+   "country": "VN",
+   "published": "2026-11-16T14:55:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국의 나무 인형, 미얀마의 줄 인형, 베트남의 물 인형이 푸꾸옥에 함께 모입니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "88520c45f2724440",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "efe8e161d5a00332",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2tiTUs3WFU3QU5IOVpUMUE1ZXVSejlOTHhrc0JjbFlqTFliZFJhQ0xiVXQ0LUtnNUhJSEpsSDh2S0taNm85YVZzWFI0a05lNFdFOTRGVkdHak1qNkstSDBVdklpZE1xZHRLN0lSQWRKaUNwS2g5OVJiX1drYU1iS3JacmMxWS1KeFpjVDV0cGM1VlE2YjdQR1NLb0lEczhBeWRmZWhNaGV0VW40?oc=5",
+   "title": "Trump Says He May Meet North Korea’s Kim Jong Un in China",
+   "source": "Bloomberg.com",
+   "country": "US",
+   "published": "2026-11-16T14:42:55+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "트럼프 대통령, 중국에서 김정은 북한 국무위원장과 만날 가능성 시사",
+   "mode": "free",
+   "korea": [
+    "north"
+   ],
+   "cluster": "d422a6979b92ced4",
+   "heat": 16.5,
+   "score": 5,
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
+  },
+  {
+   "id": "8833944e646fe5ff",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQnpjd3hWeTZmVjVlTDJtajU2OVJUa2c2LXR1OVhzajAtRGFZNVhzN3BndzJmR2dvQUVhaDk1V1ZscnJueHFKTnczMHZZY3NUbVJuMVdGLVFOS0RHbE1KZV9icG1nTmtSUjdqT1NYU3plUUUxNGMzZDAwTWJRVE4zeWtFMFJSa2NVb1VfUFZncTRTdTJWYWJOR0p5cXhOX01rLW1tdnBHZkJFamlWR2RnekU2V0s2VmNYX21ud3pwWG82dzdiWjlqNjBQNA?oc=5",
+   "title": "HÀN QUỐC LÊY CHA MÊÊT G’LUH LƯM LÊY NGA ÂNG BH’CỘ BHA LÂNG TRIỀU TIÊN",
+   "source": "VOV4",
+   "country": "VN",
+   "published": "2026-11-16T12:55:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국은 북한의 침략을 막기 위해 많은 군대를 주둔시키고 있습니다.",
+   "mode": "free",
+   "korea": [
+    "south",
+    "north"
+   ],
+   "cluster": "8833944e646fe5ff",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "85ad4e5ea865bff0",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV2UzZmg1OFBWMzZFQ3hHVWZubFFpNjdGUGd1cEhORFRFU2hrU0hoS1g2VDdsWmhwYzBUODhjNllKbUFuS2FrOERnSHJwekZFaUN6U0hDb1YtWGJDcWZnVXVQZ2Z6ZGpYQTdYYTBsb2lGSmZ1MG9aams4eHdtRW1Ob0pQU0hGWWlPOHZ2LTVrR1VSV0NCZ2FjdjNEVkJZcVRRVUVqYl9GTUNMN1F2UEpWREVXbnR1LWQ5anlhWA?oc=5",
+   "title": "Hàn Quốc lo ngại gian lận thi đại học bằng kính thông minh tích hợp AI",
+   "source": "Báo Dân trí",
+   "country": "VN",
+   "published": "2026-11-16T12:52:10+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국, AI가 탑재된 스마트 안경을 이용한 대학 입시 부정행위에 우려",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 19.5,
+   "score": 5,
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
+  },
+  {
+   "id": "82c42e576dd4342a",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGplSkhGeTJ3YnFIQkF5S21vemk1MFNZaGx1SmpvWmtVajFhdGw5REpGSGVJSWJ0a1pzTjEzWnV2WDRDVHNQbzdNc0tpODVfYThGXzNNZmxYbVAyMm5QYWJudkVmMUJKUnhfSHMtQ3d1dVFuZnRhcllkUkJvbHJLR2p1ODBlMjdmWmhIUExJNU5lOE13N0piMjZPeXhYQUtRUWNadUdxVFo?oc=5",
+   "title": "AI cheating fears spook South Korea before high-stakes college entrance exam later this week",
+   "source": "AP News",
+   "country": "US",
+   "published": "2026-11-16T12:51:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "이번 주 말에 치러질 중요한 대학수학능력시험을 앞두고 한국에서 AI 부정행위에 대한 우려가 커지고 있습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 19.5,
+   "score": 5,
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
+  },
+  {
+   "id": "74fb9a32dc442aee",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYnBoX0w1Uzh3andIdy1VcUNURF83ZFdSc3dJQk5XQ2QwaXBCWVhkdGI0bGFZRUk1YXhmWmFRSEpqeVVLTVdVZ1EyTHFtSEJqX0xZSVFZRTdoWHlWQzhDbmpZckVaZ3pPbHJxMldjSklvNHdPQVE1bmZkaEs1bGY3OUd3WS1kd2l2cWVuWDk4WGhvbFZHT1VvSHhrTzRSMnFnbHNkYnllSVo3QmRiY19oTXUyNGtFWkdqeTJVekJoQkpaQQ?oc=5",
+   "title": "South Korea scrambles to stop AI cheating on college entrance exam",
+   "source": "AP News",
+   "country": "US",
+   "published": "2026-11-16T12:46:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국, 대학수학능력시험에서 AI 부정행위 차단에 총력",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 19.5,
+   "score": 5,
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
+  },
+  {
+   "id": "f5cdfed3e9bef684",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWhoTktPVm45ckQ3WkN1WU5BeWNuVnRQNFd4V0RxYWlzZS1ha1M4ejN4dm94RmlURVZlUWNWV2djd2Vlb2Zva1EzQU5IRmo5Yi1fTHBOdUdlbkNYMm1qZEN4LUE5TE9fUk85YjBoU2lvOHhJYUFrNF9ac2F3MmdOUWhxZWxPel9tVFpxcnVSYW5rWFNvRkZXNnN6Q2toTzR2R0JoTHdVTGFlRVMxbzBpZU0wQm1LVHBON2c?oc=5",
+   "title": "Thủ tướng Lê Minh Hưng đề xuất ba trọng tâm hợp tác ASEAN - Hàn Quốc",
+   "source": "Báo Dân trí",
+   "country": "VN",
+   "published": "2026-11-16T12:43:26+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "레민흥 총리는 아세안-한국 협력의 세 가지 중점 사항을 제안했습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "f5cdfed3e9bef684",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "0dab102bd9efefcc",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUm5wTE10Q19NQUR3VU1nV2RLMHl1MndXMm9GM0FIREpFSklObzdOcmk3Vkcxb2lZcUVuWmNERmx0MUJhSFhUSTBuYTVMenZBQTViaXBoaS12XzRnZ2ZQdnV3TS1NOFZpV3ltWm9nS0hFV0hlMzViTzhaamd4NVRPMDNONnRWcWQzRW1vM3Y0YWY1cnRQLWQ1Rg?oc=5",
+   "title": "Khách Việt có cơ hội xin visa nhập cảnh Hàn Quốc nhiều lần",
+   "source": "VnExpress",
+   "country": "VN",
+   "published": "2026-11-16T12:00:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "베트남인 방문객은 한국 복수 입국 비자를 신청할 수 있는 기회가 있습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "0dab102bd9efefcc",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "6abf1a9bc85f5dbe",
+   "url": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
+   "title": "South Korea to Examine How K-Pop Industry Treats Underage Performers",
+   "source": "NYT Asia",
+   "country": "US",
+   "published": "2026-11-16T11:51:31+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국, 미성년자 연예인에 대한 K-팝 업계의 대우 방식 조사 예정",
+   "summary": [
+    "이 발표는 뉴진스 멤버들이 14~17세였을 때 체결한 뉴진스의 제한적 계약에 대한 뉴욕타임스의 조사 이후 나온 것입니다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "6abf1a9bc85f5dbe",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "1193fe5f3756efd3",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUthZUpDdDFra3locmdnU3p6T2J3MjQtMlRWaWw5RkhvRkxjVXNJVTEtWDMzdDNmZ29EMzVfNjdMaXNjdXg2RHVMYkhjbjh0WkkyQWVDZjl1LWRVay1zSFA0VXBUTURhNmlvQmxUWVpNbkV5cVV2OVYyX01lYkd1Q2hzaUcyUlBpbnhhcmdhSGR2QjIxMGhfbVo4SnI?oc=5",
+   "title": "Con gái MC Quyền Linh xinh đẹp ở Hàn Quốc, bạn trai Tây quỳ gối cầu hôn á hậu Thảo Nhi Lê",
+   "source": "Báo VietNamNet",
+   "country": "VN",
+   "published": "2026-11-16T11:22:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국에 있는 MC 뀐린의 아름다운 딸, 서양인 남자친구가 준우승자 타오니 레에게 무릎을 꿇고 프러포즈하다",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "1193fe5f3756efd3",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "7f6949a3b486498b",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1NORGlFalR6cFprd00xa014NEJhVDZFQlVfbnJuQWpaeUVTRGpQNHZGb25IaDg3eXhId0pvenhpQlhGc0ZrQm5ZcHNLbVFJa1RsWG9mUUVKRmNRTFZlREZFdUtCRWlmeFdrZzNOME1BbTVTc2ZTMm95Y09MOW1XQzI0WnhQUUY1cUZpd3pYRlZDNHk3MWhOdzZVWk5nWjNYWHNsQVBWUUItYWM2LVhjN1lZU1pYbDFBcGZSQ0h1QnVTQ0VEOHBXag?oc=5",
+   "title": "Tập đoàn gần 200 tỷ USD của Hàn Quốc muốn đặt trụ sở Đông Nam Á ở Hà Nội",
+   "source": "Báo Dân trí",
+   "country": "VN",
+   "published": "2026-11-16T11:09:20+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "자산 규모가 약 2천억 달러에 달하는 한국 기업이 하노이에 동남아시아 본사를 설립하고자 합니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "7f6949a3b486498b",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "854fb0e992327ce5",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNjlRdmdCRnBBUm1TWTFSRUhFbUhLTUtwUHVtWUFySXgxQU9rd0FWYldwajZVcWlaUjl5VTR0SnNiTzlzTi1RdHlXcFJJQlJxOWhlcXBKY2pHMExBMGU5QWxmSEdNb19xLVJ3NlpQR2FoM2x0dW9Ta2xsODlPTFZiX3VONzl4ZE5IX21razRZSWRxUXdyU3ZMMWhMTWl5azdxeG52WjF5WmRad3VmNEh0bC0xbllsZEplUkw5em5Vek02c2hQ?oc=5",
+   "title": "Korea Zinc Cuts Recycling Deal to Feed $7.4 Billion US Smelter",
+   "source": "Bloomberg.com",
+   "country": "US",
+   "published": "2026-11-16T11:00:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국아연, 74억 달러 규모의 미국 제련소에 원료를 공급하기 위한 재활용 계약 체결",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "854fb0e992327ce5",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "119c4356249bd094",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVRaUjdJYmhuUmlwcVdja1JpcmQwM0ZPWkhwMWpUeVY4cVNjd0VmWmZKdUh0Z1I2cWZJY0JUMm1UR3ZlNUNTRzVYZEJIYWY5cEhiWmRjSkt2SzdFWGd2dU5udWIxSE1nUlJIdk1DSWRoMlVmRDNhdDI2Rk13OVdHRmdORXhmNWZ4aWZYVURuRTV3NDdVbVJKMA?oc=5",
+   "title": "Làm 160 câu chỉ sai 1, thủ khoa kế toán Hàn Quốc thú nhận gian lận bằng AI",
+   "source": "Báo VietNamNet",
+   "country": "VN",
+   "published": "2026-11-16T10:05:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "160문항 중 1문항만 오답을 기록한 한국 회계사 시험 수석 합격자가 AI를 이용한 부정행위를 시인했습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 19.5,
+   "score": 5,
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
+  },
+  {
+   "id": "fd18628df58c0512",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iSkxjNml5a29pdjNvb0NteldSYTNEWk9OOGJNYmZWN1lkQWp4bERJenltRlczMXZnNHVnNkZ5eXlzMDhNS0kyV1hZT0NOZmNEMTV5RVhkcE8taEtLaVR1cjJB?oc=5",
+   "title": "韓国の税理士試験、首席合格者が自首「ＡＩで問題送信してスマホで答え確認」…政府が国家資格試験を総点検へ",
+   "source": "読売新聞",
+   "country": "JP",
+   "published": "2026-11-16T09:37:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국 세무사 시험, 수석 합격자가 자수 \"AI로 문제를 전송하고 스마트폰으로 답을 확인\"…정부가 국가 자격시험을 전면 점검하기로",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 19.5,
+   "score": 5,
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
+  },
+  {
+   "id": "1324fa287497bbf4",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DUERkaVRfcUVNLTVqcWZiYkVheGFfOW5kdEJHQmtBeUJVbHI3VVQ2alN6SzdVRUlDZGJiZ1pDTldKRE1ETl9qR1gtYmlVUEpxNDZzcURzMTlTV0ZNYzZNQjlvTFBJcnVzS1h3Vg?oc=5",
+   "title": "韓国、AI生成の曲が初の音楽チャート1位に K-POPアイドルを抜く",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-16T09:36:50+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국, AI가 만든 곡이 처음으로 음악 차트 1위 차지. K-POP 아이돌 제치고 1위 등극",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "1324fa287497bbf4",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "fb7f10572a53fa6b",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mTS1OWldlc3lGSVZ5azBncERSclJCNllxS19zVk5pS2pGNEI5c3NzQVdOd0ZlTUxWOHVZZ0dqZk84Sy0xYXdOZlR3V3dEOWVCZTJGTEtubS1DZjlkcU5wcHNOdmJBanVH?oc=5",
+   "title": "韓国の国家試験、首席合格者がAI利用を告白 大学入試前に波紋",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-16T09:28:15+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국 국가시험, 수석 합격자가 AI 사용 고백 대학 입시 전 파문",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 19.5,
+   "score": 5,
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
+  },
+  {
+   "id": "76c5779f301e409b",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBERlFnVlNDRERjUWxqbzhQNDlZbC1DU0pXQ2NZMFFDbWNmNnF1bHFzNzlZbVZqZXJJX1ZKdWJFaVdxY19nMFktVXc3QmFEbVMzOXBZN0xXRFJEcTRzZ3N4REFxMm83V2tvdXc?oc=5",
+   "title": "ＮＥＸＴ ＮＯＴＥＳ 韓国ＫＯＳＰＩ・ベア ＥＴＮ[2034]：2027年３月期 第2四半期 保証者の連結普通株式等Tier1比率・連結Tier1比率・連結総自己資本規制比率について 2026年11月16日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-16T08:40:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "NEXT NOTES 한국 KOSPI·베어 ETN[2034]: 2027년 3월기 제2분기 보증인의 연결 보통주 등 Tier1 비율·연결 Tier1 비율·연결 총 자기자본 규제 비율에 대해 2026년 11월 16일(적시 공시): 닛케이 회사 정보 DIGITAL",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "76c5779f301e409b",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "acc467c4cc524b8d",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DYzdrVDQ5RDI0VUZIZkJFLUt3emI2NTFxWnV0S1FLMVJUZUcxRlI2Z1E3T2M2T2JadkVTbGM1NjRoT1BqYXQ5aGgtb2szSmV5ZXFzQ2tFLTZpX2oxNDQyai1ubHZMRUlKYXc?oc=5",
+   "title": "ＮＥＸＴ ＮＯＴＥＳ 韓国ＫＯＳＰＩ・ダブル・ブル ＥＴＮ[2033]：2027年３月期 第2四半期 保証者の連結普通株式等Tier1比率・連結Tier1比率・連結総自己資本規制比率について 2026年11月16日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-16T08:40:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "NEXT NOTES 한국 KOSPI·더블·불 ETN[2033]: 2027년 3월기 제2분기 보증인의 연결 보통주 등 Tier1 비율·연결 Tier1 비율·연결 총 자기자본 규제 비율에 대해 2026년 11월 16일(적시 공시): 닛케이 회사 정보 DIGITAL",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "76c5779f301e409b",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "949f18d1bf406e72",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUTzlWSnVBenBVb1RiMTVTNjJLckh5SVo4NFdCMWN5aGVwcWxJYzhCQXJiakg4QWc3c253YjRiSG1UN296RjRrbWZfbjJZUnlGVTF0a0w5dWtPejkxNlFjSXZXTGoxYkFZWjNr?oc=5",
+   "title": "中韩关系学术研讨会在韩国举行--国际",
+   "source": "人民网",
+   "country": "CN",
+   "published": "2026-11-16T08:20:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국에서 한중관계 학술 세미나 개최--국제",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "949f18d1bf406e72",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "f8864b26bdc5475c",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53TENmOGI5REFjREJPQ19TdFBtVGpQdXRwQ2ZnMElnNFhoTzNMTXNELTFjMnpueEJNS08zV2hkQlhkQ2EzNUc0b0ljM3VUQVFnWnhJQXB3YXNsOFFw?oc=5",
+   "title": "【あすから】キム・ソナ、政財界の影の権力者を見事に表現 韓国ドラマ『シークレット・ブティック』放送スタート＜キャスト・あらすじ＞",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-16T08:10:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "[내일부터] 김선아, 정재계의 그림자 권력자를 완벽하게 표현한 한국 드라마 '시크릿 부티크' 방송 시작 <출연진·줄거리>",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "f8864b26bdc5475c",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "12a75dc103bcedbf",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMDUzZmVaVGc1RjlweXdJa2dmV2RuTTRveUJYUTl0SmlnT1A2bE1zcV83THI3MHRjS0VEMm5DVzVNYUtnYnF3aHpQMWhWMWxXVk5HT0wyWHlaOUhwSHJpVUlPSlVnSnVQMGRndDc4NTVaelFtNGlYS3kxeWszdWMzN2ln?oc=5",
+   "title": "South Korea to inspect all exam takers’ glasses following AI cheating scandal",
+   "source": "CNN",
+   "country": "US",
+   "published": "2026-11-16T07:56:15+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "인공지능(AI) 부정행위 사태 이후 모든 수험생의 안경을 검사할 예정인 대한민국",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 19.5,
+   "score": 5,
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
+  },
+  {
+   "id": "00590aa26f535f0c",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81Yk9WUktPTzhPbTdGTmVwUTk5VlVqc2hnQ0hudXNvWnkwLWJqZE1vdDgzSUVyU2V3bkZRWGUxTnFjVXVtWFdaNy1jWUpGTHlYMTJxLWtWaUNESjk4aFZoOXFJbDdHakhtSko4NVJR?oc=5",
+   "title": "2026-2027年度国家优秀自费留学生奖学金申报宣讲会在首尔举行",
+   "source": "人民网韩国频道",
+   "country": "CN",
+   "published": "2026-11-16T07:55:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "2026~2027학년도 국가 우수 자비 유학생 장학금 신청 설명회가 서울에서 개최되었다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "00590aa26f535f0c",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "f97f6bbd73010d84",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMllTb29iNUtqaTFjMnhCNlVwWmJWVlNsMWI5ZzNfUW16ZzA5S0tLSGtBeFZ5MUg3b1VMZ2VDZ3ZNMHBqSklSWU92YVkwcEVxQ0V3TDd2ME0xMEg4N2V2aENzX1hzV0xxSUNGY2dHc1RKUUUzajhNMTVadlUwc1FuTFJxQWRQaGx5R3NCekxZX2RQbnR1WHpXdGZ5clp0dFhiNjBaV0VDbE1IMVhYUUpfME9oZ0I?oc=5",
+   "title": "Tranh cãi trào lưu dùng AI tạo di ảnh cho bản thân của giới trẻ Hàn Quốc",
+   "source": "Báo Tuổi Trẻ",
+   "country": "VN",
+   "published": "2026-11-16T07:40:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국 청년들이 AI를 이용해 자신의 영정사진을 만드는 트렌드를 둘러싼 논란",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "f97f6bbd73010d84",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "e35a671d6f320e2f",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVhaMUVXdXM0VVBLeVVOR1V6QjlYT2liTWFiZTJtRmhWTVNMcXg1el9EamtqOWlBdk1ZQzY1OEJRRVZMaHNVbUNnbHpZUFljMjktQng4b201b1dsUG9mMU1odndfOC1IYXJGZDAtdklTaVNDSWVjdmJORjhxTEd1ZHlCNTh0bnhsbnY0dGYzMURHSmxGNHB5M2pRTUhROEctaHVSYkZ5b2hZQlh6aDZnb055YmNOR3RrU1BrbnMwLVM3b01TNi1OTkVtVQ?oc=5",
+   "title": "Doanh nghiệp Hàn Quốc huy động 160 tỉ đồng, mở rộng sản xuất linh kiện xe điện tại Việt Nam",
+   "source": "Báo Tuổi Trẻ",
+   "country": "VN",
+   "published": "2026-11-16T07:39:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국 기업, 1,600억 동 조달해 베트남에서 전기차 부품 생산 확대",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "e35a671d6f320e2f",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "adcab88307691ad0",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTTdOSTRqdTZKUnpNSTZGcjJTQkhlaW14NE1Xay10WHpTVTVzVTlZOVI1UHp0Q3R3RzVOZXVUYTg0NTZxUUhjZk9RNnNzWVliektUVVVWeG84VlhGWXBuQlJSU2JjWGtzZkFobFF3?oc=5",
+   "title": "首尔延长市立文化设施开放时间 访客量增至约2.1倍",
+   "source": "人民网韩国频道",
+   "country": "CN",
+   "published": "2026-11-16T07:20:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "서울시가 시립 문화시설 운영 시간을 연장하면서 방문객 수가 약 2.1배 증가했다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "adcab88307691ad0",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "0b8f57827be6869f",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wUHVrb25sWGtXbHp3Mm9KM3poaHhFOXFEYVJhcW1jaHpwUXZBZXQ5aWZ2b1ZQWHBSRmFraExPeTNyM01JQ3Q4TURXTU5rUVFJWkxUVjdTWHc0UXc4M0pnank4RnFSUVBoSURJbXVpZDUta0M2?oc=5",
+   "title": "韓国チアリーダー界の｢女神｣パク･キリャンさん、来日中の動画や写真を公開 ノリノリの踊り",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-16T07:03:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국 치어리더계의 '여신' 박기량, 일본 방문 중 동영상과 사진 공개 신나게 추는 춤",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "7273caff309b66ea",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (일본 2)"
+  },
+  {
+   "id": "41835367dfafc34b",
+   "url": "https://www.japantimes.co.jp/environment/2026/11/16/energy/energy-korea-green-projects-war-fuel/",
+   "title": "Peak Energy eyes South Korea green projects as war upends fuel flows",
+   "source": "Japan Times",
+   "country": "JP",
+   "published": "2026-11-16T06:49:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "피크 에너지, 전쟁으로 인한 연료 공급 차질 속에서 한국의 친환경 프로젝트에 주목",
+   "summary": [
+    "Peak Energy는 한국에서 2억 5천만 달러 규모의 프로젝트를 진행 중이며, 2027년에는 1억 달러 규모의 프로젝트가 추가로 시작될 예정입니다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "1de1618e6e64adf7",
+   "heat": 9.5,
+   "score": 5,
+   "reason": "5개 매체 · 4개국 보도 (베트남 2, 중국 1, 미국 1, 일본 1)"
+  },
+  {
+   "id": "a2723f6f53bdc9e5",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JUktuc3N1VFFLYkhUSkhvd29XblZFRklSZHJSdzlfWXdxejNuMXFqMEhmOGk4andpSWNjNmxhT0cyQUo5N3EzR0tVUkFRUjV5RUxsQ29pNFl4NTQ0VU50cmVQYTIwRjdLZkFsaA?oc=5",
+   "title": "韓国株16日 3日続落 米半導体株安が重荷 SKハイニックスは7%強安",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-16T06:43:20+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국 주식 16일 3일 연속 하락 미국 반도체주 하락이 부담 SK하이닉스 7%대 하락",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "2c288804716ea13d",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "1개 매체 · 1개국 보도 (일본 4)"
+  },
+  {
+   "id": "9291763671430605",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53YndOenJucnV5Z1hmVmdpYVZEb09pSnZha19DbWEyUmFtSHVpdFQzdDREUXBoYW02Q1J3MTFpWTFBY3dZVlU1SENnZldGRzFMZExFVG1KZXVrVWtXcXlWTA?oc=5",
+   "title": "日韩股市收跌，韩国KOSPI指数跌3.59%",
+   "source": "ThePaper.cn",
+   "country": "CN",
+   "published": "2026-11-16T06:39:37+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "일본과 한국 증시가 하락 마감했으며, 한국 코스피 지수는 3.59% 하락했다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "9291763671430605",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "6892863dae5fb0ed",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMZDd5OGN2czduR01WUUtPVGdnUjhBd3ZMRlItT2ticGZxMnB2NHVTSE81Z1N6U1BwUXdMZUtjM3JJN2V0aEl2aXloNWN4aXNPb1l3M0xZdnVWMFpnM2VSc1VONVk0cU0?oc=5",
+   "title": "GDP、世界に占める日本の割合3%に縮小 1人あたりは韓国と差",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-16T06:30:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "GDP, 세계에서 차지하는 일본의 비중 3%로 축소 1인당은 한국과 차이",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "6892863dae5fb0ed",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "09f20d7a16b87ec0",
+   "url": "https://www.japantimes.co.jp/sports/2026/11/16/baseball/japan-apbc-new-era/",
+   "title": "Rui Muneyama and Tomoya Masaki get Samurai Japan off to rousing start on road to LA Games",
+   "source": "Japan Times",
+   "country": "JP",
+   "published": "2026-11-16T06:20:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "루이 무네야마와 도모야 마사키, LA 올림픽을 향한 여정에서 사무라이 재팬의 기분 좋은 출발을 이끌다",
+   "summary": [
+    "일본은 결승전에서 한국을 꺾고 세 번째로 아시아 프로야구 챔피언십 우승을 차지했다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "c2e6176300ce1051",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
+  },
+  {
+   "id": "cdf7f2f621eb33cd",
+   "url": "https://thanhnien.vn/han-quoc-kiem-tra-kinh-deo-mat-cua-thi-sinh-thi-dai-hoc-185261116110151435.htm",
+   "title": "Hàn Quốc kiểm tra kính đeo mắt của thí sinh thi đại học",
+   "source": "Thanh Niên Thế giới",
+   "country": "VN",
+   "published": "2026-11-16T04:44:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국, 대학 입시생의 안경 검사",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 19.5,
+   "score": 5,
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
+  },
+  {
+   "id": "7d75be9046318c4c",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zR1J2c0FDZjBJeVBnVHEtOWpPbUhaS0VWYnRnYUI1cDJSRmhXcDBiUmFSNGxjdm5JRC1XM2dDeXpiOWVGU0YwMEtLVjhKOXdZM0pJUUlEa2dvZFRIbFptUA?oc=5",
+   "title": "韩国旅游博主走进济南：入境游升温，“Spring Jinan”品牌持续擦亮",
+   "source": "ThePaper.cn",
+   "country": "CN",
+   "published": "2026-11-16T04:40:07+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국 여행 블로거, 제남 방문: 인바운드 관광 활성화, '스프링 제남' 브랜드 지속적으로 빛나",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "7d75be9046318c4c",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "675051dcf1e111bd",
+   "url": "https://www.japantimes.co.jp/business/2026/11/16/companies/korea-instant-ramen-giants-global/",
+   "title": "South Korea’s instant ramen giants take their spicy rivalry global",
+   "source": "Japan Times",
+   "country": "JP",
+   "published": "2026-11-16T04:38:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국의 즉석 라면 대기업들이 매운맛 경쟁을 전 세계로 확대하다",
+   "summary": [
+    "서울에 본사를 둔 농심과 삼양은 한국 라면을 해외 슈퍼마켓으로 진출시킨 K-푸드 붐을 활용하기 위해 경쟁하고 있습니다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "702267b10b2b5b6e",
+   "heat": 3.5,
+   "score": 3,
+   "reason": "2개 매체 · 2개국 보도 (미국 1, 일본 1)"
+  },
+  {
+   "id": "6eeb56e4b394b1e4",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSW11TG9pdmI3d3Ztc1c0bnNBbnJ0UEx2VzZkU0dIbWlXbjBUcW5xcGh2MnNSclpQUEJ1azUxVG4yQkctMFlFZ1c2dzBYSHJFbTJLMEt2VTl4LWpYTXczc2FKZGxCLXJqWkZwaVFTMDNLT24ybVYxWVpJZjVMNk5tS3VILURwaVpzd1UzX1pzd3E5bGRibmpQRHJSNFdCUWxPM3U1YmF6UDg2RXJ4MEl3?oc=5",
+   "title": "Tòa tối cao Hàn Quốc sẽ tuyên án chung thẩm cựu Thủ tướng Han Duck Soo",
+   "source": "VOV.VN",
+   "country": "VN",
+   "published": "2026-11-16T04:37:01+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "대법원이 한덕수 전 국무총리에 대한 최종 판결을 선고할 예정입니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "6eeb56e4b394b1e4",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "63c43ba264cf4649",
+   "url": "https://www.japantimes.co.jp/news/2026/11/16/japan/politics/japan-takaichi-lee-south-korea-asean/",
+   "title": "Takaichi to hold fourth round of bilateral talks with South Korea’s Lee",
+   "source": "Japan Times",
+   "country": "JP",
+   "published": "2026-11-16T04:33:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "타카이치 장관, 한국의 이 장관과 제4차 양자 회담 개최 예정",
+   "summary": [
+    "마닐라에서 열리는 아세안 정상회의와 연계하여 화요일에 열리는 이번 회담에서는 양국 관계뿐만 아니라 지역 및 국제 안보 문제도 중점적으로 다룰 예정이다."
+   ],
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "63c43ba264cf4649",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "040047a8abd9add7",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BUDlDb1F4X25WNk9Ibzl4M21hOGhmVUdQQmdlbjJXWEttTlFnTjhZWnh4VlBtSlE0Rm1JMkFDeXlwNTR5VFlya0lSR3pWUmF5M1hPRU9BQlVDZTFEMFZxRFloNXZmN2lFT3NacDk4ZWdwSDZm?oc=5",
+   "title": "｢VIVANT｣ワニズ役の河内大和が侍ジャパン祝福、韓国代表にも敬意 後ろ姿の写真で",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-16T04:08:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "'VIVANT' 와니즈 역의 가와우치 야마토, 사무라이 재팬 축하. 한국 대표팀에도 경의 표하며 뒷모습 사진 게재",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "c2e6176300ce1051",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
+  },
+  {
+   "id": "7c805519124adbb5",
+   "url": "https://www.scmp.com/news/asia/east-asia/article/3374538/south-korea-cracks-down-online-exam-pill-sales-ahead-national-college-exam",
+   "title": "South Korea cracks down on online ‘exam pill’ sales ahead of national college exam",
+   "source": "SCMP Asia",
+   "country": "CN",
+   "published": "2026-11-16T03:32:06+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국, 대학수학능력시험을 앞두고 온라인 '시험 약' 판매 단속 강화",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 19.5,
+   "score": 5,
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
+  },
+  {
+   "id": "ca3116a93519ef34",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyaWNrZ2tqRVN3WGdTVjNRU01tTUVIckxha2xkc212VlMtNzFlSUp4b2N6TDBqalI5ckdrOGgwRzQ5OU1pcnQyV3R5MWtjOEZrREp6TmYtSDRnSzRwMXI2cUZqOTRuWi1MbzhOSGp3?oc=5",
+   "title": "“热雪新疆·相约首尔”新疆冬季旅游推介会在首尔举行",
+   "source": "人民网韩国频道",
+   "country": "CN",
+   "published": "2026-11-16T03:12:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "'뜨거운 눈의 신장·서울에서 만나기' 신장 겨울 관광 홍보회가 서울에서 개최되었습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "bb1f0f3839a13d26",
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (중국 2)"
+  },
+  {
+   "id": "cabcf9b59b7f14ee",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QSHhjUC1PYVVoMnBYTDJFYkxCYlhRQUZuZkZWNG9GSlBQRnkwMnNQQk94R2V5RThMUFhkdEdYd2hEUXE3MHZNMUhpRDZoYnA4djJQYWZJT1NpaE1j?oc=5",
+   "title": "“最も残酷な試験”が幕開け…韓国ドラマ『替え玉受験』、ディズニープラスで配信へ ペ・ヒョンソン、チャ・ガンユンら出演の予告編公開",
+   "source": "朝日新聞",
+   "country": "JP",
+   "published": "2026-11-16T03:10:21+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "'가장 잔인한 시험'이 막을 올린다... 한국 드라마 '대역 시험', 디즈니+에서 공개 예정. 배현성, 차강윤 등 출연한 예고편 공개",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "cabcf9b59b7f14ee",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "f2d9c33d23078b44",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44dmhVdGRkdVJqMHgtZXV2RnpCOEhpbGc3cWpsNUZ5ellLM2NrWlEwOGdvOHloQ01qem43Wm5hTHNlNWt5aUV0Nkxuem1HbVlUb21WWkdxcUE4d3pTV2lGcmpPRHRsMXI5WmpMOUxINkFUN29y?oc=5",
+   "title": "侍ジャパン山口航輝が｢怪物｣と呼んだのは… 決勝韓国戦を前にアップされた1枚",
+   "source": "朝日・日刊スポーツ",
+   "country": "JP",
+   "published": "2026-11-16T02:28:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "사무라이 재팬 야마구치 코우키가 '괴물'이라고 부른 것은… 결승 한국전 전에 업로드된 한 장의 사진",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "c2e6176300ce1051",
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
+  },
+  {
+   "id": "5c229c6f337c960d",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mbnhxNUVEYnM5ZzNWdW9mb1QwVEJJTnlSdzI0ajRuaExpN1hGaUxMSEVaYm1RVVlSOVRIMHN0TC1rMm1kb0RQUDk5MFVGbXpuU2NPYjU2LTJHbjNBdjM2eUotUkZEb2FDSDNfcA?oc=5",
+   "title": "高市首相がフィリピン･中国訪問へ出発 韓国やタイなどと首脳会談",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-16T02:20:14+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "고이치 총리, 필리핀·중국 방문을 위해 출국 한국, 태국 등과 정상회담",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "d422a6979b92ced4",
+   "heat": 16.5,
+   "score": 5,
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
+  },
+  {
+   "id": "456de2a88a33519d",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mZHV5QWNXOGhtT0pQMW9NY3NPNnNFMmI4VXUxSXVCSW5aWUlub1VUYXVzbkxCbEhySXUwT3VmbHQ2bERfZjVoMEMyaXlKeE0?oc=5",
+   "title": "東京からおよそ3時間でエントランスに到着。韓国の統合型リゾート「パラダイスシティ」で過ごす、開放感にあふれた刺激的な休日。：アエラスタイルマガジン",
+   "source": "アエラスタイルマガジン",
+   "country": "JP",
+   "published": "2026-11-16T02:11:07+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "도쿄에서 약 3시간 만에 입구에 도착. 한국의 복합 리조트 '파라다이스시티'에서 보내는 개방감이 넘치는 짜릿한 휴가. : 아에라 스타일 매거진",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "456de2a88a33519d",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "50e94c1e94654d7c",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84cENfVGEwWDlYVWJfSlZnRnl2dE9TQnJEd3AyQ3UtQ0tPRE84YzNtUEhZbTlKV2JVSi1IZktMMDRKUFZRRk5kZzhWbVYydU9lWi1ZUHhVdzRmVm9JaW9ES2RJSlRZNHl3?oc=5",
+   "title": "日韓首脳会談、17日にフィリピンで開催 安保分野も協議へ",
+   "source": "毎日新聞",
+   "country": "JP",
+   "published": "2026-11-16T02:00:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한일 정상회담, 17일 필리핀에서 개최 안보 분야도 논의 예정",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "d422a6979b92ced4",
+   "heat": 16.5,
+   "score": 5,
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
+  },
+  {
+   "id": "c99ef490fe797aff",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kYTNBbGVfM2tic3N2Z0dtRWR6ZmNkNGZENW41NmtxS1lBQ043YlhTRjB3UEN4dkY1TUVmZUVmYklCQ2xXX2ZxbUk2TkdkOG02bmczZ0p1MGtGV25OcXc4T2lZUzJuS3BpekYxZzZn?oc=5",
+   "title": "韩国税务师考试“状元”用AI作弊惊动青瓦台，韩官员：正加紧制定应对方案",
+   "source": "人民网韩国频道",
+   "country": "CN",
+   "published": "2026-11-16T01:10:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국 세무사 시험 '수석'이 AI를 이용해 부정행위를 저질러 청와대까지 놀라게 했다. 한국 정부 관계자: 대응 방안 마련에 박차를 가하고 있다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "94d55236301127e9",
+   "heat": 19.5,
+   "score": 5,
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
+  },
+  {
+   "id": "a89371972cf92575",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaemY1aWZSU1R1MnNjaXVQNXJNemdNaWZsUGVwSS1CTTk4RW1KbzQyckNPcDhGZGVBeERyVFJyNlJvdnQ1N2hGUUo5eTN5Q3Z2?oc=5",
+   "title": "韓国の詩を読むなら、この一冊から 書店員おすすめの4冊",
+   "source": "好書好日",
+   "country": "JP",
+   "published": "2026-11-16T01:08:15+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국 시를 읽는다면 이 한 권에서 서점 직원이 추천하는 4권",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "a89371972cf92575",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "fb00bc4760c7cf3b",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGpvY3ZSMGZRMk5qWHE2Z2xOQlJIZHdYem03RVJVYm1FMGZFbVhESnpET0tfbVoyeDdmNFZSNXl2d2lQSExTcVQ4QTBBM0hmel9FTEU4MHVkZmxzaTJaNk5KR3RHNUdSS2NJclliSmFkeWhGSG5HMTA4bUNaV2FWN0lWNGVZOUN1S1JkdVNMVEtNOEpOaVNUaHhTdlAxLXJSSVh1Yy05QzN3YzNNUkVPSzFaLXg?oc=5",
+   "title": "SK Hynix Plans Chip Testing Hub to Boost Smaller Korean Players",
+   "source": "Bloomberg.com",
+   "country": "US",
+   "published": "2026-11-16T00:00:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "SK하이닉스, 소규모 한국 기업 지원을 위한 칩 테스트 허브 구축 계획",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "fb00bc4760c7cf3b",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "c02c9c8ab4175069",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2ZZdGRPUmY2RWlJQzY0RXB2ZktZZDFTT0EwVm9sSFB2ZnJiaGRLWFhIUHIzMVM0ZVlyeFJscmlFT2ZmRk02ckViT291SkY1NVhvaVdIMDZONG1Za29PM2NaN1NkVVJDS3l2ZVE3ZFh0VzNoTUdQLVlJWGZBMGlsd3p5aG1BSUxIR0F1RjgtcnB0elk0MzQwLVh6Y094YnJqQ1lyWmZPbzcwNDlVRW5KdllBTQ?oc=5",
+   "title": "Peak Energy Eyes Korea Green Projects as War Upends Fuel Flows",
+   "source": "Bloomberg.com",
+   "country": "US",
+   "published": "2026-11-16T00:00:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "전쟁으로 인한 연료 공급 차질에 대비해 한국의 친환경 프로젝트에 주목하는 Peak Energy",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "1de1618e6e64adf7",
+   "heat": 9.5,
+   "score": 5,
+   "reason": "5개 매체 · 4개국 보도 (베트남 2, 중국 1, 미국 1, 일본 1)"
+  },
+  {
+   "id": "44d1dd6eb0e4fdc4",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lZUdodXlzcVgxUnVROVBDTkdxSUh6enpBaFFiN1dHWVhobVlCRjJWbkloNlZrb09DR0MyTy1yWDh6bEZQMmpRemlPaVhfMFdqQzZSOEh0ZE1BYjZ4Vm5hb2ZiWW9MMTZYemRGMA?oc=5",
+   "title": "韓国SK、半導体材料・装置の国産支援 中小にヒト・モノ・カネ提供",
+   "source": "日本経済新聞",
+   "country": "JP",
+   "published": "2026-11-16T00:00:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국 SK, 반도체 소재·장비 국산화 지원 중소기업에 인력·물자·자금 제공",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "44d1dd6eb0e4fdc4",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
+  {
+   "id": "8680a23d82c8750d",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX2dmbDBkZDAwTUl4T2NVWXpiWVVxY05HV1lkNTJsWDJEQ3ZELVQ3dVhUcGlwTTlYRlotSFBEQUpyaVFralZtcVRGVFpaWmp6TXh0NkdFdmUxZmFPdzhZVUJlZm02RG9uTjQtNlNNUl9XU1hnWEFWbnhWelA5Sy1LM0xPNHRSa3VqdUViNUpaeGQ5U2E1cGlFWGtyb3A5Z3V4MG5lRQ?oc=5",
+   "title": "Lượng khách quốc tế đến Hàn Quốc lần đầu vượt mốc 20 triệu lượt",
+   "source": "VOV.VN",
+   "country": "VN",
+   "published": "2026-11-15T23:01:00+00:00",
+   "collected": "2026-11-16T22:34:08+00:00",
+   "title_ko": "한국을 방문하는 외국인 관광객 수가 처음으로 2천만 명을 돌파했습니다.",
+   "mode": "free",
+   "korea": [
+    "south"
+   ],
+   "cluster": "8680a23d82c8750d",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
+  },
   {
    "id": "163b88c52cf02a0a",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lUkhabWFtc2EtSGltZVBpQ2VXeE1CUXN0VUVvOGgxd0RjNVhYblpQVlJEWjRRbVN3T1NuR1pQcEhfMHZ2aC1pRmFIMEZERDE4UG1Nb01KdzJuaVJ1bXVSZjNiWVh3aVBr?oc=5",
@@ -14,10 +1152,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "98b89355bcd8f655",
@@ -32,10 +1170,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "702267b10b2b5b6e",
@@ -51,9 +1189,9 @@
     "south"
    ],
    "cluster": "702267b10b2b5b6e",
-   "heat": 1.0,
-   "score": 1,
-   "reason": "단독 보도"
+   "heat": 3.5,
+   "score": 3,
+   "reason": "2개 매체 · 2개국 보도 (미국 1, 일본 1)"
   },
   {
    "id": "d1b1580acc3ef41a",
@@ -86,10 +1224,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "4f285d7c0ed62746",
@@ -107,7 +1245,7 @@
    "cluster": "3d7e338dc2970478",
    "heat": 2.0,
    "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (일본 7)"
+   "reason": "2개 매체 · 1개국 보도 (일본 6)"
   },
   {
    "id": "849e9847d316a514",
@@ -140,10 +1278,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "acb8f17331e0cb18",
@@ -158,10 +1296,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "4009e20c8935534f",
@@ -230,10 +1368,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "d49a70008b3c9dcd",
@@ -248,10 +1386,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "071b66f24f7587d5",
@@ -284,10 +1422,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "be180c6e8181770d",
@@ -302,10 +1440,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "7f502e21ec8aa1ea",
@@ -320,10 +1458,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "b8c212310d980617",
@@ -339,9 +1477,9 @@
     "south"
    ],
    "cluster": "94d55236301127e9",
-   "heat": 12.5,
+   "heat": 19.5,
    "score": 5,
-   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
   },
   {
    "id": "ff6bdc6450ebf3de",
@@ -360,9 +1498,9 @@
     "south"
    ],
    "cluster": "94d55236301127e9",
-   "heat": 12.5,
+   "heat": 19.5,
    "score": 5,
-   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
   },
   {
    "id": "b5008b11a9a0059c",
@@ -377,10 +1515,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "3985fa48d0048df0",
@@ -398,7 +1536,7 @@
    "cluster": "3d7e338dc2970478",
    "heat": 2.0,
    "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (일본 7)"
+   "reason": "2개 매체 · 1개국 보도 (일본 6)"
   },
   {
    "id": "7273caff309b66ea",
@@ -416,7 +1554,7 @@
    "cluster": "7273caff309b66ea",
    "heat": 1.0,
    "score": 1,
-   "reason": "단독 보도"
+   "reason": "1개 매체 · 1개국 보도 (일본 2)"
   },
   {
    "id": "c07ff43290e82418",
@@ -434,10 +1572,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "cb376766a73b296b",
@@ -506,10 +1644,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "d1d8e15e9d5d90ec",
@@ -578,10 +1716,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "0946c8c9a70dbd77",
@@ -615,9 +1753,9 @@
     "south"
    ],
    "cluster": "94d55236301127e9",
-   "heat": 12.5,
+   "heat": 19.5,
    "score": 5,
-   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
   },
   {
    "id": "bb1f0f3839a13d26",
@@ -633,9 +1771,9 @@
     "south"
    ],
    "cluster": "bb1f0f3839a13d26",
-   "heat": 1.0,
-   "score": 1,
-   "reason": "단독 보도"
+   "heat": 2.0,
+   "score": 2,
+   "reason": "2개 매체 · 1개국 보도 (중국 2)"
   },
   {
    "id": "239ce5a471118a38",
@@ -668,10 +1806,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "b969e599e059fe05",
@@ -687,9 +1825,9 @@
     "south"
    ],
    "cluster": "94d55236301127e9",
-   "heat": 12.5,
+   "heat": 19.5,
    "score": 5,
-   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
   },
   {
    "id": "7b53e7f1b157cea2",
@@ -740,10 +1878,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "519ac8b31b3029d1",
@@ -816,9 +1954,9 @@
     "south"
    ],
    "cluster": "94d55236301127e9",
-   "heat": 12.5,
+   "heat": 19.5,
    "score": 5,
-   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
   },
   {
    "id": "0dcb5dac739bbba7",
@@ -837,9 +1975,9 @@
     "south"
    ],
    "cluster": "94d55236301127e9",
-   "heat": 12.5,
+   "heat": 19.5,
    "score": 5,
-   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
   },
   {
    "id": "a43d6f02b4760939",
@@ -890,10 +2028,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "3ff7c540be78bc0e",
@@ -908,10 +2046,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "a7418061d8a97414",
@@ -951,9 +2089,9 @@
     "south"
    ],
    "cluster": "94d55236301127e9",
-   "heat": 12.5,
+   "heat": 19.5,
    "score": 5,
-   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
   },
   {
    "id": "bd212ec0bf543c81",
@@ -1025,10 +2163,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "85f0dfaf2809f70b",
@@ -1079,10 +2217,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "908af2ef9f4661bf",
@@ -1187,10 +2325,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "e5999a0de1d76cf4",
@@ -1277,10 +2415,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "69447477a4d3daad",
@@ -1422,10 +2560,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "ad00bb34caad3c7d",
@@ -1458,10 +2596,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "ae794b09207fa8bf",
@@ -1585,9 +2723,9 @@
     "south"
    ],
    "cluster": "d422a6979b92ced4",
-   "heat": 8.5,
+   "heat": 16.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (중국 8, 일본 1)"
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
   },
   {
    "id": "f67aef8db5ed78b0",
@@ -1620,10 +2758,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "c2cba4c6ba747afa",
@@ -1837,9 +2975,9 @@
     "south"
    ],
    "cluster": "d422a6979b92ced4",
-   "heat": 8.5,
+   "heat": 16.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (중국 8, 일본 1)"
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
   },
   {
    "id": "a7a5442f7b0513e1",
@@ -1950,7 +3088,7 @@
    "cluster": "3d7e338dc2970478",
    "heat": 2.0,
    "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (일본 7)"
+   "reason": "2개 매체 · 1개국 보도 (일본 6)"
   },
   {
    "id": "303437ea9dd38fd5",
@@ -1983,10 +3121,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "5361a1481b300de1",
@@ -2001,10 +3139,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "9d4d3b275127d5bb",
@@ -2055,10 +3193,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "f00212e8de345990",
@@ -2110,10 +3248,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "a6abd43a722ed746",
@@ -2128,10 +3266,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "39c7aefe452242bb",
@@ -2147,9 +3285,9 @@
     "south"
    ],
    "cluster": "d422a6979b92ced4",
-   "heat": 8.5,
+   "heat": 16.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (중국 8, 일본 1)"
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
   },
   {
    "id": "a6c14be2f64a128f",
@@ -2165,9 +3303,9 @@
     "south"
    ],
    "cluster": "d422a6979b92ced4",
-   "heat": 8.5,
+   "heat": 16.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (중국 8, 일본 1)"
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
   },
   {
    "id": "a9733ecdc7b1f8d6",
@@ -2183,9 +3321,9 @@
     "south"
    ],
    "cluster": "d422a6979b92ced4",
-   "heat": 8.5,
+   "heat": 16.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (중국 8, 일본 1)"
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
   },
   {
    "id": "a8c73f30d7a29294",
@@ -2200,10 +3338,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "892366ca5ca639ca",
@@ -2236,10 +3374,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "f8e1b4bff0668f49",
@@ -2272,10 +3410,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "b66982c655cdab02",
@@ -2308,10 +3446,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "58d822b55e4aafa1",
@@ -2326,10 +3464,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "58d822b55e4aafa1",
-   "heat": 1.0,
-   "score": 1,
-   "reason": "단독 보도"
+   "cluster": "94d55236301127e9",
+   "heat": 19.5,
+   "score": 5,
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
   },
   {
    "id": "caf80c5b0219c50a",
@@ -2344,10 +3482,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "2deed75115578e1e",
@@ -2363,9 +3501,9 @@
     "south"
    ],
    "cluster": "d422a6979b92ced4",
-   "heat": 8.5,
+   "heat": 16.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (중국 8, 일본 1)"
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
   },
   {
    "id": "e42e97e781885569",
@@ -2380,10 +3518,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "070169511ee5474e",
@@ -2398,10 +3536,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "d99c9a6ec86b8bec",
@@ -2416,10 +3554,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "4ae3660402f26b76",
@@ -2470,10 +3608,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "3fb66dde28bc582c",
@@ -2545,7 +3683,7 @@
    "cluster": "3d7e338dc2970478",
    "heat": 2.0,
    "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (일본 7)"
+   "reason": "2개 매체 · 1개국 보도 (일본 6)"
   },
   {
    "id": "40f680a56d279af8",
@@ -2560,10 +3698,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "4c724ff685e110a1",
@@ -2596,10 +3734,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "847f3512c11849a5",
@@ -2616,9 +3754,9 @@
     "north"
    ],
    "cluster": "1de1618e6e64adf7",
-   "heat": 4.5,
-   "score": 3,
-   "reason": "3개 매체 · 2개국 보도 (베트남 2, 중국 1)"
+   "heat": 9.5,
+   "score": 5,
+   "reason": "5개 매체 · 4개국 보도 (베트남 2, 중국 1, 미국 1, 일본 1)"
   },
   {
    "id": "9af384f0eec557c1",
@@ -2635,9 +3773,9 @@
     "north"
    ],
    "cluster": "1de1618e6e64adf7",
-   "heat": 4.5,
-   "score": 3,
-   "reason": "3개 매체 · 2개국 보도 (베트남 2, 중국 1)"
+   "heat": 9.5,
+   "score": 5,
+   "reason": "5개 매체 · 4개국 보도 (베트남 2, 중국 1, 미국 1, 일본 1)"
   },
   {
    "id": "058df8f628c19a89",
@@ -2688,10 +3826,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "3652ce79dd497ff7",
@@ -2760,10 +3898,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "2d2fadaf7d38995d",
@@ -2871,10 +4009,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "b3d17964c6d1c28c",
@@ -2997,10 +4135,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "86486e2dd855c4d7",
@@ -3108,7 +4246,7 @@
    "cluster": "2c288804716ea13d",
    "heat": 1.0,
    "score": 1,
-   "reason": "1개 매체 · 1개국 보도 (일본 3)"
+   "reason": "1개 매체 · 1개국 보도 (일본 4)"
   },
   {
    "id": "e7b34a12b4d6d20f",
@@ -3393,10 +4531,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "017645ee060f563f",
@@ -3447,10 +4585,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "3d7e338dc2970478",
-   "heat": 2.0,
-   "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (일본 7)"
+   "cluster": "5e0468c6bb0e1755",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
   },
   {
    "id": "d3152372c461b628",
@@ -3574,9 +4712,9 @@
     "south"
    ],
    "cluster": "d422a6979b92ced4",
-   "heat": 8.5,
+   "heat": 16.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (중국 8, 일본 1)"
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
   },
   {
    "id": "8f49ea3067957921",
@@ -3738,10 +4876,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "6fb2b6eabbfd3964",
@@ -3810,10 +4948,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "49dea88f21d090c4",
@@ -3865,10 +5003,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "0a7827245cff1821",
@@ -3902,9 +5040,9 @@
     "south"
    ],
    "cluster": "94d55236301127e9",
-   "heat": 12.5,
+   "heat": 19.5,
    "score": 5,
-   "reason": "8개 매체 · 4개국 보도 (중국 3, 베트남 3, 일본 1, 미국 1)"
+   "reason": "15개 매체 · 4개국 보도 (중국 6, 베트남 6, 일본 4, 미국 4)"
   },
   {
    "id": "49f73b3bd4750816",
@@ -4108,10 +5246,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "1de1618e6e64adf7",
@@ -4130,9 +5268,9 @@
     "south"
    ],
    "cluster": "1de1618e6e64adf7",
-   "heat": 4.5,
-   "score": 3,
-   "reason": "3개 매체 · 2개국 보도 (베트남 2, 중국 1)"
+   "heat": 9.5,
+   "score": 5,
+   "reason": "5개 매체 · 4개국 보도 (베트남 2, 중국 1, 미국 1, 일본 1)"
   },
   {
    "id": "19d0df152f90829a",
@@ -4238,9 +5376,9 @@
     "south"
    ],
    "cluster": "d422a6979b92ced4",
-   "heat": 8.5,
+   "heat": 16.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (중국 8, 일본 1)"
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
   },
   {
    "id": "7dbd89d3480998e0",
@@ -4313,9 +5451,9 @@
     "south"
    ],
    "cluster": "d422a6979b92ced4",
-   "heat": 8.5,
+   "heat": 16.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (중국 8, 일본 1)"
+   "reason": "12개 매체 · 4개국 보도 (중국 9, 일본 4, 미국 2, 베트남 1)"
   },
   {
    "id": "49d57ae748fb14fc",
@@ -4498,7 +5636,7 @@
    "cluster": "2c288804716ea13d",
    "heat": 1.0,
    "score": 1,
-   "reason": "1개 매체 · 1개국 보도 (일본 3)"
+   "reason": "1개 매체 · 1개국 보도 (일본 4)"
   },
   {
    "id": "6cbd59c67080cc13",
@@ -4531,10 +5669,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "c9e2b009072de4b3",
@@ -4989,7 +6127,7 @@
    "cluster": "3d7e338dc2970478",
    "heat": 2.0,
    "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (일본 7)"
+   "reason": "2개 매체 · 1개국 보도 (일본 6)"
   },
   {
    "id": "7b1bbb2f64e450bd",
@@ -5274,10 +6412,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "b65849430555744e",
@@ -5676,10 +6814,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "aa5695ca6460c95e",
@@ -5820,10 +6958,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "3cdc285ed2e16fcb",
@@ -6115,7 +7253,7 @@
    "cluster": "3d7e338dc2970478",
    "heat": 2.0,
    "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (일본 7)"
+   "reason": "2개 매체 · 1개국 보도 (일본 6)"
   },
   {
    "id": "5e7a345e2295b2d6",
@@ -6187,10 +7325,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "e3796d481c436a27",
+   "cluster": "c2e6176300ce1051",
    "heat": 8.5,
    "score": 5,
-   "reason": "7개 매체 · 2개국 보도 (일본 54, 중국 1)"
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "958caaa74befa517",
@@ -6557,9 +7695,9 @@
     "south"
    ],
    "cluster": "c2e6176300ce1051",
-   "heat": 1.0,
-   "score": 1,
-   "reason": "단독 보도"
+   "heat": 8.5,
+   "score": 5,
+   "reason": "7개 매체 · 2개국 보도 (일본 58, 중국 1)"
   },
   {
    "id": "de9ba734505f3052",
@@ -6664,10 +7802,10 @@
    "korea": [
     "south"
    ],
-   "cluster": "13378171fa7fd868",
-   "heat": 2.0,
-   "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (중국 2)"
+   "cluster": "ce1d3cc8c69106d9",
+   "heat": 1.0,
+   "score": 1,
+   "reason": "단독 보도"
   },
   {
    "id": "2c288804716ea13d",
@@ -6685,7 +7823,7 @@
    "cluster": "2c288804716ea13d",
    "heat": 1.0,
    "score": 1,
-   "reason": "1개 매체 · 1개국 보도 (일본 3)"
+   "reason": "1개 매체 · 1개국 보도 (일본 4)"
   },
   {
    "id": "92db34e922d04648",
@@ -6934,14 +8072,14 @@
    "published": "2026-11-10T01:40:00+00:00",
    "collected": "2026-11-10T03:30:05+00:00",
    "title_ko": "2027년 새해 첫날 티켓을 예약하는 베트남 방문객이 급격히 증가하면서 한국이 갑자기 방문객을 유치했습니다.",
-   "score": 2,
-   "reason": "2개 매체 · 1개국 보도 (베트남 2)",
+   "score": 1,
+   "reason": "단독 보도",
    "mode": "free",
    "korea": [
     "south"
    ],
-   "cluster": "bc120b8daf00f78e",
-   "heat": 2.0
+   "cluster": "23921dc9831165c2",
+   "heat": 1.0
   },
   {
    "id": "fe298494388dfb95",
